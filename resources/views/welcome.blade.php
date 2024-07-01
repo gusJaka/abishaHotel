@@ -241,12 +241,11 @@
     <link data-minify="1" href="{{asset('css/listing.css')}}" rel="stylesheet">
     <link data-minify="1" href="{{asset('css/home.css')}}" rel="stylesheet">
     <link data-minify="1" href="{{asset('css/custom.css')}}" rel="stylesheet">
+    <link data-minify="1" href="{{asset('css/newStyle.css')}}" rel="stylesheet">
 
     <link rel='dns-prefetch' href='//cdnjs.cloudflare.com'/>
     <link rel='dns-prefetch' href='//use.fontawesome.com'/>
-    <script type="rocketlazyloadscript" data-rocket-type="text/javascript">
-
-    </script>
+    <script type="rocketlazyloadscript" data-rocket-type="text/javascript"></script>
     <style id='wp-emoji-styles-inline-css' type='text/css'>
 
         img.wp-smiley, img.emoji {
@@ -734,6 +733,8 @@
             src="{{asset('js/videojs-pannellum-plugin.js')}}" id="panelliumvid-js-js" defer></script>
     <script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="{{asset('js/owl.carousel.js')}}"
             id="owl-js-js" defer></script>
+    <script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="{{asset('js/newScript.js')}}"
+            id="new-script" defer></script>
     <script type="rocketlazyloadscript" data-rocket-type="text/javascript"
             src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js?ver=1"
             id="jquery_cookie-js" defer></script>
@@ -3417,18 +3418,18 @@
                     <div class="col-12 col-sm-4 col-md-4 d-lg-flex align-items-center justify-content-end text-right">
                         <div class="phone_header">
                             <span class="layanan"> </span> <span class="icons">  <div class="follow_us">
-    <ul>
-    <li>
-        <a target="_blank" href="https://api.whatsapp.com/send?phone=6281353254589"><img src=""
-                                                                                     data-src="{{asset('image/wa.png')}}"
-                                                                                     class="lazy"></a>
-    </li>
+{{--    <ul>--}}
+{{--    <li>--}}
+{{--        <a target="_blank" href="https://api.whatsapp.com/send?phone=6281353254589"><img src=""--}}
+{{--                                                                                     data-src="{{asset('image/wa.png')}}"--}}
+{{--                                                                                     class="lazy"></a>--}}
+{{--    </li>--}}
 
 
-        <li><a target="_blank" href="http://www.instagram.com/abishahoteljimbaran"><img
-                    data-src="{{asset('image/instagram.png')}}" alt="" class="lazy"></a></li>
+{{--        <li><a target="_blank" href="http://www.instagram.com/abishahoteljimbaran"><img--}}
+{{--                    data-src="{{asset('image/instagram.png')}}" alt="" class="lazy"></a></li>--}}
 
-    </ul>
+{{--    </ul>--}}
 </div>
                 </span>
                     </div>
@@ -3524,48 +3525,66 @@
 
 </div>
 
-<div id="villa-type" class="top_banner">
-    <div class="opacity-mask d-flex align-items-center">
+<div id="villa-type" class="top_banner mt-4">
+    <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
         <div class="container">
-            <h1>Our Villas Collection</h1>
+            <h1 style="color: #361601"><b>Bali Abisha Sanur Exterior</b></h1>
         </div>
     </div>
 </div>
 <div id="Bliss" class="main_title">
-    <h2>Bliss</h2>
-    <h4> 3 Bedroom Private Pool Villa</h4>
+{{--    <h2>Bliss</h2>--}}
+    <h3 class="mx-5 px-5"> Find your best getaway, let’s experience joyful vacation, and having done your business
+        at the same time at our
+        comfortable accommodation.</h3><br>
+    <h3 class="mx-5 px-5"> BALI ABISHA SANUR HOTEL consist of modern rooms with terrace and pool access.</h3><br>
+    <h3 class="mx-5 px-5"> It is best choice for anyone, either on business trip or vacation.</h3>
 </div>
-<div data-bg="https://balihillstonevillas.com/wp-content/uploads/2022/07/chateau-de-bali_3bed-poolvilla-36-copy.jpg"
+<div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
      class="imgbg1 rocket-lazyload" style=""></div>
 
-<div>
+<div class="">
     <div id="jig1" class="justified-image-grid jig-58d11a5019626c891ccd65d381be89d2 jig-preset-global">
-        <div class="jig-clearfix"></div>
-        <noscript id="jig1-html" class="justified-image-grid-html" data-lazy-src="skiplazyload"
-                  data-src="skipunveillazyload">
-            <ul>
-                <li>
-                    <a href="https://balihillstonevillas.com/wp-content/uploads/2022/07/chateau-de-bali_3bed-poolvilla-24-copy.jpg"><img
-                            src="https://balihillstonevillas.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-24-copy.jpg&amp;h=260&amp;w=347&amp;q=90&amp;f=.jpg"
-                            alt="chateau-de-bali_3bed-poolvilla-(24)-copy" width="347" height="260"/></a>
-                    <p class="jig-HTMLdescription">chateau-de-bali_3bed-poolvilla-(24)-copy<br/></p></li>
-                <li>
-                    <a href="https://balihillstonevillas.com/wp-content/uploads/2022/07/chateau-de-bali_3bed-poolvilla-1024x641.jpg"><img
-                            src="https://balihillstonevillas.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-1024x641.jpg&amp;h=260&amp;w=347&amp;q=90&amp;f=.jpg"
-                            alt="chateau de bali_3bed poolvilla" width="347" height="260"/></a>
-                    <p class="jig-HTMLdescription">chateau de bali_3bed poolvilla<br/></p></li>
-                <li><a href="https://balihillstonevillas.com/wp-content/uploads/2022/07/Villa-Bathroom-1.jpg"><img
-                            src="https://balihillstonevillas.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2FVilla-Bathroom-1.jpg&amp;h=260&amp;w=347&amp;q=90&amp;f=.jpg"
-                            alt="Villa-Bathroom" width="347" height="260"/></a>
-                    <p class="jig-HTMLdescription">Villa-Bathroom<br/></p></li>
-                <li>
-                    <a href="https://balihillstonevillas.com/wp-content/uploads/2022/07/chateau-de-bali_3bed-poolvilla-33-copy.jpg"><img
-                            src="https://balihillstonevillas.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-33-copy.jpg&amp;h=260&amp;w=347&amp;q=90&amp;f=.jpg"
-                            alt="chateau-de-bali_3bed-poolvilla-(33)-copy" width="347" height="260"/></a>
-                    <p class="jig-HTMLdescription">chateau-de-bali_3bed-poolvilla-(33)-copy<br/></p></li>
-            </ul>
-        </noscript>
+        <!-- Trigger the Modal -->
+        <div class="d-flex justify-content-center">
+            <img id="exterior" src="{{asset('image/photos/DSC09729EE.jpg')}}" alt="Gambar 1" style="width:100%;max-width:300px">
+            <img id="bukaPintu" src="{{asset('image/photos/buka-pintu.jpg')}}" alt="Gambar 2" style="width:100%;max-width:300px">
+            <img id="bagasi" src="{{asset('image/photos/bagasi.jpg')}}" alt="Gambar 3" style="width:100%;max-width:300px">
+            <img id="mengantar" src="{{asset('image/photos/mengantar.jpg')}}" alt="Gambar 4" style="width:100%;max-width:300px">
+        </div>
+
     </div>
+</div>
+
+{{--Second Section--}}
+<div id="villa-type" class="top_banner mt-4">
+    <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
+        <div class="container">
+            <h1 style="color: #361601"><b>Bali Abisha Sanur Hotel</b></h1>
+        </div>
+    </div>
+</div>
+<div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
+     class="imgbg1 rocket-lazyload mt-5" style=""></div>
+
+<div class="">
+    <div id="jig1" class="justified-image-grid jig-58d11a5019626c891ccd65d381be89d2 jig-preset-global">
+        <!-- Trigger the Modal -->
+        <div class="d-flex justify-content-center">
+            <img id="exterior" src="{{asset('image/photos/DSC09729EE.jpg')}}" alt="Gambar 1" style="width:100%;max-width:300px">
+            <img id="bukaPintu" src="{{asset('image/photos/buka-pintu.jpg')}}" alt="Gambar 2" style="width:100%;max-width:300px">
+            <img id="bagasi" src="{{asset('image/photos/bagasi.jpg')}}" alt="Gambar 3" style="width:100%;max-width:300px">
+            <img id="mengantar" src="{{asset('image/photos/mengantar.jpg')}}" alt="Gambar 4" style="width:100%;max-width:300px">
+        </div>
+    </div>
+</div>
+<div id="Bliss" class="main_title">
+    {{--    <h2>Bliss</h2>--}}
+    <h3 class="mx-5 px-5"> Find your best getaway, let’s experience joyful vacation, and having done your business
+        at the same time at our
+        comfortable accommodation.</h3><br>
+    <h3 class="mx-5 px-5"> BALI ABISHA SANUR HOTEL consist of modern rooms with terrace and pool access.</h3><br>
+    <h3 class="mx-5 px-5"> It is best choice for anyone, either on business trip or vacation.</h3>
 </div>
 
 
@@ -7277,9 +7296,119 @@
         filter: alpha(opacity=0) !important;
     }
 </style>
-<script type="rocketlazyloadscript" data-rocket-type="text/javascript">window.addEventListener('DOMContentLoaded', function() {
-(function initJIG ($,ready) {if(typeof $.justifiedImageGrid !== "undefined"){if(typeof $.JIGminVersion !== 'undefined' && $.JIGminVersion('1.7') == false){$.JIGminVersion('1.7',true);return;}else{window['jigAddLightbox1'] = function(){$('#jig1 a.jig-link').colorbox({slideshow: false,slideshowSpeed: 3500,slideshowAuto: false,opacity: 0.75,speed: 300,maxWidth: '100%',maxHeight: '100%',current: '{current} / {total}'});};$('#jig1').justifiedImageGrid({"timthumb":"https:\/\/balihillstonevillas.com\/wp-content\/plugins\/justified-image-grid\/timthumb.php","items":[{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-24-copy.jpg","width":347,"title":"chateau-de-bali_3bed-poolvilla-(24)-copy","extra_class":"jig-contentID-ML-117"},{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-1024x641.jpg","width":347,"title":"chateau de bali_3bed poolvilla","extra_class":"jig-contentID-ML-104"},{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2FVilla-Bathroom-1.jpg","width":347,"title":"Villa-Bathroom","extra_class":"jig-contentID-ML-112"},{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-33-copy.jpg","width":347,"title":"chateau-de-bali_3bed-poolvilla-(33)-copy","extra_class":"jig-contentID-ML-111"}],"targetHeight":200,"heightDeviation":60,"aspectRatio":1.3333,"margins":2,"lightbox":"colorbox","innerBorderWidth":0});window['jigAddLightbox2'] = function(){$('#jig2 a.jig-link').colorbox({slideshow: false,slideshowSpeed: 3500,slideshowAuto: false,opacity: 0.75,speed: 300,maxWidth: '100%',maxHeight: '100%',current: '{current} / {total}'});};$('#jig2').justifiedImageGrid({"timthumb":"https:\/\/balihillstonevillas.com\/wp-content\/plugins\/justified-image-grid\/timthumb.php","items":[{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2FVilla-Sunset-II.jpg","width":347,"title":"Villa-Sunset-II","extra_class":"jig-contentID-ML-114"},{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2FVilla-Bathroom-1.jpg","width":347,"title":"Villa-Bathroom","extra_class":"jig-contentID-ML-112"},{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-20-copy.jpg","width":347,"title":"chateau-de-bali_3bed-poolvilla-(20)-copy","extra_class":"jig-contentID-ML-110"},{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-33-copy.jpg","width":347,"title":"chateau-de-bali_3bed-poolvilla-(33)-copy","extra_class":"jig-contentID-ML-111"}],"targetHeight":200,"heightDeviation":60,"aspectRatio":1.3333,"margins":2,"lightbox":"colorbox","instance":2,"lightboxInit":"jigAddLightbox2","innerBorderWidth":0});}}else if(typeof $.justifiedImageGrid === "undefined" && ready == true){if(typeof loadJustifiedImageGrid !== "undefined"){loadJustifiedImageGrid($);initJIG($,true);return;}
-$(".justified-image-grid").html('<span style="color:red;font-weight:bold">The Justified Image Grid JS is not loaded. Try disabling Conditional script loading in the General settings.</span>');}else{$(document).ready(function(){initJIG($,true);});}})(jQuery,false);
+{{--<script type="rocketlazyloadscript" data-rocket-type="text/javascript">window.addEventListener('DOMContentLoaded', function() {--}}
+{{--(function initJIG ($,ready) {if(typeof $.justifiedImageGrid !== "undefined"){if(typeof $.JIGminVersion !== 'undefined' && $.JIGminVersion('1.7') == false){$.JIGminVersion('1.7',true);return;}else{window['jigAddLightbox1'] = function(){$('#jig1 a.jig-link').colorbox({slideshow: false,slideshowSpeed: 3500,slideshowAuto: false,opacity: 0.75,speed: 300,maxWidth: '100%',maxHeight: '100%',current: '{current} / {total}'});};$('#jig1').justifiedImageGrid({"timthumb":"https:\/\/balihillstonevillas.com\/wp-content\/plugins\/justified-image-grid\/timthumb.php","items":[{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-24-copy.jpg","width":347,"title":"chateau-de-bali_3bed-poolvilla-(24)-copy","extra_class":"jig-contentID-ML-117"},{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-1024x641.jpg","width":347,"title":"chateau de bali_3bed poolvilla","extra_class":"jig-contentID-ML-104"},{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2FVilla-Bathroom-1.jpg","width":347,"title":"Villa-Bathroom","extra_class":"jig-contentID-ML-112"},{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-33-copy.jpg","width":347,"title":"chateau-de-bali_3bed-poolvilla-(33)-copy","extra_class":"jig-contentID-ML-111"}],"targetHeight":200,"heightDeviation":60,"aspectRatio":1.3333,"margins":2,"lightbox":"colorbox","innerBorderWidth":0});window['jigAddLightbox2'] = function(){$('#jig2 a.jig-link').colorbox({slideshow: false,slideshowSpeed: 3500,slideshowAuto: false,opacity: 0.75,speed: 300,maxWidth: '100%',maxHeight: '100%',current: '{current} / {total}'});};$('#jig2').justifiedImageGrid({"timthumb":"https:\/\/balihillstonevillas.com\/wp-content\/plugins\/justified-image-grid\/timthumb.php","items":[{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2FVilla-Sunset-II.jpg","width":347,"title":"Villa-Sunset-II","extra_class":"jig-contentID-ML-114"},{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2FVilla-Bathroom-1.jpg","width":347,"title":"Villa-Bathroom","extra_class":"jig-contentID-ML-112"},{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-20-copy.jpg","width":347,"title":"chateau-de-bali_3bed-poolvilla-(20)-copy","extra_class":"jig-contentID-ML-110"},{"url":"https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-33-copy.jpg","width":347,"title":"chateau-de-bali_3bed-poolvilla-(33)-copy","extra_class":"jig-contentID-ML-111"}],"targetHeight":200,"heightDeviation":60,"aspectRatio":1.3333,"margins":2,"lightbox":"colorbox","instance":2,"lightboxInit":"jigAddLightbox2","innerBorderWidth":0});}}else if(typeof $.justifiedImageGrid === "undefined" && ready == true){if(typeof loadJustifiedImageGrid !== "undefined"){loadJustifiedImageGrid($);initJIG($,true);return;}--}}
+{{--$(".justified-image-grid").html('<span style="color:red;font-weight:bold">The Justified Image Grid JS is not loaded. Try disabling Conditional script loading in the General settings.</span>');}else{$(document).ready(function(){initJIG($,true);});}})(jQuery,false);--}}
+{{--});--}}
+{{--</script>--}}
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+    window.addEventListener('DOMContentLoaded', function() {
+    (function initJIG($, ready) {
+        if (typeof $.justifiedImageGrid !== "undefined") {
+            if (typeof $.JIGminVersion !== 'undefined' && $.JIGminVersion('1.7') == false) {
+                $.JIGminVersion('1.7', true);
+                return;
+            } else {
+                window['jigAddLightbox1'] = function() {
+                    $('#jig1 a.jig-link').colorbox({
+                        slideshow: false,
+                        slideshowSpeed: 3500,
+                        slideshowAuto: false,
+                        opacity: 0.75,
+                        speed: 300,
+                        maxWidth: '100%',
+                        maxHeight: '100%',
+                        current: '{current} / {total}'
+                    });
+                };
+                $('#jig1').justifiedImageGrid({
+                    "timthumb": "https:\/\/balihillstonevillas.com\/wp-content\/plugins\/justified-image-grid\/timthumb.php",
+                    "items": [{
+                        "url": "{{asset('image/photos/DSC09729EE.jpg')}}",
+                        "width": 347,
+                        "title": "Parkir",
+                        "extra_class": "jig-contentID-ML-117"
+                    }, {
+                        "url": "https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-1024x641.jpg",
+                        "width": 347,
+                        "title": "chateau de bali_3bed poolvilla",
+                        "extra_class": "jig-contentID-ML-104"
+                    }, {
+                        "url": "https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2FVilla-Bathroom-1.jpg",
+                        "width": 347,
+                        "title": "Villa-Bathroom",
+                        "extra_class": "jig-contentID-ML-112"
+                    }, {
+                        "url": "https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-33-copy.jpg",
+                        "width": 347,
+                        "title": "chateau-de-bali_3bed-poolvilla-(33)-copy",
+                        "extra_class": "jig-contentID-ML-111"
+                    }],
+                    "targetHeight": 200,
+                    "heightDeviation": 60,
+                    "aspectRatio": 1.3333,
+                    "margins": 2,
+                    "lightbox": "colorbox",
+                    "innerBorderWidth": 0
+                });
+                window['jigAddLightbox2'] = function() {
+                    $('#jig2 a.jig-link').colorbox({
+                        slideshow: false,
+                        slideshowSpeed: 3500,
+                        slideshowAuto: false,
+                        opacity: 0.75,
+                        speed: 300,
+                        maxWidth: '100%',
+                        maxHeight: '100%',
+                        current: '{current} / {total}'
+                    });
+                };
+                $('#jig2').justifiedImageGrid({
+                    "timthumb": "https:\/\/balihillstonevillas.com\/wp-content\/plugins\/justified-image-grid\/timthumb.php",
+                    "items": [{
+                        "url": "https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2FVilla-Sunset-II.jpg",
+                        "width": 347,
+                        "title": "Villa-Sunset-II",
+                        "extra_class": "jig-contentID-ML-114"
+                    }, {
+                        "url": "https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2FVilla-Bathroom-1.jpg",
+                        "width": 347,
+                        "title": "Villa-Bathroom",
+                        "extra_class": "jig-contentID-ML-112"
+                    }, {
+                        "url": "https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-20-copy.jpg",
+                        "width": 347,
+                        "title": "chateau-de-bali_3bed-poolvilla-(20)-copy",
+                        "extra_class": "jig-contentID-ML-110"
+                    }, {
+                        "url": "https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-33-copy.jpg",
+                        "width": 347,
+                        "title": "chateau-de-bali_3bed-poolvilla-(33)-copy",
+                        "extra_class": "jig-contentID-ML-111"
+                    }],
+                    "targetHeight": 200,
+                    "heightDeviation": 60,
+                    "aspectRatio": 1.3333,
+                    "margins": 2,
+                    "lightbox": "colorbox",
+                    "instance": 2,
+                    "lightboxInit": "jigAddLightbox2",
+                    "innerBorderWidth": 0
+                });
+            }
+        } else if (typeof $.justifiedImageGrid === "undefined" && ready == true) {
+            if (typeof loadJustifiedImageGrid !== "undefined") {
+                loadJustifiedImageGrid($);
+                initJIG($, true);
+                return;
+            }
+            $(".justified-image-grid").html('<span style="color:red;font-weight:bold">The Justified Image Grid JS is not loaded. Try disabling Conditional script loading in the General settings.</span>');
+        } else {
+            $(document).ready(function() {
+                initJIG($, true);
+            });
+        }
+    })(jQuery, false);
 });
 </script>
 <script>window.lazyLoadOptions = {
@@ -7361,5 +7490,30 @@ $(".justified-image-grid").html('<span style="color:red;font-weight:bold">The Ju
         for (t = 0; t < a.length; t++) e = document.createElement("div"), e.setAttribute("data-id", a[t].dataset.id), e.setAttribute("data-query", a[t].dataset.query), e.setAttribute("data-src", a[t].dataset.src), e.innerHTML = lazyLoadThumb(a[t].dataset.id), a[t].appendChild(e), p = e.querySelector('.play'), p.onclick = lazyLoadYoutubeIframe
     });</script>
 </body>
+
 </html>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1719624557 -->
+
+<!-- The Modal -->
+<div id="exteriorModal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img01">
+    <div id="caption1"></div>
+</div>
+<div id="bukaPintuModal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img02">
+    <div id="caption2"></div>
+</div>
+<div id="bagasiModal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img03">
+    <div id="caption3"></div>
+</div>
+<div id="mengantarModal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img04">
+    <div id="caption4"></div>
+</div>
+
+<script src="{{ asset('js/newScript.js') }}" type="text/javascript"></script>
+
