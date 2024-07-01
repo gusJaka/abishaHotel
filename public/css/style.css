@@ -4853,7 +4853,7 @@ ul.list_ok li:last-child {
     transform: scale(0.7);
     width: 46px;
     height: 46px;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: darkgreen;
     opacity: 1;
     transition: all 0.3s;
     border-radius: 50%;
@@ -4870,7 +4870,6 @@ ul.list_ok li:last-child {
 }
 #toTop:after {
     font-family: "themify";
-    content: "\e648";
     position: relative;
     display: block;
     top: 50%;
