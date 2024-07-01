@@ -3528,7 +3528,7 @@
 <div id="villa-type" class="top_banner mt-4">
     <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
         <div class="container">
-            <h1 style="color: #361601"><b>Bali Abisha Sanur Exterior</b></h1>
+            <h1 style="color: #361601"><b>Experience the Joyful Vacation</b></h1>
         </div>
     </div>
 </div>
@@ -3536,12 +3536,12 @@
 {{--    <h2>Bliss</h2>--}}
     <h3 class="mx-5 px-5"> Find your best getaway, let’s experience joyful vacation, and having done your business
         at the same time at our
-        comfortable accommodation.</h3><br>
-    <h3 class="mx-5 px-5"> BALI ABISHA SANUR HOTEL consist of modern rooms with terrace and pool access.</h3><br>
+        comfortable accommodation.</h3>
+    <h3 class="mx-5 px-5"> BALI ABISHA SANUR HOTEL consist of modern rooms with terrace and pool access.</h3>
     <h3 class="mx-5 px-5"> It is best choice for anyone, either on business trip or vacation.</h3>
 </div>
 <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
-     class="imgbg1 rocket-lazyload" style=""></div>
+     class="imgbg1 rocket-lazyload mx-5"></div>
 
 <div class="">
     <div id="jig1" class="justified-image-grid jig-58d11a5019626c891ccd65d381be89d2 jig-preset-global">
@@ -3560,7 +3560,7 @@
 <div id="villa-type" class="top_banner mt-4">
     <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
         <div class="container">
-            <h1 style="color: #361601"><b>Bali Abisha Sanur Hotel</b></h1>
+            <h1 style="color: #361601"><b>Bali Abisha's Excelent Customer Service</b></h1>
         </div>
     </div>
 </div>
@@ -3582,2782 +3582,83 @@
     {{--    <h2>Bliss</h2>--}}
     <h3 class="mx-5 px-5">  Esteemed guests are welcome to relax and unwind in a quiet feels-like-home and family friendly setting in the most
         popular area for the best sunrise spots in Bali.</h3>
-    <h3 class="mx-5 px-5 pt-3"> Our guests will be assisted by friendly and helpful staff from check in process, during in house until check out time.</h3><br>
+    <h3 class="mx-5 px-5"> Our guests will be assisted by friendly and helpful staff from check in process, during in house until check out time.</h3><br>
 </div>
 
-
-<div class="tectbox margin_30">
-    <div class="row">
-
-        <div class="col-md-6">
-            <div class="ss">
-                <h2>Bliss - View 360</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut aliquet tortor. Vestibulum nec
-                    odio quis nunc sodales mattis. Morbi maximus dolor velit, hendrerit egestas arcu cursus tempor.</p>
-            </div>
-        </div>
-
-
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano134 div.pnlm-hotspot-base.fas,
-                    #pano134 div.pnlm-hotspot-base.fab,
-                    #pano134 div.pnlm-hotspot-base.fa,
-                    #pano134 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano134 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano134 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano134 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano134 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano134" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer134" style="display: none"><span
-                            class="close-explainer-video"><i class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="134"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="134"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano134"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/IMG_20220617_211321_973-scaled.jpg","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/IMG_20220617_211321_973-scaled.jpg","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow134 = pannellum.viewer(response[0]["panoid"], scenes);panoshow134.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano134").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls134").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls134").css("bottom", "5px");
-	           }
-					});panoshow134.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow134.on("load", function (){
-						 setTimeout(function(){ panoshow134.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow134.on("scenechange", function (){
-						 setTimeout(function(){ panoshow134.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_134",function() {
-                jQuery("#explainer134").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols134").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl134").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide134 = "down";
-		          jQuery(document).on("click","#vrgcontrols134",function() {
-
-		            if (slide134 == "up") {
-		              jQuery(".vrgctrl134").empty();
-		              jQuery(".vrgctrl134").html('<i class="fa fa-angle-up"></i>');
-		              slide134 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl134").empty();
-		              jQuery(".vrgctrl134").html('<i class="fa fa-angle-down"></i>');
-		              slide134 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols134").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls134").hide();
-                    jQuery("#zoom-in-out-controls134").hide();
-                    jQuery("#adcontrol134").hide();
-                    jQuery("#pano134").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow134.on("load", function (){
-                    jQuery("#controls134").show();
-                    jQuery("#zoom-in-out-controls134").show();
-                    jQuery("#adcontrol134").show();
-                    jQuery("#pano134").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "134") {
-                          jQuery("#pano134").children(".pnlm-render-container").remove();
-                          jQuery("#pano134").children(".pnlm-ui").remove();
-                          panoshow134 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano134").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow134.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano134").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls134").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls134").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano134").children(".pnlm-render-container").remove();
-              jQuery("#pano134").children(".pnlm-ui").remove();
-              panoshow134 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow134.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano134").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls134").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls134").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano134").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">Pool & Garden</div>
-        </div>
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano135 div.pnlm-hotspot-base.fas,
-                    #pano135 div.pnlm-hotspot-base.fab,
-                    #pano135 div.pnlm-hotspot-base.fa,
-                    #pano135 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano135 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano135 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano135 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano135 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano135" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer135" style="display: none"><span
-                            class="close-explainer-video"><i class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="135"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="135"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano135"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Dining-Room-Kitchen.jpg","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Dining-Room-Kitchen.jpg","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow135 = pannellum.viewer(response[0]["panoid"], scenes);panoshow135.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano135").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls135").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls135").css("bottom", "5px");
-	           }
-					});panoshow135.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow135.on("load", function (){
-						 setTimeout(function(){ panoshow135.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow135.on("scenechange", function (){
-						 setTimeout(function(){ panoshow135.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_135",function() {
-                jQuery("#explainer135").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols135").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl135").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide135 = "down";
-		          jQuery(document).on("click","#vrgcontrols135",function() {
-
-		            if (slide135 == "up") {
-		              jQuery(".vrgctrl135").empty();
-		              jQuery(".vrgctrl135").html('<i class="fa fa-angle-up"></i>');
-		              slide135 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl135").empty();
-		              jQuery(".vrgctrl135").html('<i class="fa fa-angle-down"></i>');
-		              slide135 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols135").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls135").hide();
-                    jQuery("#zoom-in-out-controls135").hide();
-                    jQuery("#adcontrol135").hide();
-                    jQuery("#pano135").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow135.on("load", function (){
-                    jQuery("#controls135").show();
-                    jQuery("#zoom-in-out-controls135").show();
-                    jQuery("#adcontrol135").show();
-                    jQuery("#pano135").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "135") {
-                          jQuery("#pano135").children(".pnlm-render-container").remove();
-                          jQuery("#pano135").children(".pnlm-ui").remove();
-                          panoshow135 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano135").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow135.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano135").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls135").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls135").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano135").children(".pnlm-render-container").remove();
-              jQuery("#pano135").children(".pnlm-ui").remove();
-              panoshow135 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow135.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano135").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls135").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls135").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano135").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">Living Room</div>
-        </div>
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano136 div.pnlm-hotspot-base.fas,
-                    #pano136 div.pnlm-hotspot-base.fab,
-                    #pano136 div.pnlm-hotspot-base.fa,
-                    #pano136 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano136 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano136 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano136 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano136 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano136" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer136" style="display: none"><span
-                            class="close-explainer-video"><i class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="136"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="136"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano136"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/1.jpg","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/1.jpg","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow136 = pannellum.viewer(response[0]["panoid"], scenes);panoshow136.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano136").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls136").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls136").css("bottom", "5px");
-	           }
-					});panoshow136.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow136.on("load", function (){
-						 setTimeout(function(){ panoshow136.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow136.on("scenechange", function (){
-						 setTimeout(function(){ panoshow136.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_136",function() {
-                jQuery("#explainer136").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols136").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl136").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide136 = "down";
-		          jQuery(document).on("click","#vrgcontrols136",function() {
-
-		            if (slide136 == "up") {
-		              jQuery(".vrgctrl136").empty();
-		              jQuery(".vrgctrl136").html('<i class="fa fa-angle-up"></i>');
-		              slide136 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl136").empty();
-		              jQuery(".vrgctrl136").html('<i class="fa fa-angle-down"></i>');
-		              slide136 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols136").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls136").hide();
-                    jQuery("#zoom-in-out-controls136").hide();
-                    jQuery("#adcontrol136").hide();
-                    jQuery("#pano136").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow136.on("load", function (){
-                    jQuery("#controls136").show();
-                    jQuery("#zoom-in-out-controls136").show();
-                    jQuery("#adcontrol136").show();
-                    jQuery("#pano136").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "136") {
-                          jQuery("#pano136").children(".pnlm-render-container").remove();
-                          jQuery("#pano136").children(".pnlm-ui").remove();
-                          panoshow136 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano136").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow136.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano136").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls136").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls136").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano136").children(".pnlm-render-container").remove();
-              jQuery("#pano136").children(".pnlm-ui").remove();
-              panoshow136 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow136.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano136").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls136").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls136").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano136").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">Dining Room & Kitchen</div>
-        </div>
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano137 div.pnlm-hotspot-base.fas,
-                    #pano137 div.pnlm-hotspot-base.fab,
-                    #pano137 div.pnlm-hotspot-base.fa,
-                    #pano137 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano137 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano137 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano137 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano137 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano137" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer137" style="display: none"><span
-                            class="close-explainer-video"><i class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="137"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="137"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano137"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/room2-8-scaled.jpg","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/room2-8-scaled.jpg","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow137 = pannellum.viewer(response[0]["panoid"], scenes);panoshow137.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano137").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls137").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls137").css("bottom", "5px");
-	           }
-					});panoshow137.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow137.on("load", function (){
-						 setTimeout(function(){ panoshow137.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow137.on("scenechange", function (){
-						 setTimeout(function(){ panoshow137.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_137",function() {
-                jQuery("#explainer137").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols137").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl137").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide137 = "down";
-		          jQuery(document).on("click","#vrgcontrols137",function() {
-
-		            if (slide137 == "up") {
-		              jQuery(".vrgctrl137").empty();
-		              jQuery(".vrgctrl137").html('<i class="fa fa-angle-up"></i>');
-		              slide137 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl137").empty();
-		              jQuery(".vrgctrl137").html('<i class="fa fa-angle-down"></i>');
-		              slide137 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols137").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls137").hide();
-                    jQuery("#zoom-in-out-controls137").hide();
-                    jQuery("#adcontrol137").hide();
-                    jQuery("#pano137").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow137.on("load", function (){
-                    jQuery("#controls137").show();
-                    jQuery("#zoom-in-out-controls137").show();
-                    jQuery("#adcontrol137").show();
-                    jQuery("#pano137").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "137") {
-                          jQuery("#pano137").children(".pnlm-render-container").remove();
-                          jQuery("#pano137").children(".pnlm-ui").remove();
-                          panoshow137 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano137").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow137.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano137").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls137").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls137").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano137").children(".pnlm-render-container").remove();
-              jQuery("#pano137").children(".pnlm-ui").remove();
-              panoshow137 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow137.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano137").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls137").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls137").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano137").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">3 Bedroom</div>
-        </div>
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano138 div.pnlm-hotspot-base.fas,
-                    #pano138 div.pnlm-hotspot-base.fab,
-                    #pano138 div.pnlm-hotspot-base.fa,
-                    #pano138 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano138 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano138 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano138 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano138 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano138" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer138" style="display: none"><span
-                            class="close-explainer-video"><i class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="138"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="138"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano138"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Bathroom1-1.jpg","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Bathroom1-1.jpg","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow138 = pannellum.viewer(response[0]["panoid"], scenes);panoshow138.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano138").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls138").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls138").css("bottom", "5px");
-	           }
-					});panoshow138.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow138.on("load", function (){
-						 setTimeout(function(){ panoshow138.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow138.on("scenechange", function (){
-						 setTimeout(function(){ panoshow138.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_138",function() {
-                jQuery("#explainer138").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols138").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl138").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide138 = "down";
-		          jQuery(document).on("click","#vrgcontrols138",function() {
-
-		            if (slide138 == "up") {
-		              jQuery(".vrgctrl138").empty();
-		              jQuery(".vrgctrl138").html('<i class="fa fa-angle-up"></i>');
-		              slide138 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl138").empty();
-		              jQuery(".vrgctrl138").html('<i class="fa fa-angle-down"></i>');
-		              slide138 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols138").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls138").hide();
-                    jQuery("#zoom-in-out-controls138").hide();
-                    jQuery("#adcontrol138").hide();
-                    jQuery("#pano138").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow138.on("load", function (){
-                    jQuery("#controls138").show();
-                    jQuery("#zoom-in-out-controls138").show();
-                    jQuery("#adcontrol138").show();
-                    jQuery("#pano138").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "138") {
-                          jQuery("#pano138").children(".pnlm-render-container").remove();
-                          jQuery("#pano138").children(".pnlm-ui").remove();
-                          panoshow138 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano138").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow138.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano138").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls138").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls138").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano138").children(".pnlm-render-container").remove();
-              jQuery("#pano138").children(".pnlm-ui").remove();
-              panoshow138 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow138.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano138").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls138").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls138").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano138").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">Bathroom</div>
-        </div>
-
-    </div>
-</div>
-
-
-<div id="Joy" class="main_title">
-    <h2>Joy</h2>
-    <h4> 2 Bedroom Private Pool Villa</h4>
-</div>
-<div data-bg="https://balihillstonevillas.com/wp-content/uploads/2022/07/Villa-Mainroom2.jpg"
-     class="imgbg1 rocket-lazyload" style=""></div>
-
-<div>
-    <div id="jig2" class="justified-image-grid jig-959d4931b86fa8a8e10837c157e8dd97 jig-preset-global">
-        <div class="jig-clearfix"></div>
-        <noscript id="jig2-html" class="justified-image-grid-html" data-lazy-src="skiplazyload"
-                  data-src="skipunveillazyload">
-            <ul>
-                <li><a href="https://balihillstonevillas.com/wp-content/uploads/2022/07/Villa-Sunset-II.jpg"><img
-                            src="https://balihillstonevillas.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2FVilla-Sunset-II.jpg&amp;h=260&amp;w=347&amp;q=90&amp;f=.jpg"
-                            alt="Villa-Sunset-II" width="347" height="260"/></a>
-                    <p class="jig-HTMLdescription">Villa-Sunset-II<br/></p></li>
-                <li><a href="https://balihillstonevillas.com/wp-content/uploads/2022/07/Villa-Bathroom-1.jpg"><img
-                            src="https://balihillstonevillas.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2FVilla-Bathroom-1.jpg&amp;h=260&amp;w=347&amp;q=90&amp;f=.jpg"
-                            alt="Villa-Bathroom" width="347" height="260"/></a>
-                    <p class="jig-HTMLdescription">Villa-Bathroom<br/></p></li>
-                <li>
-                    <a href="https://balihillstonevillas.com/wp-content/uploads/2022/07/chateau-de-bali_3bed-poolvilla-20-copy.jpg"><img
-                            src="https://balihillstonevillas.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-20-copy.jpg&amp;h=260&amp;w=347&amp;q=90&amp;f=.jpg"
-                            alt="chateau-de-bali_3bed-poolvilla-(20)-copy" width="347" height="260"/></a>
-                    <p class="jig-HTMLdescription">chateau-de-bali_3bed-poolvilla-(20)-copy<br/></p></li>
-                <li>
-                    <a href="https://balihillstonevillas.com/wp-content/uploads/2022/07/chateau-de-bali_3bed-poolvilla-33-copy.jpg"><img
-                            src="https://balihillstonevillas.com/wp-content/plugins/justified-image-grid/timthumb.php?src=https%3A%2F%2Fbalihillstonevillas.com%2Fwp-content%2Fuploads%2F2022%2F07%2Fchateau-de-bali_3bed-poolvilla-33-copy.jpg&amp;h=260&amp;w=347&amp;q=90&amp;f=.jpg"
-                            alt="chateau-de-bali_3bed-poolvilla-(33)-copy" width="347" height="260"/></a>
-                    <p class="jig-HTMLdescription">chateau-de-bali_3bed-poolvilla-(33)-copy<br/></p></li>
-            </ul>
-        </noscript>
-    </div>
-</div>
-
-
-<div class="tectbox margin_30">
-    <div class="row">
-
-        <div class="col-md-6">
-            <div class="ss">
-                <h2>Joy - View 360</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut aliquet tortor. Vestibulum nec
-                    odio quis nunc sodales mattis. Morbi maximus dolor velit, hendrerit egestas arcu cursus tempor.</p>
-            </div>
-        </div>
-
-
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano126 div.pnlm-hotspot-base.fas,
-                    #pano126 div.pnlm-hotspot-base.fab,
-                    #pano126 div.pnlm-hotspot-base.fa,
-                    #pano126 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano126 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano126 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano126 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano126 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano126" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer126" style="display: none"><span
-                            class="close-explainer-video"><i class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="126"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="126"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano126"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Untitled_Panorama11.png","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Untitled_Panorama11.png","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow126 = pannellum.viewer(response[0]["panoid"], scenes);panoshow126.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano126").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls126").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls126").css("bottom", "5px");
-	           }
-					});panoshow126.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow126.on("load", function (){
-						 setTimeout(function(){ panoshow126.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow126.on("scenechange", function (){
-						 setTimeout(function(){ panoshow126.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_126",function() {
-                jQuery("#explainer126").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols126").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl126").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide126 = "down";
-		          jQuery(document).on("click","#vrgcontrols126",function() {
-
-		            if (slide126 == "up") {
-		              jQuery(".vrgctrl126").empty();
-		              jQuery(".vrgctrl126").html('<i class="fa fa-angle-up"></i>');
-		              slide126 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl126").empty();
-		              jQuery(".vrgctrl126").html('<i class="fa fa-angle-down"></i>');
-		              slide126 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols126").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls126").hide();
-                    jQuery("#zoom-in-out-controls126").hide();
-                    jQuery("#adcontrol126").hide();
-                    jQuery("#pano126").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow126.on("load", function (){
-                    jQuery("#controls126").show();
-                    jQuery("#zoom-in-out-controls126").show();
-                    jQuery("#adcontrol126").show();
-                    jQuery("#pano126").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "126") {
-                          jQuery("#pano126").children(".pnlm-render-container").remove();
-                          jQuery("#pano126").children(".pnlm-ui").remove();
-                          panoshow126 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano126").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow126.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano126").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls126").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls126").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano126").children(".pnlm-render-container").remove();
-              jQuery("#pano126").children(".pnlm-ui").remove();
-              panoshow126 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow126.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano126").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls126").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls126").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano126").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">Pool & Garden</div>
-        </div>
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano127 div.pnlm-hotspot-base.fas,
-                    #pano127 div.pnlm-hotspot-base.fab,
-                    #pano127 div.pnlm-hotspot-base.fa,
-                    #pano127 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano127 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano127 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano127 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano127 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano127" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer127" style="display: none"><span
-                            class="close-explainer-video"><i class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="127"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="127"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano127"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Dining-Room-Kitchen.jpg","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Dining-Room-Kitchen.jpg","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow127 = pannellum.viewer(response[0]["panoid"], scenes);panoshow127.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano127").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls127").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls127").css("bottom", "5px");
-	           }
-					});panoshow127.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow127.on("load", function (){
-						 setTimeout(function(){ panoshow127.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow127.on("scenechange", function (){
-						 setTimeout(function(){ panoshow127.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_127",function() {
-                jQuery("#explainer127").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols127").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl127").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide127 = "down";
-		          jQuery(document).on("click","#vrgcontrols127",function() {
-
-		            if (slide127 == "up") {
-		              jQuery(".vrgctrl127").empty();
-		              jQuery(".vrgctrl127").html('<i class="fa fa-angle-up"></i>');
-		              slide127 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl127").empty();
-		              jQuery(".vrgctrl127").html('<i class="fa fa-angle-down"></i>');
-		              slide127 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols127").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls127").hide();
-                    jQuery("#zoom-in-out-controls127").hide();
-                    jQuery("#adcontrol127").hide();
-                    jQuery("#pano127").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow127.on("load", function (){
-                    jQuery("#controls127").show();
-                    jQuery("#zoom-in-out-controls127").show();
-                    jQuery("#adcontrol127").show();
-                    jQuery("#pano127").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "127") {
-                          jQuery("#pano127").children(".pnlm-render-container").remove();
-                          jQuery("#pano127").children(".pnlm-ui").remove();
-                          panoshow127 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano127").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow127.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano127").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls127").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls127").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano127").children(".pnlm-render-container").remove();
-              jQuery("#pano127").children(".pnlm-ui").remove();
-              panoshow127 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow127.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano127").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls127").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls127").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano127").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">Living Room</div>
-        </div>
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano128 div.pnlm-hotspot-base.fas,
-                    #pano128 div.pnlm-hotspot-base.fab,
-                    #pano128 div.pnlm-hotspot-base.fa,
-                    #pano128 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano128 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano128 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano128 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano128 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano128" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer128" style="display: none"><span
-                            class="close-explainer-video"><i class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="128"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="128"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano128"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/1.jpg","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/1.jpg","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow128 = pannellum.viewer(response[0]["panoid"], scenes);panoshow128.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano128").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls128").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls128").css("bottom", "5px");
-	           }
-					});panoshow128.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow128.on("load", function (){
-						 setTimeout(function(){ panoshow128.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow128.on("scenechange", function (){
-						 setTimeout(function(){ panoshow128.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_128",function() {
-                jQuery("#explainer128").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols128").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl128").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide128 = "down";
-		          jQuery(document).on("click","#vrgcontrols128",function() {
-
-		            if (slide128 == "up") {
-		              jQuery(".vrgctrl128").empty();
-		              jQuery(".vrgctrl128").html('<i class="fa fa-angle-up"></i>');
-		              slide128 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl128").empty();
-		              jQuery(".vrgctrl128").html('<i class="fa fa-angle-down"></i>');
-		              slide128 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols128").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls128").hide();
-                    jQuery("#zoom-in-out-controls128").hide();
-                    jQuery("#adcontrol128").hide();
-                    jQuery("#pano128").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow128.on("load", function (){
-                    jQuery("#controls128").show();
-                    jQuery("#zoom-in-out-controls128").show();
-                    jQuery("#adcontrol128").show();
-                    jQuery("#pano128").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "128") {
-                          jQuery("#pano128").children(".pnlm-render-container").remove();
-                          jQuery("#pano128").children(".pnlm-ui").remove();
-                          panoshow128 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano128").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow128.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano128").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls128").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls128").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano128").children(".pnlm-render-container").remove();
-              jQuery("#pano128").children(".pnlm-ui").remove();
-              panoshow128 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow128.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano128").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls128").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls128").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano128").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">Dining Room & Kitchen</div>
-        </div>
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano129 div.pnlm-hotspot-base.fas,
-                    #pano129 div.pnlm-hotspot-base.fab,
-                    #pano129 div.pnlm-hotspot-base.fa,
-                    #pano129 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano129 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano129 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano129 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano129 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano129" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer129" style="display: none"><span
-                            class="close-explainer-video"><i class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="129"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="129"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano129"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/room2-8-scaled.jpg","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/room2-8-scaled.jpg","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow129 = pannellum.viewer(response[0]["panoid"], scenes);panoshow129.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano129").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls129").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls129").css("bottom", "5px");
-	           }
-					});panoshow129.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow129.on("load", function (){
-						 setTimeout(function(){ panoshow129.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow129.on("scenechange", function (){
-						 setTimeout(function(){ panoshow129.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_129",function() {
-                jQuery("#explainer129").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols129").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl129").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide129 = "down";
-		          jQuery(document).on("click","#vrgcontrols129",function() {
-
-		            if (slide129 == "up") {
-		              jQuery(".vrgctrl129").empty();
-		              jQuery(".vrgctrl129").html('<i class="fa fa-angle-up"></i>');
-		              slide129 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl129").empty();
-		              jQuery(".vrgctrl129").html('<i class="fa fa-angle-down"></i>');
-		              slide129 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols129").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls129").hide();
-                    jQuery("#zoom-in-out-controls129").hide();
-                    jQuery("#adcontrol129").hide();
-                    jQuery("#pano129").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow129.on("load", function (){
-                    jQuery("#controls129").show();
-                    jQuery("#zoom-in-out-controls129").show();
-                    jQuery("#adcontrol129").show();
-                    jQuery("#pano129").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "129") {
-                          jQuery("#pano129").children(".pnlm-render-container").remove();
-                          jQuery("#pano129").children(".pnlm-ui").remove();
-                          panoshow129 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano129").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow129.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano129").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls129").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls129").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano129").children(".pnlm-render-container").remove();
-              jQuery("#pano129").children(".pnlm-ui").remove();
-              panoshow129 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow129.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano129").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls129").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls129").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano129").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">2 Bedroom</div>
-        </div>
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano131 div.pnlm-hotspot-base.fas,
-                    #pano131 div.pnlm-hotspot-base.fab,
-                    #pano131 div.pnlm-hotspot-base.fa,
-                    #pano131 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano131 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano131 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano131 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano131 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano131" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer131" style="display: none"><span
-                            class="close-explainer-video"><i class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="131"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="131"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano131"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Bathroom.jpg","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Bathroom.jpg","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow131 = pannellum.viewer(response[0]["panoid"], scenes);panoshow131.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano131").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls131").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls131").css("bottom", "5px");
-	           }
-					});panoshow131.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow131.on("load", function (){
-						 setTimeout(function(){ panoshow131.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow131.on("scenechange", function (){
-						 setTimeout(function(){ panoshow131.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_131",function() {
-                jQuery("#explainer131").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols131").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl131").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide131 = "down";
-		          jQuery(document).on("click","#vrgcontrols131",function() {
-
-		            if (slide131 == "up") {
-		              jQuery(".vrgctrl131").empty();
-		              jQuery(".vrgctrl131").html('<i class="fa fa-angle-up"></i>');
-		              slide131 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl131").empty();
-		              jQuery(".vrgctrl131").html('<i class="fa fa-angle-down"></i>');
-		              slide131 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols131").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls131").hide();
-                    jQuery("#zoom-in-out-controls131").hide();
-                    jQuery("#adcontrol131").hide();
-                    jQuery("#pano131").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow131.on("load", function (){
-                    jQuery("#controls131").show();
-                    jQuery("#zoom-in-out-controls131").show();
-                    jQuery("#adcontrol131").show();
-                    jQuery("#pano131").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "131") {
-                          jQuery("#pano131").children(".pnlm-render-container").remove();
-                          jQuery("#pano131").children(".pnlm-ui").remove();
-                          panoshow131 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano131").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow131.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano131").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls131").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls131").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano131").children(".pnlm-render-container").remove();
-              jQuery("#pano131").children(".pnlm-ui").remove();
-              panoshow131 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow131.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano131").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls131").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls131").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano131").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">Bathroom</div>
-        </div>
-
-    </div>
-</div>
-
-
-<div id="Idyll" class="main_title">
-    <h2>Idyll</h2>
-    <h4> 1 Bedroom Private Pool Villa</h4>
-</div>
-<div data-bg="https://balihillstonevillas.com/wp-content/uploads/2022/07/chateau-de-bali_3bed-poolvilla.jpg"
-     class="imgbg1 rocket-lazyload" style=""></div>
-
-
-<div class="tectbox margin_30">
-    <div class="row">
-
-        <div class="col-md-6">
-            <div class="ss">
-                <h2>Idyll - View 360</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut aliquet tortor. Vestibulum nec
-                    odio quis nunc sodales mattis. Morbi maximus dolor velit, hendrerit egestas arcu cursus tempor.</p>
-            </div>
-        </div>
-
-
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano92 div.pnlm-hotspot-base.fas,
-                    #pano92 div.pnlm-hotspot-base.fab,
-                    #pano92 div.pnlm-hotspot-base.fa,
-                    #pano92 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano92 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano92 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano92 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano92 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano92" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer92" style="display: none"><span class="close-explainer-video"><i
-                                class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="92"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="92"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano92"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Pool-Garden1.jpg","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Pool-Garden1.jpg","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow92 = pannellum.viewer(response[0]["panoid"], scenes);panoshow92.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano92").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls92").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls92").css("bottom", "5px");
-	           }
-					});panoshow92.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow92.on("load", function (){
-						 setTimeout(function(){ panoshow92.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow92.on("scenechange", function (){
-						 setTimeout(function(){ panoshow92.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_92",function() {
-                jQuery("#explainer92").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols92").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl92").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide92 = "down";
-		          jQuery(document).on("click","#vrgcontrols92",function() {
-
-		            if (slide92 == "up") {
-		              jQuery(".vrgctrl92").empty();
-		              jQuery(".vrgctrl92").html('<i class="fa fa-angle-up"></i>');
-		              slide92 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl92").empty();
-		              jQuery(".vrgctrl92").html('<i class="fa fa-angle-down"></i>');
-		              slide92 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols92").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls92").hide();
-                    jQuery("#zoom-in-out-controls92").hide();
-                    jQuery("#adcontrol92").hide();
-                    jQuery("#pano92").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow92.on("load", function (){
-                    jQuery("#controls92").show();
-                    jQuery("#zoom-in-out-controls92").show();
-                    jQuery("#adcontrol92").show();
-                    jQuery("#pano92").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "92") {
-                          jQuery("#pano92").children(".pnlm-render-container").remove();
-                          jQuery("#pano92").children(".pnlm-ui").remove();
-                          panoshow92 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano92").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow92.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano92").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls92").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls92").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano92").children(".pnlm-render-container").remove();
-              jQuery("#pano92").children(".pnlm-ui").remove();
-              panoshow92 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow92.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano92").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls92").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls92").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano92").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">Pool & Garden</div>
-        </div>
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano96 div.pnlm-hotspot-base.fas,
-                    #pano96 div.pnlm-hotspot-base.fab,
-                    #pano96 div.pnlm-hotspot-base.fa,
-                    #pano96 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano96 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano96 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano96 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano96 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano96" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer96" style="display: none"><span class="close-explainer-video"><i
-                                class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="96"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="96"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano96"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Dining-Room-Kitchen.jpg","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Dining-Room-Kitchen.jpg","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow96 = pannellum.viewer(response[0]["panoid"], scenes);panoshow96.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano96").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls96").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls96").css("bottom", "5px");
-	           }
-					});panoshow96.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow96.on("load", function (){
-						 setTimeout(function(){ panoshow96.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow96.on("scenechange", function (){
-						 setTimeout(function(){ panoshow96.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_96",function() {
-                jQuery("#explainer96").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols96").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl96").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide96 = "down";
-		          jQuery(document).on("click","#vrgcontrols96",function() {
-
-		            if (slide96 == "up") {
-		              jQuery(".vrgctrl96").empty();
-		              jQuery(".vrgctrl96").html('<i class="fa fa-angle-up"></i>');
-		              slide96 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl96").empty();
-		              jQuery(".vrgctrl96").html('<i class="fa fa-angle-down"></i>');
-		              slide96 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols96").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls96").hide();
-                    jQuery("#zoom-in-out-controls96").hide();
-                    jQuery("#adcontrol96").hide();
-                    jQuery("#pano96").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow96.on("load", function (){
-                    jQuery("#controls96").show();
-                    jQuery("#zoom-in-out-controls96").show();
-                    jQuery("#adcontrol96").show();
-                    jQuery("#pano96").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "96") {
-                          jQuery("#pano96").children(".pnlm-render-container").remove();
-                          jQuery("#pano96").children(".pnlm-ui").remove();
-                          panoshow96 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano96").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow96.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano96").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls96").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls96").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano96").children(".pnlm-render-container").remove();
-              jQuery("#pano96").children(".pnlm-ui").remove();
-              panoshow96 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow96.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano96").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls96").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls96").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano96").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">Living Room</div>
-        </div>
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano88 div.pnlm-hotspot-base.fas,
-                    #pano88 div.pnlm-hotspot-base.fab,
-                    #pano88 div.pnlm-hotspot-base.fa,
-                    #pano88 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano88 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano88 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano88 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano88 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano88" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer88" style="display: none"><span class="close-explainer-video"><i
-                                class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="88"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="88"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano88"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/1.jpg","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/1.jpg","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow88 = pannellum.viewer(response[0]["panoid"], scenes);panoshow88.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano88").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls88").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls88").css("bottom", "5px");
-	           }
-					});panoshow88.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow88.on("load", function (){
-						 setTimeout(function(){ panoshow88.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow88.on("scenechange", function (){
-						 setTimeout(function(){ panoshow88.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_88",function() {
-                jQuery("#explainer88").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols88").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl88").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide88 = "down";
-		          jQuery(document).on("click","#vrgcontrols88",function() {
-
-		            if (slide88 == "up") {
-		              jQuery(".vrgctrl88").empty();
-		              jQuery(".vrgctrl88").html('<i class="fa fa-angle-up"></i>');
-		              slide88 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl88").empty();
-		              jQuery(".vrgctrl88").html('<i class="fa fa-angle-down"></i>');
-		              slide88 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols88").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls88").hide();
-                    jQuery("#zoom-in-out-controls88").hide();
-                    jQuery("#adcontrol88").hide();
-                    jQuery("#pano88").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow88.on("load", function (){
-                    jQuery("#controls88").show();
-                    jQuery("#zoom-in-out-controls88").show();
-                    jQuery("#adcontrol88").show();
-                    jQuery("#pano88").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "88") {
-                          jQuery("#pano88").children(".pnlm-render-container").remove();
-                          jQuery("#pano88").children(".pnlm-ui").remove();
-                          panoshow88 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano88").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow88.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano88").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls88").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls88").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano88").children(".pnlm-render-container").remove();
-              jQuery("#pano88").children(".pnlm-ui").remove();
-              panoshow88 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow88.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano88").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls88").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls88").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano88").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">Dning Room & Kitchen</div>
-        </div>
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano84 div.pnlm-hotspot-base.fas,
-                    #pano84 div.pnlm-hotspot-base.fab,
-                    #pano84 div.pnlm-hotspot-base.fa,
-                    #pano84 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano84 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano84 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano84 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano84 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano84" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer84" style="display: none"><span class="close-explainer-video"><i
-                                class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="84"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="84"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano84"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Living-Room.jpg","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Living-Room.jpg","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow84 = pannellum.viewer(response[0]["panoid"], scenes);panoshow84.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano84").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls84").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls84").css("bottom", "5px");
-	           }
-					});panoshow84.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow84.on("load", function (){
-						 setTimeout(function(){ panoshow84.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow84.on("scenechange", function (){
-						 setTimeout(function(){ panoshow84.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_84",function() {
-                jQuery("#explainer84").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols84").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl84").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide84 = "down";
-		          jQuery(document).on("click","#vrgcontrols84",function() {
-
-		            if (slide84 == "up") {
-		              jQuery(".vrgctrl84").empty();
-		              jQuery(".vrgctrl84").html('<i class="fa fa-angle-up"></i>');
-		              slide84 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl84").empty();
-		              jQuery(".vrgctrl84").html('<i class="fa fa-angle-down"></i>');
-		              slide84 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols84").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls84").hide();
-                    jQuery("#zoom-in-out-controls84").hide();
-                    jQuery("#adcontrol84").hide();
-                    jQuery("#pano84").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow84.on("load", function (){
-                    jQuery("#controls84").show();
-                    jQuery("#zoom-in-out-controls84").show();
-                    jQuery("#adcontrol84").show();
-                    jQuery("#pano84").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "84") {
-                          jQuery("#pano84").children(".pnlm-render-container").remove();
-                          jQuery("#pano84").children(".pnlm-ui").remove();
-                          panoshow84 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano84").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow84.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano84").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls84").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls84").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano84").children(".pnlm-render-container").remove();
-              jQuery("#pano84").children(".pnlm-ui").remove();
-              panoshow84 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow84.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano84").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls84").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls84").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano84").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">1 Bedroom</div>
-        </div>
-        <div class="col-md-6 box ">
-            <div>
-                <style>#pano99 div.pnlm-hotspot-base.fas,
-                    #pano99 div.pnlm-hotspot-base.fab,
-                    #pano99 div.pnlm-hotspot-base.fa,
-                    #pano99 div.pnlm-hotspot-base.far {
-                        display: block !important;
-                        background-color: #00b4ff;
-                        color: #fff;
-                        border-radius: 100%;
-                        width: 30px;
-                        height: 30px;
-                        animation: icon-pulsepano99 1.5s infinite cubic-bezier(.25, 0, 0, 1);
-                    }
-
-                    @-webkit-keyframes icon-pulsepano99 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    @keyframes icon-pulsepano99 {
-                        0% {
-                            box-shadow: 0 0 0 0px rgba(0, 180, 255, 1);
-                        }
-                        100% {
-                            box-shadow: 0 0 0 10px rgba(0, 180, 255, 0);
-                        }
-                    }
-
-                    #pano99 div.pnlm-orientation-button {
-                        display: none;
-                    }</style>
-                <div id="pano99" class="pano-wrap"
-                     style=" text-align:center; max-width:100%; width: 600px; height: 400px; margin: 0 auto; direction:ltr;">
-                    <div class="explainer" id="explainer99" style="display: none"><span class="close-explainer-video"><i
-                                class="fa fa-times"></i></span></div>
-                    <div class="wpvr-hotspot-tweak-contents-wrapper" style="display: none"><i class="fa fa-times cross"
-                                                                                              data-id="99"></i>
-                        <div class="wpvr-hotspot-tweak-contents-flex">
-                            <div class="wpvr-hotspot-tweak-contents"></div>
-                        </div>
-                    </div>
-                    <div class="custom-ifram-wrapper" style="display: none;"><i class="fa fa-times cross"
-                                                                                data-id="99"></i>
-                        <div class="custom-ifram-flex">
-                            <div class="custom-ifram"></div>
-                        </div>
-                    </div>
-                </div>
-                <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {jQuery(document).ready(function() {var response = [{"panoid":"pano99"},{"autoLoad":false,"showControls":true,"orientationSupport":"false","compass":false,"orientationOnByDefault":false,"mouseZoom":true,"draggable":true,"disableKeyboardCtrl":false,"keyboardZoom":true,"preview":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Bathroom.jpg","autoRotate":"-5","default":{"firstScene":"1","sceneFadeDuration":""},"scenes":{"1":{"type":"equirectangular","panorama":"https:\/\/balihillstonevillas.com\/wp-content\/uploads\/2022\/07\/Bathroom.jpg","pitch":null,"yaw":null,"hfov":100,"maxHfov":120,"minHfov":50,"vaov":180,"haov":360,"hotSpots":[]}}}];var scenes = response[1];if(scenes) {var scenedata = scenes.scenes;for(var i in scenedata) {var scenehotspot = scenedata[i].hotSpots;for(var i = 0; i < scenehotspot.length; i++) {if(scenehotspot[i]["clickHandlerArgs"] != "") {scenehotspot[i]["clickHandlerFunc"] = wpvrhotspot;}if(scenehotspot[i]["createTooltipArgs"] != "") {scenehotspot[i]["createTooltipFunc"] = wpvrtooltip;}}}}var panoshow99 = pannellum.viewer(response[0]["panoid"], scenes);panoshow99.on("load", function (){
-            setTimeout(() => {
-                window.dispatchEvent(new Event("resize"));
-            }, 200);
-						if (jQuery("#pano99").children().children(".pnlm-panorama-info:visible").length > 0) {
-	               jQuery("#controls99").css("bottom", "55px");
-	           }
-	           else {
-	             jQuery("#controls99").css("bottom", "5px");
-	           }
-					});panoshow99.on("render", function (){
-              window.dispatchEvent(new Event("resize"));
-            });
-					if (scenes.autoRotate) {
-						panoshow99.on("load", function (){
-						 setTimeout(function(){ panoshow99.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-						panoshow99.on("scenechange", function (){
-						 setTimeout(function(){ panoshow99.startAutoRotate(scenes.autoRotate, 0); }, 3000);
-						});
-					}
-					var touchtime = 0;
-            jQuery(document).on("click","#explainer_button_99",function() {
-                jQuery("#explainer99").slideToggle();
-            });
-
-            jQuery(document).on("click",".close-explainer-video",function() {
-                jQuery(this).parent(".explainer").hide();
-                var el_src = jQuery(".vr-iframe").attr("src");
-                jQuery(".vr-iframe").attr("src", el_src);
-              });
-
-
-		          jQuery(document).ready(function($){
-		              jQuery("#sccontrols99").hide();
-                      jQuery(".wpvr_slider_nav").hide();
-		              jQuery(".vrgctrl99").html('<i class="fa fa-angle-up"></i>');
-		          });
-
-		          var slide99 = "down";
-		          jQuery(document).on("click","#vrgcontrols99",function() {
-
-		            if (slide99 == "up") {
-		              jQuery(".vrgctrl99").empty();
-		              jQuery(".vrgctrl99").html('<i class="fa fa-angle-up"></i>');
-		              slide99 = "down";
-		            }
-		            else {
-		              jQuery(".vrgctrl99").empty();
-		              jQuery(".vrgctrl99").html('<i class="fa fa-angle-down"></i>');
-		              slide99 = "up";
-		            }
-                    jQuery(".wpvr_slider_nav").slideToggle();
-		            jQuery("#sccontrols99").slideToggle();
-		          });
-
-                jQuery(document).ready(function(){
-                    jQuery("#controls99").hide();
-                    jQuery("#zoom-in-out-controls99").hide();
-                    jQuery("#adcontrol99").hide();
-                    jQuery("#pano99").find(".pnlm-panorama-info").hide();
-                });
-
-            panoshow99.on("load", function (){
-                    jQuery("#controls99").show();
-                    jQuery("#zoom-in-out-controls99").show();
-                    jQuery("#adcontrol99").show();
-                    jQuery("#pano99").find(".pnlm-panorama-info").show();
-            });
-            jQuery(".elementor-tab-title").click(function(){
-                      var element_id;
-                      var pano_id;
-                      var element_id = this.id;
-                      element_id = element_id.split("-");
-                      element_id = element_id[3];
-                      jQuery("#elementor-tab-content-"+element_id).children("div").addClass("awwww");
-                      var pano_id = jQuery(".awwww").attr("id");
-                      jQuery("#elementor-tab-content-"+element_id).children("div").removeClass("awwww");
-                      if (pano_id != undefined) {
-                        pano_id = pano_id.split("o");
-                        pano_id = pano_id[1];
-                        if (pano_id == "99") {
-                          jQuery("#pano99").children(".pnlm-render-container").remove();
-                          jQuery("#pano99").children(".pnlm-ui").remove();
-                          panoshow99 = pannellum.viewer(response[0]["panoid"], scenes);
-                          jQuery("#pano99").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-                          setTimeout(function() {
-                                //   panoshow99.loadScene("1");
-                                  window.dispatchEvent(new Event("resize"));
-                                  if (jQuery("#pano99").children().children(".pnlm-panorama-info:visible").length > 0) {
-                                       jQuery("#controls99").css("bottom", "55px");
-                                   }
-                                   else {
-                                     jQuery("#controls99").css("bottom", "5px");
-                                   }
-
-                          }, 200);
-                        }
-                      }
-            });
-
-            jQuery(".geodir-tab-head dd, #vr-tour-tab").click(function(){
-              jQuery("#pano99").children(".pnlm-render-container").remove();
-              jQuery("#pano99").children(".pnlm-ui").remove();
-              panoshow99 = pannellum.viewer(response[0]["panoid"], scenes);
-              setTimeout(function() {
-                      panoshow99.loadScene("1");
-                      window.dispatchEvent(new Event("resize"));
-                      if (jQuery("#pano99").children().children(".pnlm-panorama-info:visible").length > 0) {
-                           jQuery("#controls99").css("bottom", "55px");
-                       }
-                       else {
-                         jQuery("#controls99").css("bottom", "5px");
-                       }
-              }, 200);
-            });
-
-            jQuery("#pano99").children(".pnlm-ui").find(".pnlm-load-button p").text("Click To Load")
-            });});
-                </script>
-            </div>
-            <div class="title">Bathroom</div>
-        </div>
-
-    </div>
-</div>
-
-
-<!--New Lifestyle Experience-->
-
-<div id="lifestyle" class="top_banner ">
-    <div class="opacity-mask d-flex align-items-center">
+{{--Third Section--}}
+<div id="villa-type" class="top_banner mt-4">
+    <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
         <div class="container">
-            <h1>New Lifestyle Experience</h1>
-
+            <h1 style="color: #361601"><b>Experience the Comfort of Our Rooms</b></h1>
         </div>
     </div>
 </div>
 
+<div class="row mx-3">
+    <div class="col-3">
+        <div data-bg="{{asset('image/photos/kamar.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+    <div class="col-3">
+        <div data-bg="{{asset('image/photos/kamar2.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+    <div class="col-3">
+        <div data-bg="{{asset('image/photos/kamar3.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+    <div class="col-3">
+        <div data-bg="{{asset('image/photos/kamar4.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+</div>
+
+<div class="row mx-3">
+    <div class="col-3">
+        <div data-bg="{{asset('image/photos/activity.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+    <div class="col-3">
+        <div data-bg="{{asset('image/photos/activity2.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+    <div class="col-3">
+        <div data-bg="{{asset('image/photos/activity3.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+    <div class="col-3">
+        <div data-bg="{{asset('image/photos/activity4.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+</div>
+
+{{--Fourth Section--}}
+<div id="villa-type" class="top_banner mt-4">
+    <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
+        <div class="container">
+            <h1 style="color: #361601"><b>Breakfast - Restaurant - Balcony - Pool</b></h1>
+        </div>
+    </div>
+</div>
 <div id="archive" class="tectbox margin_60 ">
     <div class="container ">
         <div class="row">
-
-
             <div class="col-md-6">
-                <article class="blog lifestyle">
-
+                <article class="blog lifestyle" style="background-color: #361601 !important;">
                     <div class="post_info text-center">
-                        <span class="before adeli">Before</span>
-                        <h2>DINING</h2>
-                        on the dining table
+                        <h2>Breakfast</h2>
                     </div>
 
                     <figure>
-
                         <img class="fadeover"
                              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                             data-lazy-src="https://balihillstonevillas.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-20-at-12.13.28-620x450.jpeg"/>
+                             data-lazy-src="{{asset('image/photos/breakfast.jpg')}}"/>
                         <noscript><img class="fadeover"
-                                       src="https://balihillstonevillas.com/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-20-at-12.13.28-620x450.jpeg"/>
+                                       src="{{asset('image/photos/breakfast.jpg')}}"/>
                         </noscript>
 
 
-                        <figcaption>New Lifestyle</figcaption>
+                        <figcaption>Take some breakfast</figcaption>
                     </figure>
 
 
@@ -6366,25 +3667,23 @@
             </div>
 
             <div class="col-md-6">
-                <article class="blog lifestyle">
+                <article class="blog lifestyle" style="background-color: #361601 !important;">
 
                     <div class="post_info text-center">
-                        <span class="before adeli">Before</span>
-                        <h2>WORK</h2>
-                        in the closed room
+                        <h2>Restaurant</h2>
                     </div>
 
                     <figure>
 
                         <img class="fadeover"
                              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                             data-lazy-src="https://balihillstonevillas.com/wp-content/uploads/2022/07/work-in-the-closed-room-620x450.jpeg"/>
+                             data-lazy-src="{{asset('image/photos/restaurant.jpg')}}"/>
                         <noscript><img class="fadeover"
-                                       src="https://balihillstonevillas.com/wp-content/uploads/2022/07/work-in-the-closed-room-620x450.jpeg"/>
+                                       src="{{asset('image/photos/restaurant.jpg')}}"/>
                         </noscript>
 
 
-                        <figcaption>New Lifestyle</figcaption>
+                        <figcaption>Comfortable Restaurant</figcaption>
                     </figure>
 
 
@@ -6393,25 +3692,23 @@
             </div>
 
             <div class="col-md-6">
-                <article class="blog lifestyle">
+                <article class="blog lifestyle" style="background-color: #361601 !important;">
 
                     <div class="post_info text-center">
-                        <span class="before adeli">Before</span>
-                        <h2>AFTERWORK</h2>
-                        driving stuck in the traffic situation
+                        <h2>Balcony</h2>
                     </div>
 
                     <figure>
 
                         <img class="fadeover"
                              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                             data-lazy-src="https://balihillstonevillas.com/wp-content/uploads/2022/07/afterwork-620x450.jpg"/>
+                             data-lazy-src="{{asset('image/photos/balcony.jpg')}}"/>
                         <noscript><img class="fadeover"
-                                       src="https://balihillstonevillas.com/wp-content/uploads/2022/07/afterwork-620x450.jpg"/>
+                                       src="{{asset('image/photos/balcony.jpg')}}"/>
                         </noscript>
 
 
-                        <figcaption>New Lifestyle</figcaption>
+                        <figcaption>Watch beatiful view from the Balcony</figcaption>
                     </figure>
 
 
@@ -6420,25 +3717,23 @@
             </div>
 
             <div class="col-md-6">
-                <article class="blog lifestyle">
+                <article class="blog lifestyle" style="background-color: #361601 !important;">
 
                     <div class="post_info text-center">
-                        <span class="before adeli">Before</span>
-                        <h2>WEEKEND</h2>
-                        by watching TV at home
+                        <h2>Pool</h2>
                     </div>
 
                     <figure>
 
                         <img class="fadeover"
                              src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                             data-lazy-src="https://balihillstonevillas.com/wp-content/uploads/2022/07/weekend-1-620x450.jpg"/>
+                             data-lazy-src="{{asset('image/photos/pool.jpg')}}"/>
                         <noscript><img class="fadeover"
-                                       src="https://balihillstonevillas.com/wp-content/uploads/2022/07/weekend-1-620x450.jpg"/>
+                                       src="{{asset('image/photos/pool.jpg')}}"/>
                         </noscript>
 
 
-                        <figcaption>New Lifestyle</figcaption>
+                        <figcaption>Take some rest in the Pool</figcaption>
                     </figure>
 
 
@@ -6449,206 +3744,130 @@
     </div>
 </div>
 
-
-<!--CONTACT-->
-
-
-<div id="contact" class="top_banner">
-    <div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.3)">
+{{--Fifth Section--}}
+<div id="villa-type" class="top_banner mt-4">
+    <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
         <div class="container">
-            <h1>Contact Us</h1>
+            <h1 style="color: #361601"><b>Beautiful & Romantic Dinner</b></h1>
+        </div>
+    </div>
+</div>
+
+<div class="row mx-5">
+    <div class="col-3">
+        <div data-bg="{{asset('image/photos/dinner.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+    <div class="col-3">
+        <div data-bg="{{asset('image/photos/dinner2.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+    <div class="col-3">
+        <div data-bg="{{asset('image/photos/dinner3.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+    <div class="col-3">
+        <div data-bg="{{asset('image/photos/dinner4.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+</div>
+
+{{--Sixth Section--}}
+<div id="villa-type" class="top_banner mt-4">
+    <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
+        <div class="container">
+            <h1 style="color: #361601"><b>Our Meeting Rooms</b></h1>
+        </div>
+    </div>
+</div>
+
+<div class="row mx-5">
+    <div class="col-4">
+        <div data-bg="{{asset('image/photos/aula.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+    <div class="col-4">
+        <div data-bg="{{asset('image/photos/aula3.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+    <div class="col-4">
+        <div data-bg="{{asset('image/photos/aula2.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+</div>
+
+
+{{--Seventh Section--}}
+<div id="villa-type" class="top_banner mt-4">
+    <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
+        <div class="container">
+            <h1 style="color: #361601"><b>Contact Us</b></h1>
         </div>
     </div>
 </div>
 
 <div class="container-fluid contact">
+    <div class="container">
+        <div class="main_title">
+            <p><b>Book Your BizCation Accomodation Now!</b></p>
+        </div>
+    </div>
     <div class="row">
-        <div class="container">
-            <div class="main_title">
-                <p>Book Your Dream Workation Villa Now!</p>
-            </div>
-        </div>
-        <div class="col-lg-6 reservation">
-            <div class=" map">
-                <iframe src="about:blank" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade" data-rocket-lazyload="fitvidscompatible"
-                        data-lazy-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15770.188241762415!2d115.13540216065455!3d-8.828550098559962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd25bbe9e2f7313%3A0xc2507e9253ad9f95!2sHillstone%20Villas%20Resort%20Bali!5e0!3m2!1sid!2sid!4v1658290130180!5m2!1sid!2sid"></iframe>
-                <noscript>
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15770.188241762415!2d115.13540216065455!3d-8.828550098559962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd25bbe9e2f7313%3A0xc2507e9253ad9f95!2sHillstone%20Villas%20Resort%20Bali!5e0!3m2!1sid!2sid!4v1658290130180!5m2!1sid!2sid"
-                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
-                </noscript>
-            </div>
-        </div>
-        <div class="col-lg-6 space-form" style=" background:#FFFFFF">
+        <div class="col-3"></div>
+        <div class="col-6" style=" background:#FFFFFF">
             <div role="form" class="wpcf7" id="wpcf7-f33-o1" lang="en-US" dir="ltr">
                 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p>
                     <ul></ul>
                 </div>
-                <form action="/#wpcf7-f33-o1" method="post" class="wpcf7-form init" novalidate="novalidate"
-                      data-status="init">
-                    <div style="display: none;">
-                        <input type="hidden" name="_wpcf7" value="33"/>
-                        <input type="hidden" name="_wpcf7_version" value="5.6.1"/>
-                        <input type="hidden" name="_wpcf7_locale" value="en_US"/>
-                        <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f33-o1"/>
-                        <input type="hidden" name="_wpcf7_container_post" value="0"/>
-                        <input type="hidden" name="_wpcf7_posted_data_hash" value=""/>
+                <form id="form"
+                      class="m-form m-form--fit m-form--label-align-right form-send"
+                      method="POST"
+                      accept-charset="utf-8"
+                      enctype="multipart/form-data">
+                    {{ csrf_field() }}
+
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label class="form-label" title="Name">Name :</label>
+                            <input class="form-control" value="">
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label" title="Nationality">Nationality :</label>
+                            <input class="form-control" value="">
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label" title="email">Email Address :</label>
+                            <input class="form-control" value="">
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label" title="Whatsapp">Whatsapp No :</label>
+                            <input class="form-control" value="">
+                        </div>
+                        <div class="form-group">
+                            <label class="form-label" title="Destination">Destination :</label>
+                            <select class="form-control form-control-solid m-input m-select2"
+                                    type="text"
+                                    name="kirim_via">
+                                <option value="wa" selected>Sunrise</option>
+                                <option value="wa" selected>Sunset</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="form-label" title="Whatsapp">Period of Stay :</label>
+                            <input class="form-control" value="">
+                        </div>
                     </div>
-                    <p><label> Your Nama*<span class="wpcf7-form-control-wrap" data-name="your-name"><input type="text"
-                                                                                                            name="your-name"
-                                                                                                            value=""
-                                                                                                            size="100"
-                                                                                                            class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                                                            aria-required="true"
-                                                                                                            aria-invalid="false"/></span></label><br/>
-                        <label> Email Address* <span class="wpcf7-form-control-wrap" data-name="your-email"><input
-                                    type="email" name="your-email" value="" size="100"
-                                    class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
-                                    aria-required="true" aria-invalid="false"/></span></label><br/>
-                        <label> WhatApp No* <span class="wpcf7-form-control-wrap" data-name="wa"><input type="text"
-                                                                                                        name="wa"
-                                                                                                        value=""
-                                                                                                        size="100"
-                                                                                                        class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                                                        aria-required="true"
-                                                                                                        aria-invalid="false"/></span></label><br/>
-                        <label> Villa Type* <span class="wpcf7-form-control-wrap" data-name="villatype"><select
-                                    name="villatype" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required"
-                                    aria-required="true" aria-invalid="false"><option value="Idyll">Idyll</option><option
-                                        value="Joy">Joy</option><option
-                                        value="Bliss">Bliss</option></select></span></label><br/>
-                        <label> Period of Stay<span class="wpcf7-form-control-wrap" data-name="period"><input
-                                    type="text" name="period" value="" size="100" class="wpcf7-form-control wpcf7-text"
-                                    aria-invalid="false"/></span></label><br/>
-                        <label> Your message (optional)<span class="wpcf7-form-control-wrap"
-                                                             data-name="your-message"><textarea name="your-message"
-                                                                                                cols="40" rows="10"
-                                                                                                class="wpcf7-form-control wpcf7-textarea"
-                                                                                                aria-invalid="false"></textarea></span>
-                        </label><br/>
-                        <input type="submit" value="Submit" class="wpcf7-form-control has-spinner wpcf7-submit"/></p>
-                    <div class="wpcf7-response-output" aria-hidden="true"></div>
+                    <div class="d-flex justify-content-center ">
+                        <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit w-100 mx-2" style="background-color: #361601"/>
+                    </div>
                 </form>
             </div>
         </div>
+        <div class="col-3"></div>
 
     </div>
 </div>
-
-
-<!--NWES-->
-
-
-<div id="news" class="top_banner">
-    <div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.3)">
-        <div class="container">
-            <h1>News</h1>
-        </div>
-    </div>
-</div>
-<div id="news1" class="tectbox1 gray-c">
-    <div class="container">
-        <div class="row">
-            <div class="container">
-                <div class="main_title">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacus purus, malesuada</p>
-
-                </div>
-            </div>
-
-            <div class="col-md-4">
-                <article class="blog">
-                    <figure>
-                        <a href="https://balihillstonevillas.com/lorem-ipsum-dolor-2/">
-                            <img
-                                src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                alt=""
-                                data-lazy-src="https://balihillstonevillas.com/wp-content/themes/hilstone/img/thumb.jpg">
-                            <noscript><img
-                                    src="https://balihillstonevillas.com/wp-content/themes/hilstone/img/thumb.jpg"
-                                    alt=""></noscript>
-                        </a>
-
-                    </figure>
-
-                    <div class="post_info">
-                        <div class="post-head">
-                            <span class="info-date">15 Jul 2022</span><br/>
-                        </div>
-                        <h2><a href='https://balihillstonevillas.com/lorem-ipsum-dolor-2/' title='Lorem ipsum dolor'>Lorem
-                                ipsum dolor</a></h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacus purus, malesuada id
-                            aliquam sit amet, dictum luctus elit. Praesent id sollicitudin massa. Aliquam posuere</p>
-                        <a class="btn_1" href="https://balihillstonevillas.com/lorem-ipsum-dolor-2/" role="button">Read
-                            More</a>
-                    </div>
-                </article>
-                <!-- /article -->
-            </div>
-
-            <div class="col-md-4">
-                <article class="blog">
-                    <figure>
-                        <a href='https://balihillstonevillas.com/lorem-ipsum-dolor/' title='Lorem ipsum dolor'>
-                            <img class="fadeover"
-                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                 data-lazy-src="https://balihillstonevillas.com/wp-content/uploads/2022/07/chateau-de-bali_3bed-poolvilla-25-copy-620x450.jpg"/>
-                            <noscript><img class="fadeover"
-                                           src="https://balihillstonevillas.com/wp-content/uploads/2022/07/chateau-de-bali_3bed-poolvilla-25-copy-620x450.jpg"/>
-                            </noscript>
-                        </a>
-
-                    </figure>
-
-                    <div class="post_info">
-                        <div class="post-head">
-                            <span class="info-date">15 Jul 2022</span><br/>
-                        </div>
-                        <h2><a href='https://balihillstonevillas.com/lorem-ipsum-dolor/' title='Lorem ipsum dolor'>Lorem
-                                ipsum dolor</a></h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacus purus, malesuada id
-                            aliquam sit amet, dictum luctus elit. Praesent id sollicitudin massa. Aliquam posuere</p>
-                        <a class="btn_1" href="https://balihillstonevillas.com/lorem-ipsum-dolor/" role="button">Read
-                            More</a>
-                    </div>
-                </article>
-                <!-- /article -->
-            </div>
-
-            <div class="col-md-4">
-                <article class="blog">
-                    <figure>
-                        <a href="https://balihillstonevillas.com/halo-dunia/">
-                            <img
-                                src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                alt=""
-                                data-lazy-src="https://balihillstonevillas.com/wp-content/themes/hilstone/img/thumb.jpg">
-                            <noscript><img
-                                    src="https://balihillstonevillas.com/wp-content/themes/hilstone/img/thumb.jpg"
-                                    alt=""></noscript>
-                        </a>
-
-                    </figure>
-
-                    <div class="post_info">
-                        <div class="post-head">
-                            <span class="info-date">15 Jul 2022</span><br/>
-                        </div>
-                        <h2><a href='https://balihillstonevillas.com/halo-dunia/' title='Halo dunia!'>Halo dunia!</a>
-                        </h2>
-                        <p>Selamt datang di WordPress. Ini adalah pos pertama Anda. Sunting atau hapus, kemudian mulai
-                            menulis!</p>
-                        <a class="btn_1" href="https://balihillstonevillas.com/halo-dunia/" role="button">Read More</a>
-                    </div>
-                </article>
-                <!-- /article -->
-            </div>
-        </div>
-    </div>
-</div>
-
 
 </main>
 
@@ -6657,37 +3876,25 @@
         <div class="row">
             <div class="col-lg-12 col-md-12">
                 <div id="logo_footer">
-                    <a class="main-logo" href='https://balihillstonevillas.com'>
+                    <a class="main-logo" href='https://baliabishahotels.com/'>
                         <img
-                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                            alt="Bali Hillstone Villas"
-                            data-lazy-src="https://balihillstonevillas.com/wp-content/themes/hilstone/img/hillstone.jpg"/>
+                            alt="Bali Abisha Hotel"
+                            data-lazy-src="{{asset('image/abisha_head_banner.png')}}"/>
                         <noscript><img
-                                src="https://balihillstonevillas.com/wp-content/themes/hilstone/img/hillstone.jpg"
-                                alt="Bali Hillstone Villas"/></noscript>
+                                src="{{asset('image/abisha_head_banner.png')}}"
+                                alt="Bali Abisha Hotel"/></noscript>
                     </a>
-                    <div class="col-lg-12 col-md-2 alamat">
-                        <div class="address"><h3 class="hide">Address</h3>
-                            <div class="textwidget"><p>Jl. Pura Masuka, Br. Kertha Lestari &#8211; Ungasan,<br/>
-                                    Uluwatu, Bali, Indonesia, 80364</p>
-                            </div>
-                        </div>
-                    </div>
 
                     <div class="follow_us">
                         <ul>
                             <li>
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=6285776433157">
-                                    <img src=""
-                                         data-src="https://balihillstonevillas.com/wp-content/themes/hilstone/img/icons/wa-f.png"
-                                         class="lazy">
-                                </a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=6281353254589"><img src=""
+                                                                                                             data-src="{{asset('image/waBrown.png')}}"
+                                                                                                             class="lazy" ></a>
                             </li>
-
-
-                            <li><a target="_blank" href="http://www.instagram.com/baliworkationvillas"><img
-                                        data-src="https://balihillstonevillas.com/wp-content/themes/hilstone/img/icons/instagram-f.png"
-                                        class="lazy"></a>
+                            <li>
+                                <a target="_blank" href="http://www.instagram.com/abishahoteljimbaran"><img
+                                            data-src="{{asset('image/instagramBrown.png')}}" alt="" class="lazy"></a>
                             </li>
 
                         </ul>
@@ -6698,10 +3905,10 @@
     </div>
 </footer>
 
-<div class="copyright">
+<div class="copyright" style="background-color: #361601">
     <div class="col-lg-12">
-        <div class="container">
-            <span>Copyright &copy; 2022 Bali Hillstone Villas</span>
+        <div class="container" >
+            <span>Copyright &copy; 2024 Bali Abisha Hotel</span>
         </div>
     </div>
 </div>
