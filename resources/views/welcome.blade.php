@@ -3564,27 +3564,25 @@
         </div>
     </div>
 </div>
-<div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
-     class="imgbg1 rocket-lazyload mt-5" style=""></div>
 
-<div class="">
-    <div id="jig1" class="justified-image-grid jig-58d11a5019626c891ccd65d381be89d2 jig-preset-global">
-        <!-- Trigger the Modal -->
-        <div class="d-flex justify-content-center">
-            <img id="exterior" src="{{asset('image/photos/DSC09729EE.jpg')}}" alt="Gambar 1" style="width:100%;max-width:300px">
-            <img id="bukaPintu" src="{{asset('image/photos/buka-pintu.jpg')}}" alt="Gambar 2" style="width:100%;max-width:300px">
-            <img id="bagasi" src="{{asset('image/photos/bagasi.jpg')}}" alt="Gambar 3" style="width:100%;max-width:300px">
-            <img id="mengantar" src="{{asset('image/photos/mengantar.jpg')}}" alt="Gambar 4" style="width:100%;max-width:300px">
-        </div>
+<div class="row mx-3">
+{{--    <div class="col-1"></div>--}}
+    <div class="col-6">
+        <div data-bg="{{asset('image/photos/checkin.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
     </div>
+    <div class="col-6">
+        <div data-bg="{{asset('image/photos/checkinZoom.jpg')}}"
+             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+    </div>
+{{--    <div class="col-1"></div>--}}
 </div>
+
 <div id="Bliss" class="main_title">
     {{--    <h2>Bliss</h2>--}}
-    <h3 class="mx-5 px-5"> Find your best getaway, let’s experience joyful vacation, and having done your business
-        at the same time at our
-        comfortable accommodation.</h3><br>
-    <h3 class="mx-5 px-5"> BALI ABISHA SANUR HOTEL consist of modern rooms with terrace and pool access.</h3><br>
-    <h3 class="mx-5 px-5"> It is best choice for anyone, either on business trip or vacation.</h3>
+    <h3 class="mx-5 px-5">  Esteemed guests are welcome to relax and unwind in a quiet feels-like-home and family friendly setting in the most
+        popular area for the best sunrise spots in Bali.</h3>
+    <h3 class="mx-5 px-5 pt-3"> Our guests will be assisted by friendly and helpful staff from check in process, during in house until check out time.</h3><br>
 </div>
 
 
