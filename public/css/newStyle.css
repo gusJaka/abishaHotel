@@ -112,6 +112,13 @@
     line-height: 1;
 }
 
+.mt-150{
+    padding-top: 100px !important;
+}
+.heroSectionText{
+    font-size: 18px;
+}
+
 /* 100% Image Width on Smaller Screens */
 @media only screen and (max-width: 700px){
     .modal-content {
@@ -140,6 +147,13 @@
     .mobile-image-size {
         height: 100px !important;
         width: auto !important;
+    }
+
+    .mt-150{
+        padding-top: 10px !important;
+    }
+    .heroSectionText{
+        font-size: 10px;
     }
 }
 

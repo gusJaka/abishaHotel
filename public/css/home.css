@@ -297,31 +297,11 @@ video {
     height: auto;
 }
 @media (max-width: 1024px) {
-    #hero_video {
-        background: lightgray
-        url(../../../../../../../themes/hilstone/img/slides/slide_home_1.jpg);
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-        background-position: center;
-    }
     .header-video {
         background: none;
     }
 }
-#icon_drag_mobile {
-    position: absolute;
-    right: 20px;
-    bottom: 20px;
-    background: url(../../../../../../../themes/hilstone/img/drag_icon.svg) 0 0
-    no-repeat;
-    width: 50px;
-    height: 30px;
-    opacity: 0.6;
-    z-index: 99;
-    display: none;
-}
+
 @media (max-width: 767px) {
     #icon_drag_mobile {
         display: block;
