@@ -3438,44 +3438,60 @@
         </div>
     </div>
 </header>
-    <div id="about" class="text-center pt-5 mobile-no-pt5">
-        <div class="tectbox1 ">
-            <h1 class="responsive-heading"><b>Bali Abisha Hotel</b></h1>
-            <h1 class="responsive-heading-small">Your Getaway Bizcation in Bali</h1>
+
+    <div data-bg="{{asset('image/photos/pool_dark.png')}}"
+         class="imgbg1 rocket-lazyload" >
+{{--        <div class="d-flex justify-content-center">--}}
+        <div class="pt-5">
+            <div style="margin-top: 150px"></div>
+            <p class="responsive-heading text-white text-center mb-1" ><b>Bali Abisha Hotel</b></p>
+            <p class="responsive-heading-small text-white text-center mb-1" >Your Getaway Bizcation in Bali</p>
+            <br>
+            <br>
+            <br>
+            <p class="text-white text-center mb-1" style="font-size: 18px">We invite you to relax and unwind in a homely and family-friendly atmosphere.
+            </p>
+            <p class="text-white text-center mb-1" style="font-size: 18px">
+                Known for its prime location, Abisha Hotel Sanur is the perfect spot to witness the stunning sunrises of Bali.
+            </p>
+            <p class="text-white text-center mb-1" style="font-size: 18px">
+                Situated in the heart of Sanur, we provide comfortable and convenient accommodations,
+            </p>
+            <p class=" text-white text-center mb-1" style="font-size: 18px">
+                making it an ideal choice for families, couples, and business travelers
+            </p>
+            <br>
+            <br>
+            <div class="d-flex justify-content-center">
+                <a type="button" href="https://api.whatsapp.com/send?phone=6281353254589" target="_blank" class="form-control text-center" style="background-color: #e1dbc1; width: 100px"><b>Contact Us</b></a>
+            </div>
         </div>
+{{--        </div>--}}
     </div>
+{{--    <div id="about" class="text-center pt-5 mobile-no-pt5">--}}
+{{--        <div class="tectbox1 ">--}}
+{{--        </div>--}}
+{{--    </div>--}}
 <main>
-    <div id="carousel-home" class="row">
+    <div id="carousel-home" class="row mt-3">
         <div class="owl-carousel owl-theme col-lg-6 col-sm-12 pb-2">
             <div data-bg="{{asset('image/photos/DSC09769.jpg')}}"
                  class="owl-slide cover rocket-lazyload" style="">
-                <div class="opacity-mask bgmask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.4)">
-                    <div class="container">
-                        <div class="row justify-content-md-center text-center">
-                            <div class="col-lg-12 topjudul" style="font-size: 50px"><b>SANUR</b></div>
-                            <div class="col-lg-8 static">
-                                <div class="slide-text  white">
-                                    <p class="owl-slide-animated owl-slide-subtitle">
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+
+                <div class="row d-flex justify-content-md-center text-center pt-2">
+                    <div>
+                        <div class="col-lg-12 text-white" style="font-size: 30px"><b>Bali Abisha Hotel</b></div>
+                        <div class="col-lg-12 text-white" style="font-size: 50px"><b>SANUR</b></div>
                     </div>
                 </div>
             </div>
             <div data-bg="{{asset('image/photos/kamar.jpg')}}"
                  class="owl-slide cover rocket-lazyload" style="">
-                <div class="opacity-mask bgmask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.4)">
-                    <div class="container">
-                        <div class="row justify-content-md-center text-center">
-                            <div class="col-lg-12 topjudul" style="font-size: 50px"><b>SANUR</b></div>
-                            <div class="col-lg-8 static">
-                                <div class="slide-text  white">
-                                    <p class="owl-slide-animated owl-slide-subtitle">
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+
+                <div class="row d-flex justify-content-md-center text-center pt-2">
+                    <div>
+                        <div class="col-lg-12 text-white" style="font-size: 30px"><b>Bali Abisha Hotel</b></div>
+                        <div class="col-lg-12 text-white" style="font-size: 50px"><b>SANUR</b></div>
                     </div>
                 </div>
             </div>
@@ -3483,35 +3499,21 @@
         <div class="owl-carousel owl-theme col-lg-6 col-sm-12">
             <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
                  class="owl-slide cover rocket-lazyload" style="">
-                <div class="opacity-mask bgmask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.4)">
-                    <div class="container">
-                        <div class="row justify-content-md-center text-center">
-                            <div class="col-lg-12 topjudul" style="font-size: 50px"><b>JIMBARAN</b></div>
-                            <div class="col-lg-8 static">
-                                <div class="slide-text  white">
 
-                                    <p class="owl-slide-animated owl-slide-subtitle">
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+                <div class="row d-flex justify-content-md-center text-center pt-2">
+                    <div>
+                        <div class="col-lg-12 text-white" style="font-size: 30px"><b>Bali Abisha Hotel</b></div>
+                        <div class="col-lg-12 text-white" style="font-size: 50px"><b>Jimbaran</b></div>
                     </div>
                 </div>
             </div>
             <div data-bg="{{asset('image/photos/aula.jpg')}}"
                  class="owl-slide cover rocket-lazyload" style="">
-                <div class="opacity-mask bgmask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.4)">
-                    <div class="container">
-                        <div class="row justify-content-md-center text-center">
-                            <div class="col-lg-12 topjudul" style="font-size: 50px"><b>JIMBARAN</b></div>
-                            <div class="col-lg-8 static">
-                                <div class="slide-text  white">
 
-                                    <p class="owl-slide-animated owl-slide-subtitle">
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+                <div class="row d-flex justify-content-md-center text-center pt-2">
+                    <div>
+                        <div class="col-lg-12 text-white" style="font-size: 30px"><b>Bali Abisha Hotel</b></div>
+                        <div class="col-lg-12 text-white " style="font-size: 50px"><b >Jimbaran</b></div>
                     </div>
                 </div>
             </div>
@@ -3525,17 +3527,17 @@
 <div id="villa-type" class="top_banner mt-4">
     <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
         <div class="container">
-            <h1 style="color: #361601"><b>Experience the Joyful Vacation</b></h1>
+            <h1 style="color: #361601; "><b>Experience the Joyful Vacation</b></h1>
         </div>
     </div>
 </div>
 <div id="Bliss" class="main_title">
 {{--    <h2>Bliss</h2>--}}
-    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small"> Find your best getaway, let’s experience joyful vacation, and having done your business
+    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-small"> Find your best getaway, let’s experience joyful vacation, and having done your business
         at the same time at our
         comfortable accommodation.</h3>
-    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small"> BALI ABISHA SANUR HOTEL consist of modern rooms with terrace and pool access.</h3>
-    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small"> It is best choice for anyone, either on business trip or vacation.</h3>
+    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-small"> BALI ABISHA SANUR HOTEL consist of modern rooms with terrace and pool access.</h3>
+    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-small"> It is best choice for anyone, either on business trip or vacation.</h3>
 </div>
 <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
      class="imgbg1 rocket-lazyload mx-5"></div>
@@ -3577,9 +3579,9 @@
 
 <div id="Bliss" class="main_title">
     {{--    <h2>Bliss</h2>--}}
-    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small">  Esteemed guests are welcome to relax and unwind in a quiet feels-like-home and family friendly setting in the most
+    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-small">  Esteemed guests are welcome to relax and unwind in a quiet feels-like-home and family friendly setting in the most
         popular area for the best sunrise spots in Bali.</h3>
-    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small"> Our guests will be assisted by friendly and helpful staff from check in process, during in house until check out time.</h3><br>
+    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-small"> Our guests will be assisted by friendly and helpful staff from check in process, during in house until check out time.</h3><br>
 </div>
 
 {{--Third Section--}}
