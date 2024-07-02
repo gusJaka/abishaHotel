@@ -1,0 +1,38 @@
+
+/* <![CDATA[ */
+var SF_Opts = {
+    "social": [],
+    "search": "hidden",
+    "blur": "none",
+    "fade": "no",
+    "test_mode": "",
+    "hide_def": "",
+    "mob_nav": "yes",
+    "sidebar_style": "slide",
+    "sub_animation_type": "nopush",
+    "alt_menu": "",
+    "sidebar_pos": "right",
+    "width_panel_1": "275",
+    "width_panel_2": "250",
+    "width_panel_3": "250",
+    "width_panel_4": "200",
+    "base_color": "#00002e",
+    "opening_type": "click",
+    "sub_type": "",
+    "sub_opening_type": "hover",
+    "label": "metro",
+    "label_top": "0px",
+    "label_size": "1x",
+    "label_vis": "visible",
+    "item_padding": "15",
+    "bg": "none",
+    "menu": "2",
+    "togglers": "",
+    "subMenuSupport": "yes",
+    "subMenuSelector": "sub-menu, children",
+    "activeClassSelector": "current-menu-item",
+    "allowedTags": "DIV, NAV, UL, OL, LI, A, P, H1, H2, H3, H4, SPAN",
+    "menuData": [],
+    "plugin_ver": "2.1.5"
+};
+/* ]]> */
