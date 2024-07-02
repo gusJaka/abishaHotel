@@ -95,9 +95,64 @@
     cursor: pointer;
 }
 
+.responsive-image {
+    width: 100%; /* Image takes up full width by default */
+    max-width: 300px; /* Limit width to 300px on larger screens */
+}
+.responsive-heading {
+    font-size: 60px;
+    line-height: 1;
+}
+.responsive-heading-small {
+    font-size: 30px;
+    line-height: 1;
+}
+
 /* 100% Image Width on Smaller Screens */
 @media only screen and (max-width: 700px){
     .modal-content {
         width: 100%;
+    }
+    .responsive-image {
+        max-width: 20%; /* Images take up full width on mobile */
+    }
+    .responsive-heading {
+        font-size: 24px; /* Adjust font size for h3 on mobile */
+        line-height: 1.5; /* Optional: Adjust line-height for h3 on mobile */
+    }
+    .responsive-heading-small {
+        font-size: 18px; /* Adjust font size for h3 on mobile */
+        line-height: 1.5; /* Optional: Adjust line-height for h3 on mobile */
+    }
+    .mobile-no-pt5 {
+        padding-top: 0 !important;
+    }
+    .mobile-no-px-mx {
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+        margin-left: 10px !important;
+        margin-right: 10px !important;
+    }
+    .mobile-image-size {
+        height: 100px !important;
+        width: auto !important;
+    }
+}
+
+/* 100% Image Width on mid Screens */
+@media only screen and (max-width: 1024px) and (min-width:700px){
+    .modal-content {
+        width: 100%;
+    }
+    .responsive-image {
+        max-width: 10%; /* Images take up full width on mobile */
+    }
+    .responsive-heading {
+        font-size: 24px; /* Adjust font size for h3 on mobile */
+        line-height: 1.5; /* Optional: Adjust line-height for h3 on mobile */
+    }
+    .responsive-heading-small {
+        font-size: 18px; /* Adjust font size for h3 on mobile */
+        line-height: 1.5; /* Optional: Adjust line-height for h3 on mobile */
     }
 }

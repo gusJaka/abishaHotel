@@ -3408,8 +3408,8 @@
                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                     alt="Bali Abisha Hotel" data-lazy-src="{{asset('image/abisha_head_banner.png')}}"/>
                                 <noscript><img
-                                        src="https://balihillstonevillas.com/wp-content/themes/hilstone/img/hillstone.jpg"
-                                        alt="Bali Hillstone Villas"/></noscript>
+                                        src="{{asset('image/abisha_head_banner.png')}}"
+                                        alt="Bali Abisha Hotel"/></noscript>
                             </a>
                         </div>
 
@@ -3438,15 +3438,15 @@
         </div>
     </div>
 </header>
-    <div id="about" class="text-center pt-5">
+    <div id="about" class="text-center pt-5 mobile-no-pt5">
         <div class="tectbox1 ">
-            <h1 style="font-size: 60px"><b>Bali Abisha Hotel</b></h1>
-            <h1>Your Getaway Bizcation in Bali</h1>
+            <h1 class="responsive-heading"><b>Bali Abisha Hotel</b></h1>
+            <h1 class="responsive-heading-small">Your Getaway Bizcation in Bali</h1>
         </div>
     </div>
 <main>
     <div id="carousel-home" class="row">
-        <div class="owl-carousel owl-theme col-6">
+        <div class="owl-carousel owl-theme col-lg-6 col-sm-12 pb-2">
             <div data-bg="{{asset('image/photos/DSC09769.jpg')}}"
                  class="owl-slide cover rocket-lazyload" style="">
                 <div class="opacity-mask bgmask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.4)">
@@ -3455,7 +3455,6 @@
                             <div class="col-lg-12 topjudul" style="font-size: 50px"><b>SANUR</b></div>
                             <div class="col-lg-8 static">
                                 <div class="slide-text  white">
-
                                     <p class="owl-slide-animated owl-slide-subtitle">
                                     </p>
                                 </div>
@@ -3472,7 +3471,6 @@
                             <div class="col-lg-12 topjudul" style="font-size: 50px"><b>SANUR</b></div>
                             <div class="col-lg-8 static">
                                 <div class="slide-text  white">
-
                                     <p class="owl-slide-animated owl-slide-subtitle">
                                     </p>
                                 </div>
@@ -3482,7 +3480,7 @@
                 </div>
             </div>
         </div>
-        <div class="owl-carousel owl-theme col-6">
+        <div class="owl-carousel owl-theme col-lg-6 col-sm-12">
             <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
                  class="owl-slide cover rocket-lazyload" style="">
                 <div class="opacity-mask bgmask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.4)">
@@ -3521,7 +3519,6 @@
 
     </div>
     <div id="icon_drag_mobile"></div>
-</main>
 
 </div>
 
@@ -3534,11 +3531,11 @@
 </div>
 <div id="Bliss" class="main_title">
 {{--    <h2>Bliss</h2>--}}
-    <h3 class="mx-5 px-5"> Find your best getaway, let’s experience joyful vacation, and having done your business
+    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small"> Find your best getaway, let’s experience joyful vacation, and having done your business
         at the same time at our
         comfortable accommodation.</h3>
-    <h3 class="mx-5 px-5"> BALI ABISHA SANUR HOTEL consist of modern rooms with terrace and pool access.</h3>
-    <h3 class="mx-5 px-5"> It is best choice for anyone, either on business trip or vacation.</h3>
+    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small"> BALI ABISHA SANUR HOTEL consist of modern rooms with terrace and pool access.</h3>
+    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small"> It is best choice for anyone, either on business trip or vacation.</h3>
 </div>
 <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
      class="imgbg1 rocket-lazyload mx-5"></div>
@@ -3546,11 +3543,11 @@
 <div class="">
     <div id="jig1" class="justified-image-grid jig-58d11a5019626c891ccd65d381be89d2 jig-preset-global">
         <!-- Trigger the Modal -->
-        <div class="d-flex justify-content-center">
-            <img id="exterior" src="{{asset('image/photos/DSC09729EE.jpg')}}" alt="Gambar 1" style="width:100%;max-width:300px">
-            <img id="bukaPintu" src="{{asset('image/photos/buka-pintu.jpg')}}" alt="Gambar 2" style="width:100%;max-width:300px">
-            <img id="bagasi" src="{{asset('image/photos/bagasi.jpg')}}" alt="Gambar 3" style="width:100%;max-width:300px">
-            <img id="mengantar" src="{{asset('image/photos/mengantar.jpg')}}" alt="Gambar 4" style="width:100%;max-width:300px">
+        <div class="d-flex justify-content-center pt-3">
+            <img id="exterior" src="{{asset('image/photos/DSC09729EE.jpg')}}" alt="Gambar 1" class="responsive-image">
+            <img id="bukaPintu" src="{{asset('image/photos/buka-pintu.jpg')}}" alt="Gambar 2" class="responsive-image">
+            <img id="bagasi" src="{{asset('image/photos/bagasi.jpg')}}" alt="Gambar 3" class="responsive-image">
+            <img id="mengantar" src="{{asset('image/photos/mengantar.jpg')}}" alt="Gambar 4" class="responsive-image">
         </div>
 
     </div>
@@ -3567,22 +3564,22 @@
 
 <div class="row mx-3">
 {{--    <div class="col-1"></div>--}}
-    <div class="col-6">
+    <div class="col-6 ">
         <div data-bg="{{asset('image/photos/checkin.jpg')}}"
-             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+             class="imgbg1 rocket-lazyload mt-5 mobile-image-size" style="height: 500px;width: auto"></div>
     </div>
-    <div class="col-6">
+    <div class="col-6 ">
         <div data-bg="{{asset('image/photos/checkinZoom.jpg')}}"
-             class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+             class="imgbg1 rocket-lazyload mt-5 mobile-image-size" style="height: 500px;width: auto"></div>
     </div>
 {{--    <div class="col-1"></div>--}}
 </div>
 
 <div id="Bliss" class="main_title">
     {{--    <h2>Bliss</h2>--}}
-    <h3 class="mx-5 px-5">  Esteemed guests are welcome to relax and unwind in a quiet feels-like-home and family friendly setting in the most
+    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small">  Esteemed guests are welcome to relax and unwind in a quiet feels-like-home and family friendly setting in the most
         popular area for the best sunrise spots in Bali.</h3>
-    <h3 class="mx-5 px-5"> Our guests will be assisted by friendly and helpful staff from check in process, during in house until check out time.</h3><br>
+    <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small"> Our guests will be assisted by friendly and helpful staff from check in process, during in house until check out time.</h3><br>
 </div>
 
 {{--Third Section--}}
@@ -3985,20 +3982,20 @@
     </div>
 </div>
 <script type="rocketlazyloadscript"
-        src="https://balihillstonevillas.com/wp-content/themes/hilstone/js/common_scripts.js" defer></script>
-<script type="rocketlazyloadscript" src="https://balihillstonevillas.com/wp-content/themes/hilstone/js/main.js"
+        src="{{asset('js/common_scripts.js')}}" defer></script>
+<script type="rocketlazyloadscript" src="{{asset('js/main.js')}}"
         defer></script>
-<script type="rocketlazyloadscript" src="https://balihillstonevillas.com/wp-content/themes/hilstone/js/carousel-home.js"
+<script type="rocketlazyloadscript" src="{{asset('js/carousel-home.js')}}"
         defer></script>
 <div id="sf-sidebar" style="opacity:0" class="sf-hl-semi sf-indicators">
     <div class="sf-scroll-wrapper">
         <div class="sf-scroll">
             <div class="sf-logo">
-                <a href="https://balihillstonevillas.com"><img
+                <a href="https://baliabishahotels.com/"><img
                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                         alt=""
-                        data-lazy-src="https://balihillstonevillas.com/wp-content/uploads/2022/07/hillstone-2.jpg">
-                    <noscript><img src="https://balihillstonevillas.com/wp-content/uploads/2022/07/hillstone-2.jpg"
+                        data-lazy-src="{{asset('image/abisha_head_banner.png')}}">
+                    <noscript><img src="{{asset('image/abisha_head_banner.png')}}"
                                    alt=""></noscript>
                 </a>
                 <div class="sf-title">
@@ -4058,14 +4055,14 @@
     </div>
 </div>
 
-<div id="sf-mob-navbar">
-    <div class="sf-navicon-button x">
-        <div class="sf-navicon"></div>
-    </div>
+<div id="sf-mob-navbar" style="background-color: #e1dbc1" class="w-100">
+{{--    <div class="sf-navicon-button x">--}}
+{{--        <div class="sf-navicon"></div>--}}
+{{--    </div>--}}
     <a href="/"><img
             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-            alt="" data-lazy-src="https://balihillstonevillas.com/wp-content/uploads/2022/07/hillstone-2.jpg">
-        <noscript><img src="https://balihillstonevillas.com/wp-content/uploads/2022/07/hillstone-2.jpg" alt="">
+            alt="" data-lazy-src="{{asset('image/abisha_head_banner.png')}}">
+        <noscript><img src="{{asset('image/abisha_head_banner.png')}}" alt="">
         </noscript>
     </a></div>
 <div id="sf-overlay-wrapper">
