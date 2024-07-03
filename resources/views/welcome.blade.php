@@ -19,7 +19,7 @@
     <link data-minify="1" href="{{asset('css/listing.css')}}" rel="stylesheet">
     <link data-minify="1" href="{{asset('css/home.css')}}" rel="stylesheet">
     <link data-minify="1" href="{{asset('css/custom.css')}}" rel="stylesheet">
-    <link data-minify="1" href="{{asset('css/newStyle.css')}}" rel="stylesheet">
+    <link data-minify="1" href="{{asset('css/newStyle.css?'.date('H:i:s Y:m:d'))}}" rel="stylesheet">
 
     <link rel='dns-prefetch' href='//cdnjs.cloudflare.com'/>
     <link rel='dns-prefetch' href='//use.fontawesome.com'/>
@@ -228,11 +228,11 @@
         <div class="row mx-3">
             <div class="col-6 ">
                 <div data-bg="{{asset('image/photos/checkin.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 mobile-image-size" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 mobile-image-size" id="checkin1" style="height: 500px;width: auto"></div>
             </div>
             <div class="col-6 ">
                 <div data-bg="{{asset('image/photos/checkinZoom.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 mobile-image-size" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 mobile-image-size" id="checkin2" style="height: 500px;width: auto"></div>
             </div>
         </div>
 
@@ -671,6 +671,16 @@
     <span class="closeModal">&times;</span>
     <img class="modal-content" id="img04">
     <div id="caption4"></div>
+</div>
+<div id="checkin1Modal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img05">
+    <div id="caption5"></div>
+</div>
+<div id="checkin2Modal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img06">
+    <div id="caption6"></div>
 </div>
 
 <script src="{{ asset('js/newScript.js') }}" type="text/javascript"></script>

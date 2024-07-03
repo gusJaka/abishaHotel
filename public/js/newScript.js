@@ -8,7 +8,7 @@ var captionText = document.getElementById("caption1");
 img.onclick = function(){
     modal.style.display = "block";
     modalImg.src = this.src;
-    captionText.innerHTML = this.alt;
+    // captionText.innerHTML = this.alt;
 }
 
 // Get the <span> element that closes the modal
@@ -29,7 +29,7 @@ var captionText = document.getElementById("caption2");
 img.onclick = function(){
     modal.style.display = "block";
     modalImg.src = this.src;
-    captionText.innerHTML = this.alt;
+    // captionText.innerHTML = this.alt;
 }
 
 // Get the <span> element that closes the modal
@@ -50,7 +50,7 @@ var captionText = document.getElementById("caption3");
 img.onclick = function(){
     modal.style.display = "block";
     modalImg.src = this.src;
-    captionText.innerHTML = this.alt;
+    // captionText.innerHTML = this.alt;
 }
 
 // Get the <span> element that closes the modal
@@ -71,7 +71,7 @@ var captionText = document.getElementById("caption4");
 img.onclick = function(){
     modal.style.display = "block";
     modalImg.src = this.src;
-    captionText.innerHTML = this.alt;
+    // captionText.innerHTML = this.alt;
 }
 
 // Get the <span> element that closes the modal
@@ -82,6 +82,51 @@ span.onclick = function() {
     modal.style.display = "none";
 }
 
+/**
+ * Get the modal checkin
+ * @type {HTMLElement}
+ */
+var modal = document.getElementById("checkin1Modal");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById("checkin1");
+var modalImg = document.getElementById("img05");
+var captionText = document.getElementById("caption5");
+img.onclick = function(){
+    modal.style.display = "block";
+    modalImg.src = img.getAttribute('data-bg');
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("closeModal")[4];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modal.style.display = "none";
+}
+
+/**
+ * Get the modal checkin2
+ * @type {HTMLElement}
+ */
+var modal = document.getElementById("checkin2Modal");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById("checkin2");
+var modalImg = document.getElementById("img06");
+var captionText = document.getElementById("caption6");
+img.onclick = function(){
+    modal.style.display = "block";
+    modalImg.src = img.getAttribute('data-bg');
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("closeModal")[5];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modal.style.display = "none";
+}
 
 function updateImageSize() {
     const image = document.getElementById("breakfast");
