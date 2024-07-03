@@ -81,3 +81,36 @@ var span = document.getElementsByClassName("closeModal")[3];
 span.onclick = function() {
     modal.style.display = "none";
 }
+
+
+function updateImageSize() {
+    const image = document.getElementById("breakfast");
+    const rest = document.getElementById("restaurant");
+    const bal = document.getElementById("balcony");
+    const pool = document.getElementById("pool");
+    if (!image) return; // Exit if image not found
+    if (!rest) return; // Exit if image not found
+    if (!bal) return; // Exit if image not found
+    if (!pool) return; // Exit if image not found
+
+    const windowWidth = window.innerWidth;
+
+    // Define different height based on device size (adjust as needed)
+    let newHeight;
+    if (windowWidth < 600) {
+        newHeight = "200px"; // Height for small screens (less than 600px)
+    } else if (windowWidth < 1024) {
+        newHeight = "300px"; // Height for medium screens (600px to 1024px)
+    } else {
+        newHeight = "400px"; // Height for large screens (over 1024px)
+    }
+
+    image.style.setProperty('height', newHeight, 'important');
+    rest.style.setProperty('height', newHeight, 'important');
+    bal.style.setProperty('height', newHeight, 'important');
+    pool.style.setProperty('height', newHeight, 'important');
+}
+
+// Call the function on page load and window resize
+window.addEventListener("load", updateImageSize);
+window.addEventListener("resize", updateImageSize);

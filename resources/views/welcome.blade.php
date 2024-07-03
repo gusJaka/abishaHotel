@@ -118,26 +118,22 @@
     </header>
 
     <div data-bg="{{asset('image/photos/pool_dark.png')}}"
-         class="imgbg1 rocket-lazyload" >
-        <div class="mt-150">
+         class="imgbg1 rocket-lazyload hero-image" style="">
+        <div class="mt-150" >
             <div class="mt-150" ></div>
-            <p class="responsive-heading text-white text-center mb-1" ><b>Bali Abisha Hotel</b></p>
-            <p class="responsive-heading-small text-white text-center mb-1" >Your Getaway Bizcation in Bali</p>
-            <p class="text-white text-center mb-0 heroSectionText pt-3">We invite you to relax and unwind in a homely and family-friendly atmosphere.
-            </p>
-            <p class="text-white text-center mb-0 heroSectionText" >
-                Known for its prime location, Abisha Hotel Sanur is the perfect spot to witness the stunning sunrises of Bali.
-            </p>
-            <p class="text-white text-center mb-0 heroSectionText" >
-                Situated in the heart of Sanur, we provide comfortable and convenient accommodations,
-            </p>
-            <p class=" text-white text-center mb-0 heroSectionText" >
-                making it an ideal choice for families, couples, and business travelers
-            </p>
+            <p class="responsive-heading text-white text-center mb-0 mb-lg-1" ><b>Bali Abisha Hotel</b></p>
+            <p class="responsive-heading-small heroSectionText text-white text-center mb-1 mb-lg-4" >Your Getaway Bizcation in Bali</p>
+            <div class="d-flex justify-content-center px-5 font-weight-300" >
+                <p class="text-white text-center mb-0 responsive-heading-small pt-3" style="width: 700px">We invite you to relax and unwind in a homely and family-friendly atmosphere.
+                    Known for its prime location, Abisha Hotel Sanur is the perfect spot to witness the stunning sunrises of Bali.
+                    Situated in the heart of Sanur, we provide comfortable and convenient accommodations,
+                    making it an ideal choice for families, couples, and business travelers
+                </p>
+            </div>
             <br>
             <br>
             <div class="d-flex justify-content-center">
-                <a type="button" href="https://api.whatsapp.com/send?phone=6281353254589" target="_blank" class="form-control text-center" style="background-color: #e1dbc1; width: 100px"><b>Contact Us</b></a>
+                <a type="button" href="https://api.whatsapp.com/send?phone=6281353254589" target="_blank" class="form-control text-center button-hero "><b>Contact Us</b></a>
             </div>
         </div>
     </div>
@@ -149,8 +145,8 @@
 
                     <div class="row d-flex justify-content-center text-center pt-2">
                         <div>
-                            <div class="col-lg-12 text-white" style="font-size: 30px"><b>Bali Abisha Hotel</b></div>
-                            <div class="col-lg-12 text-white" style="font-size: 50px"><b>SANUR</b></div>
+                            <div class="col-lg-12 text-white sliderFontSize30" ><b>Bali Abisha Hotel</b></div>
+                            <div class="col-lg-12 text-white sliderFontSize30" ><b>SANUR</b></div>
                         </div>
                     </div>
                 </div>
@@ -159,8 +155,8 @@
 
                     <div class="row d-flex justify-content-center text-center pt-2">
                         <div>
-                            <div class="col-lg-12 text-white" style="font-size: 30px"><b>Bali Abisha Hotel</b></div>
-                            <div class="col-lg-12 text-white" style="font-size: 50px"><b>SANUR</b></div>
+                            <div class="col-lg-12 text-white sliderFontSize30" ><b>Bali Abisha Hotel</b></div>
+                            <div class="col-lg-12 text-white sliderFontSize30" ><b>SANUR</b></div>
                         </div>
                     </div>
                 </div>
@@ -171,8 +167,8 @@
 
                     <div class="row d-flex justify-content-center text-center pt-2">
                         <div>
-                            <div class="col-lg-12 text-white" style="font-size: 30px"><b>Bali Abisha Hotel</b></div>
-                            <div class="col-lg-12 text-white" style="font-size: 50px"><b>Jimbaran</b></div>
+                            <div class="col-lg-12 text-white sliderFontSize30" ><b>Bali Abisha Hotel</b></div>
+                            <div class="col-lg-12 text-white sliderFontSize30" ><b>JIMBARAN</b></div>
                         </div>
                     </div>
                 </div>
@@ -181,8 +177,8 @@
 
                     <div class="row d-flex justify-content-center text-center pt-2">
                         <div>
-                            <div class="col-lg-12 text-white" style="font-size: 30px"><b>Bali Abisha Hotel</b></div>
-                            <div class="col-lg-12 text-white " style="font-size: 50px"><b >Jimbaran</b></div>
+                            <div class="col-lg-12 text-white sliderFontSize30" ><b>Bali Abisha Hotel</b></div>
+                            <div class="col-lg-12 text-white sliderFontSize30" ><b >JIMBARAN</b></div>
                         </div>
                     </div>
                 </div>
@@ -197,12 +193,12 @@
                 </div>
             </div>
         </div>
-        <div id="Bliss" class="main_title">
-            <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-small"> Find your best getaway, let’s experience joyful vacation, and having done your business
+        <div  class="font-weight-300 py-3 py-md-5">
+            <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small "> Find your best getaway, let’s experience joyful vacation, and having done your business
                 at the same time at our
-                comfortable accommodation.</h3>
-            <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-small"> BALI ABISHA SANUR HOTEL consist of modern rooms with terrace and pool access.</h3>
-            <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-small"> It is best choice for anyone, either on business trip or vacation.</h3>
+                comfortable accommodation.</p>
+            <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small"> BALI ABISHA SANUR HOTEL consist of modern rooms with terrace and pool access.</p>
+            <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small"> It is best choice for anyone, either on business trip or vacation.</p>
         </div>
         <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
              class="imgbg1 rocket-lazyload mx-5"></div>
@@ -240,10 +236,10 @@
             </div>
         </div>
 
-        <div id="Bliss" class="main_title">
-            <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-small">  Esteemed guests are welcome to relax and unwind in a quiet feels-like-home and family friendly setting in the most
-                popular area for the best sunrise spots in Bali.</h3>
-            <h3 class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-small"> Our guests will be assisted by friendly and helpful staff from check in process, during in house until check out time.</h3><br>
+        <div class="font-weight-300  pt-3 pt-md-5">
+            <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small">  Esteemed guests are welcome to relax and unwind in a quiet feels-like-home and family friendly setting in the most
+             p popular area for the best sunrise spots in Bali.</p>
+            <p class="mx-5 px-5 mb-0 mobile-no-px-mx responsive-heading-small"> Our guests will be assisted by friendly and helpful staff from check in process, during in house until check out time.</p><br>
         </div>
 
         {{--Third Section--}}
@@ -256,40 +252,40 @@
         </div>
 
         <div class="row mx-3">
-            <div class="col-3">
+            <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/kamar.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/kamar2.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/kamar3.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/kamar4.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
             </div>
         </div>
 
         <div class="row mx-3">
-            <div class="col-3">
+            <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/activity.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/activity2.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/activity3.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/activity4.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
             </div>
         </div>
 
@@ -301,6 +297,7 @@
                 </div>
             </div>
         </div>
+
         <div id="archive" class="tectbox margin_60 ">
             <div class="container ">
                 <div class="row">
@@ -310,8 +307,8 @@
                                 <h2>Breakfast</h2>
                             </div>
 
-                            <figure>
-                                <img class="fadeover"
+                            <figure >
+                                <img class="fadeover" id="breakfast"
                                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                      data-lazy-src="{{asset('image/photos/breakfast.jpg')}}"/>
                                 <noscript><img class="fadeover"
@@ -319,7 +316,7 @@
                                 </noscript>
 
 
-                                <figcaption>Take some breakfast</figcaption>
+                                <figcaption style="font-size: 18px">Take some breakfast</figcaption>
                             </figure>
 
 
@@ -336,7 +333,7 @@
 
                             <figure>
 
-                                <img class="fadeover"
+                                <img class="fadeover" id="restaurant"
                                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                      data-lazy-src="{{asset('image/photos/restaurant.jpg')}}"/>
                                 <noscript><img class="fadeover"
@@ -344,7 +341,7 @@
                                 </noscript>
 
 
-                                <figcaption>Comfortable Restaurant</figcaption>
+                                <figcaption style="font-size: 18px">Comfortable Restaurant</figcaption>
                             </figure>
 
 
@@ -361,7 +358,7 @@
 
                             <figure>
 
-                                <img class="fadeover"
+                                <img class="fadeover" id="balcony"
                                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                      data-lazy-src="{{asset('image/photos/balcony.jpg')}}"/>
                                 <noscript><img class="fadeover"
@@ -369,7 +366,7 @@
                                 </noscript>
 
 
-                                <figcaption>Watch beatiful view from the Balcony</figcaption>
+                                <figcaption class="pt-1 pt-lg-3" style="font-size: 18px">Watch beatiful view from the Balcony</figcaption>
                             </figure>
 
 
@@ -386,7 +383,7 @@
 
                             <figure>
 
-                                <img class="fadeover"
+                                <img class="fadeover" id="pool"
                                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                      data-lazy-src="{{asset('image/photos/pool.jpg')}}"/>
                                 <noscript><img class="fadeover"
@@ -394,7 +391,7 @@
                                 </noscript>
 
 
-                                <figcaption>Take some rest in the Pool</figcaption>
+                                <figcaption class="pt-1 pt-lg-3" style="font-size: 18px;">Take some rest in the Pool</figcaption>
                             </figure>
 
 
@@ -415,21 +412,21 @@
         </div>
 
         <div class="row mx-5">
-            <div class="col-3">
+            <div class="col-12 col-lg-3 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/dinner.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive" ></div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/dinner2.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive" ></div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/dinner3.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive" ></div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/dinner4.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
             </div>
         </div>
 
@@ -443,17 +440,17 @@
         </div>
 
         <div class="row mx-5">
-            <div class="col-4">
+            <div class="col-12 col-lg-4 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/aula.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
             </div>
-            <div class="col-4">
+            <div class="col-12 col-lg-4 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/aula3.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
             </div>
-            <div class="col-4">
+            <div class="col-12 col-lg-4 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/aula2.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
             </div>
         </div>
 
@@ -470,12 +467,12 @@
         <div class="container-fluid contact">
             <div class="container">
                 <div class="main_title">
-                    <p><b>Book Your BizCation Accomodation Now!</b></p>
+                    <p class="responsive-heading-small"><b>Book Your BizCation Accomodation Now!</b></p>
                 </div>
             </div>
             <div class="row">
-                <div class="col-3"></div>
-                <div class="col-6" style=" background:#FFFFFF">
+                <div class="col-1 col-lg-3"></div>
+                <div class="col-10 col-lg-6" style=" background:#FFFFFF">
                     <div role="form" class="wpcf7" id="wpcf7-f33-o1" lang="en-US" dir="ltr">
                         <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p>
                             <ul></ul>
@@ -525,7 +522,7 @@
                         </form>
                     </div>
                 </div>
-                <div class="col-3"></div>
+                <div class="col-1 col-lg-3"></div>
 
             </div>
         </div>
