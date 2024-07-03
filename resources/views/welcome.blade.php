@@ -117,7 +117,7 @@
         </div>
     </header>
 
-    <div data-bg="{{asset('image/photos/pool_dark.png')}}"
+    <div data-bg="{{asset('image/photos/pool_dark2.jpg')}}"
          class="imgbg1 rocket-lazyload hero-image" style="">
         <div class="mt-150" >
             <div class="mt-150" ></div>
@@ -207,10 +207,10 @@
             <div id="jig1" class="justified-image-grid jig-58d11a5019626c891ccd65d381be89d2 jig-preset-global">
                 <!-- Trigger the Modal -->
                 <div class="d-flex justify-content-center pt-3">
-                    <img id="exterior" src="{{asset('image/photos/DSC09729EE.jpg')}}" alt="Gambar 1" class="responsive-image px-2">
-                    <img id="bukaPintu" src="{{asset('image/photos/buka-pintu.jpg')}}" alt="Gambar 2" class="responsive-image px-2">
-                    <img id="bagasi" src="{{asset('image/photos/bagasi.jpg')}}" alt="Gambar 3" class="responsive-image px-2">
-                    <img id="mengantar" src="{{asset('image/photos/mengantar.jpg')}}" alt="Gambar 4" class="responsive-image px-2">
+                    <img id="exterior" src="{{asset('image/photos/DSC09729EE.jpg')}}" alt="Gambar 1" class="responsive-image px-2" loading="lazy">
+                    <img id="bukaPintu" src="{{asset('image/photos/buka-pintu.jpg')}}" alt="Gambar 2" class="responsive-image px-2" loading="lazy">
+                    <img id="bagasi" src="{{asset('image/photos/bagasi.jpg')}}" alt="Gambar 3" class="responsive-image px-2" loading="lazy">
+                    <img id="mengantar" src="{{asset('image/photos/mengantar.jpg')}}" alt="Gambar 4" class="responsive-image px-2" loading="lazy">
                 </div>
 
             </div>
