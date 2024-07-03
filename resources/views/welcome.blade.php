@@ -44,8 +44,8 @@
           media='all'/>
     <script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="{{asset('js/jquery.min.js')}}"
             id="jquery-core-js" defer></script>
-    <script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="{{asset('js/jquery-migrate.min.js')}}"
-            id="jquery-migrate-js" defer></script>
+{{--    <script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="{{asset('js/jquery-migrate.min.js')}}"--}}
+{{--            defer></script>--}}
     <script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="{{asset('js/javascript3.js')}}"
             id="jquery-migrate-js" defer></script>
     <script type="rocketlazyloadscript" data-rocket-type="text/javascript" src="{{asset('js/superfly-menu.min.js')}}"
@@ -646,9 +646,8 @@
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript"
         src="{{asset('js/justified-image-grid.min.js')}}"
         id="justified-image-grid-js" defer></script>
-<script data-rocket-type="text/javascript"
-        src="{{asset('js/javascript4.js')}}"
-        defer></script>
+<script src="{{ asset('js/javascript4.js') }}" type="text/javascript"></script>
+
 <script data-no-minify="1" async
         src="{{asset('js/lazyload.min.js')}}"></script>
 </body>
