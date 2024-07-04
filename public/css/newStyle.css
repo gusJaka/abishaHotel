@@ -31,21 +31,15 @@
 
 #mengantar:hover {opacity: 0.7;}
 
-#checkin1 {
+
+.hoverImage{
     border-radius: 5px;
     cursor: pointer;
     transition: 0.3s;
 }
 
-#checkin1:hover {opacity: 0.7;}
-
-#checkin2 {
-    border-radius: 5px;
-    cursor: pointer;
-    transition: 0.3s;
-}
-
-#checkin2:hover {opacity: 0.7;}
+.hoverImage:hover
+{opacity: 0.7;}
 
 /* The Modal (background) */
 .modal {

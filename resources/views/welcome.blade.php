@@ -228,11 +228,11 @@
         <div class="row mx-3">
             <div class="col-6 ">
                 <div data-bg="{{asset('image/photos/checkin.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 mobile-image-size" id="checkin1" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 mobile-image-size hoverImage" id="checkin1" style="height: 500px;width: auto"></div>
             </div>
             <div class="col-6 ">
                 <div data-bg="{{asset('image/photos/checkinZoom.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 mobile-image-size" id="checkin2" style="height: 500px;width: auto"></div>
+                     class="imgbg1 rocket-lazyload mt-5 mobile-image-size hoverImage" id="checkin2" style="height: 500px;width: auto"></div>
             </div>
         </div>
 
@@ -254,38 +254,38 @@
         <div class="row mx-3">
             <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/kamar.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="kamar"></div>
             </div>
             <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/kamar2.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="kamar2"></div>
             </div>
             <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/kamar3.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="kamar3"></div>
             </div>
             <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/kamar4.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="kamar4"></div>
             </div>
         </div>
 
         <div class="row mx-3">
             <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/activity.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="activity"></div>
             </div>
             <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/activity2.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="activity2"></div>
             </div>
             <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/activity3.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="activity3"></div>
             </div>
             <div class="col-12 col-lg-3">
                 <div data-bg="{{asset('image/photos/activity4.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="activity4"></div>
             </div>
         </div>
 
@@ -414,19 +414,19 @@
         <div class="row mx-5">
             <div class="col-12 col-lg-3 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/dinner.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive" ></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="dinner"></div>
             </div>
             <div class="col-12 col-lg-3 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/dinner2.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive" ></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="dinner2"></div>
             </div>
             <div class="col-12 col-lg-3 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/dinner3.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive" ></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="dinner3"></div>
             </div>
             <div class="col-12 col-lg-3 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/dinner4.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="dinner4"></div>
             </div>
         </div>
 
@@ -442,15 +442,15 @@
         <div class="row mx-5">
             <div class="col-12 col-lg-4 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/aula.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="aula"></div>
             </div>
             <div class="col-12 col-lg-4 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/aula3.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="aula2"></div>
             </div>
             <div class="col-12 col-lg-4 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/aula2.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="aula3"></div>
             </div>
         </div>
 
@@ -682,6 +682,74 @@
     <img class="modal-content" id="img06">
     <div id="caption6"></div>
 </div>
+<div id="kamarModal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img07">
+    <div id="caption7"></div>
+</div>
+<div id="kamar2Modal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img08">
+    <div id="caption8"></div>
+</div>
+<div id="kamar3Modal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img09">
+    <div id="caption9"></div>
+</div>
+<div id="kamar4Modal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img10">
+    <div id="caption10"></div>
+</div>
+<div id="activityModal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img11">
+    <div id="caption11"></div>
+</div>
+<div id="activity2Modal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img12">
+    <div id="caption12"></div>
+</div>
+<div id="activity3Modal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img13">
+    <div id="caption13"></div>
+</div>
+<div id="activity4Modal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img14">
+    <div id="caption14"></div>
+</div>
+<div id="dinnerModal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img15">
+</div>
+<div id="dinner2Modal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img16">
+</div>
+<div id="dinner3Modal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img17">
+</div>
+<div id="dinner4Modal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img18">
+</div>
+<div id="aulaModal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img19">
+</div>
+<div id="aula2Modal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img20">
+</div>
+<div id="aula3Modal" class="modal" style="z-index: 999999">
+    <span class="closeModal">&times;</span>
+    <img class="modal-content" id="img21">
+</div>
 
-<script src="{{ asset('js/newScript.js') }}" type="text/javascript"></script>
+<script src="{{ asset('js/newScript.js').date('H:i:s Y:m:d') }}" type="text/javascript"></script>
 
