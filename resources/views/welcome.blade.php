@@ -80,37 +80,57 @@
 
 <body data-rsssl=1 class="home blog class-name">
 <div id="page">
-    <header class="version_2">
+    <header class="version_2" style="position: absolute; width: 100%">
         <div class="layer"></div><!-- Mobile menu overlay mask -->
-        <div class="main_header Sticky" style="background-color: #361601">
+        <div class="main_header Sticky" style="background-color: transparent">
 
-            <div class="container">
+            <div class="">
                 <div class="row small-gutters">
 
                     <div class="col-12 col-sm-4 col-md-4 d-lg-flex align-items-center">
-                        <div class="slogan"></div>
-                    </div>
-
-                    <div class="col-3 col-sm-4 col-md-4 d-lg-flex align-items-center hd">
                         <div id="logo">
                             <a class="main-logo" href='https://baliabishahotels.com'>
                                 <img
                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                    alt="Bali Abisha Hotel" data-lazy-src="{{asset('image/abisha_head_banner.png')}}"/>
+                                    alt="Bali Abisha Hotel" data-lazy-src="{{asset('image/abisha_head_banner_full_white.png')}}"/>
                                 <noscript><img
                                         src="{{asset('image/abisha_head_banner.png')}}"
                                         alt="Bali Abisha Hotel"/></noscript>
                             </a>
                         </div>
+                    </div>
 
+                    <div class="col-3 col-sm-4 col-md-4 d-lg-flex align-items-center hd">
 
                     </div>
-                    <div class="col-12 col-sm-4 col-md-4 d-lg-flex align-items-center justify-content-end text-right">
-                        <div class="phone_header">
-                            <span class="layanan"> </span> <span class="icons">  <div class="follow_us">
-</div>
-                </span>
+                    <div class="col-12 col-sm-4 col-md-4 d-flex align-items-center justify-content-end">
+                        <a type="button" href="https://api.whatsapp.com/send?phone=6281353254589" target="_blank" class="form-control text-center btn warning" ><b>Book Now</b></a>
+
+                        <div class="container">
+                            <button id="hamburger-icon" class="hamburger">
+                                <span class="bar bar-top"></span>
+                                <span class="bar bar-middle"></span>
+                                <span class="bar bar-bottom"></span>
+                            </button>
+
+                            <div id="right-sidebar" class="sidebar">
+                                <div class="sidebar-header">
+                                    <h2 class="pl-3 text-white"><b>Abisha Hotel</b></h2> <button class="close-sidebar text-white">X</button>
+                                </div>
+                                <hr>
+                                <div class="sidebar-content">
+                                    <a href="#section1" type="button" class="form-control text-center btn white ">Section 1</a>
+                                    <a href="#section2" type="button" class="form-control text-center btn white ">Section 2</a>
+                                    <a href="#section3" type="button" class="form-control text-center btn white ">Section 3</a>
+                                </div>
+                            </div>
+
                         </div>
+{{--                        <div class="phone_header">--}}
+{{--                            <span class="layanan"> </span> <span class="icons">  <div class="follow_us">--}}
+{{--                            </div>--}}
+{{--                        </span>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
             </div>
@@ -118,7 +138,7 @@
     </header>
 
     <div data-bg="{{asset('image/photos/pool_dark2.jpg')}}"
-         class="imgbg1 rocket-lazyload hero-image" style="">
+         class="imgbg1 rocket-lazyload hero-image" >
         <div class="mt-150" >
             <div class="mt-150" ></div>
             <p class="responsive-heading text-white text-center mb-0 mb-lg-1" ><b>Bali Abisha Hotel</b></p>
@@ -133,17 +153,18 @@
             <br>
             <br>
             <div class="d-flex justify-content-center">
-                <a type="button" href="https://api.whatsapp.com/send?phone=6281353254589" target="_blank" class="form-control text-center button-hero "><b>Contact Us</b></a>
+                <a type="button" href="https://www.instagram.com/abishahoteljimbaran/" target="_blank" class="form-control text-center button-hero warning mx-3"><img src="" data-src="{{asset('image/instagram.png')}}" class="lazy" style="width: 25px; height: auto;margin-top: 0px"> abishahoteljimbaran</a>
+                <a type="button" href="https://api.whatsapp.com/send?phone=6281353254589" target="_blank" class="form-control text-center button-hero warning mx-3"> <img src="" data-src="{{asset('image/wa.png')}}" class="lazy" style="width: 25px; height: auto;margin-top: 0px"> +6281353254589</a>
             </div>
         </div>
-    </div>
-    <main>
-        <div id="carousel-home" class="row mt-3">
-            <div class="owl-carousel owl-theme col-lg-6 col-sm-12 pb-2">
-                <div data-bg="{{asset('image/photos/DSC09769.jpg')}}"
-                     class="owl-slide cover rocket-lazyload" style="">
+        <div id="carousel-home" class="row" style="margin-top: 150px">
+            <div class="col-lg-2 col-sm-12 pb-2 px-0"></div>
+            <div class="owl-carousel owl-theme col-lg-4 col-sm-12 pb-2 px-0 ">
 
-                    <div class="row d-flex justify-content-center text-center pt-2">
+                <div data-bg="{{asset('image/photos/DSC09769.jpg')}}"
+                     class="owl-slide cover rocket-lazyload" style="height: 400px !important;">
+
+                    <div class="row d-flex justify-content-center text-center pt-2 ">
                         <div>
                             <div class="col-lg-12 text-white sliderFontSize30" ><b>Bali Abisha Hotel</b></div>
                             <div class="col-lg-12 text-white sliderFontSize30" ><b>SANUR</b></div>
@@ -151,7 +172,7 @@
                     </div>
                 </div>
                 <div data-bg="{{asset('image/photos/kamar.jpg')}}"
-                     class="owl-slide cover rocket-lazyload" style="">
+                     class="owl-slide cover rocket-lazyload" style="height: 400px !important;">
 
                     <div class="row d-flex justify-content-center text-center pt-2">
                         <div>
@@ -161,9 +182,9 @@
                     </div>
                 </div>
             </div>
-            <div class="owl-carousel owl-theme col-lg-6 col-sm-12">
+            <div class="owl-carousel owl-theme col-lg-4 col-sm-12 px-0" >
                 <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
-                     class="owl-slide cover rocket-lazyload" style="">
+                     class="owl-slide cover rocket-lazyload" style="height: 400px !important;">
 
                     <div class="row d-flex justify-content-center text-center pt-2">
                         <div>
@@ -173,7 +194,7 @@
                     </div>
                 </div>
                 <div data-bg="{{asset('image/photos/aula.jpg')}}"
-                     class="owl-slide cover rocket-lazyload" style="">
+                     class="owl-slide cover rocket-lazyload" style="height: 400px !important;">
 
                     <div class="row d-flex justify-content-center text-center pt-2">
                         <div>
@@ -183,7 +204,12 @@
                     </div>
                 </div>
             </div>
+            <div class="col-lg-2 col-sm-12 pb-2 px-0"></div>
         </div>
+    </div>
+
+    <main style="margin-top:350px">
+
         <div id="icon_drag_mobile"></div>
 
         <div class="top_banner mt-4">
@@ -316,7 +342,7 @@
                                 </noscript>
 
 
-                                <figcaption style="font-size: 18px">Take some breakfast</figcaption>
+{{--                                <figcaption style="font-size: 18px">Take some breakfast</figcaption>--}}
                             </figure>
 
 
@@ -341,7 +367,7 @@
                                 </noscript>
 
 
-                                <figcaption style="font-size: 18px">Comfortable Restaurant</figcaption>
+{{--                                <figcaption style="font-size: 18px">Comfortable Restaurant</figcaption>--}}
                             </figure>
 
 
@@ -366,7 +392,7 @@
                                 </noscript>
 
 
-                                <figcaption class="pt-1 pt-lg-3" style="font-size: 18px">Watch beatiful view from the Balcony</figcaption>
+{{--                                <figcaption class="pt-1 pt-lg-3" style="font-size: 18px">Watch beatiful view from the Balcony</figcaption>--}}
                             </figure>
 
 
@@ -391,7 +417,7 @@
                                 </noscript>
 
 
-                                <figcaption class="pt-1 pt-lg-3" style="font-size: 18px;">Take some rest in the Pool</figcaption>
+{{--                                <figcaption class="pt-1 pt-lg-3" style="font-size: 18px;">Take some rest in the Pool</figcaption>--}}
                             </figure>
 
 

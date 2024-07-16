@@ -334,3 +334,32 @@ function updateImageSize() {
 // Call the function on page load and window resize
 window.addEventListener("load", updateImageSize);
 window.addEventListener("resize", updateImageSize);
+
+
+//Scroll
+const header = document.querySelector('.main_header');
+const threshold = 50; // Adjust this value to control the scroll point (in pixels) where the background appears
+
+window.addEventListener('scroll', function() {
+    const scrolled = window.scrollY;
+    if (scrolled > threshold) {
+        header.style.backgroundColor = 'rgba(0, 0, 0, 0.8)'; // Set desired solid background color
+    } else {
+        header.style.backgroundColor = 'rgba(0, 0, 0, 0.0)'; // Transparent again
+    }
+});
+
+//sidebar
+const hamburgerIcon = document.getElementById('hamburger-icon');
+const rightSidebar = document.getElementById('right-sidebar');
+
+hamburgerIcon.addEventListener('click', () => {
+    rightSidebar.classList.toggle('active'); // Toggle the "active" class
+});
+
+// Optional: Close sidebar when clicking outside (if desired)
+document.addEventListener('click', (event) => {
+    if (event.target !== hamburgerIcon && event.target !== rightSidebar) {
+        rightSidebar.classList.remove('active');
+    }
+});

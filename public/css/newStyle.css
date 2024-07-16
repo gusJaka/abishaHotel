@@ -139,7 +139,7 @@
     width: auto !important;
 }
 .sliderFontSize30{
-    font-size: 50px
+    font-size: 24px;
 }
 .sliderFontSize50{
     font-size: 50px
@@ -149,14 +149,164 @@
 }
 
 .button-hero{
-    background-color: #e1dbc1;
-    width: 150px;
-    font-size: 24px;
+    /*background-color: transparent;*/
+    /*border: 2px solid black;*/
+    /*width: 150px;*/
+    /*font-size: 24px;*/
+    border: 2px solid black;
+    background-color: transparent;
+    color: black;
+    /*padding: 14px 28px;*/
+    padding-top: 7px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 200px;
 }
 .font-weight-300{
     font-weight: 300;
     text-align: center;
 }
+
+.main_header {
+    background-color: rgba(0, 0, 0, 0.0); /* Transparent background */
+    transition: background-color 0.3s ease-in-out; /* Smooth transition */
+    position: fixed; /* Fix the header to the top */
+    top: 0; /* Position it at the top of the viewport */
+    left: 0; /* Align it to the left of the viewport */
+    width: 100%; /* Make it cover the entire width */
+    z-index: 10; /* Ensure the header stays on top of other elements */
+}
+.imgbg1.hero-image {
+    position: relative !important; /* Make the hero image a positioning context */
+    top: 0;
+}
+
+.btn {
+    border: 2px solid black;
+    background-color: transparent;
+    color: black;
+    /*padding: 14px 28px;*/
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Orange */
+.warning {
+    border-color: #ff9800;
+    color: white;
+}
+
+.warning:hover {
+    background: #ff9800;
+    color: white;
+}
+
+/* Orange */
+.white {
+    border-color: #ff9800;
+    color: white;
+}
+
+.white:hover {
+    background: white;
+    color: black;
+}
+
+/*
+Hamburger Icon
+ */
+/* Style the container */
+.container {
+    position: relative; /* Needed for proper positioning */
+}
+
+/* Style the hamburger icon */
+.hamburger {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 30px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    margin-left: 10px; /* Adjust margin as needed */
+}
+
+.hamburger .bar {
+    width: 100%;
+    height: 3px;
+    background-color: #ff9800;
+    margin-bottom: 5px;
+}
+
+/* Style the right sidebar */
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 100vh;
+    background-color: #ff9800;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transform: translateX(100%); /* Initially hidden off-screen */
+    transition: transform 0.3s ease-in-out; /* Smooth slide-in animation */
+}
+
+/* Style the sidebar when it's active (clicked) */
+.sidebar.active {
+    transform: translateX(0);
+    color: white;
+    border-left: 5px solid white;
+}
+
+/* Style the "Close Sidebar" button */
+.close-sidebar {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+/**
+button sidebar
+ */
+/* Style the sidebar content */
+.sidebar-content {
+    /* ... existing styles ... */
+}
+
+/* Style the navigation list */
+.sidebar-nav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-nav li {
+    display: inline-block; /* Make list items behave like inline elements */
+    margin-right: 10px; /* Add some spacing between buttons */
+}
+
+.sidebar-nav a {
+    display: inline-block; /* Match display with parent */
+    padding: 10px 20px; /* Add padding for button visuals */
+    border: none; /* Remove default link border */
+    border-radius: 5px; /* Create rounded corners */
+    text-decoration: none;
+    color: #fff; /* Text color (white) */
+    font-weight: bold; /* Bold text for button-like feel */
+    transition: background-color 0.2s ease-in-out; /* Smooth transition on hover */
+}
+
+.sidebar-nav a:hover {
+    background-color: #007bff; /* Change background color on hover */
+}
+
 /* 100% Image Width on Smaller Screens */
 @media only screen and (max-width: 700px){
     .modal-content {
