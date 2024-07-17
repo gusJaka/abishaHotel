@@ -80,7 +80,7 @@
 
 <body data-rsssl=1 class="home blog class-name">
 <div id="page">
-    <header class="version_2" style="position: absolute; width: 100%">
+    <header class="version_2" style="position: absolute; width: 100%" id="home">
         <div class="layer"></div><!-- Mobile menu overlay mask -->
         <div class="main_header Sticky" style="background-color: transparent">
 
@@ -119,8 +119,8 @@
                                 </div>
                                 <hr>
                                 <div class="sidebar-content">
-                                    <a href="#section1" type="button" class="form-control text-center btn white ">Section 1</a>
-                                    <a href="#section2" type="button" class="form-control text-center btn white ">Section 2</a>
+                                    <a href="#home" type="button" class="form-control text-center btn white ">Home</a>
+                                    <a href="#vacation" type="button" class="form-control text-center btn white ">Vacation</a>
                                     <a href="#section3" type="button" class="form-control text-center btn white ">Section 3</a>
                                 </div>
                             </div>
@@ -208,39 +208,57 @@
         </div>
     </div>
 
-    <main style="margin-top:350px">
+    <main style="margin-top:400px">
 
         <div id="icon_drag_mobile"></div>
 
-        <div class="top_banner mt-4">
-            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
-                <div class="container">
-                    <h1 style="color: #361601; "><b>Experience the Joyful Vacation</b></h1>
+{{--        <div class="top_banner mt-4">--}}
+{{--            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">--}}
+{{--                <div class="container">--}}
+{{--                    <h1 style="color: #361601; "><b>Experience the Joyful Vacation</b></h1>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+        <div class="row" id="vacation">
+            <div class="col-12 col-lg-7">
+                <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
+                     class="imgbg1 rocket-lazyload" style="height: 500px"></div>
+
+                <div class="row">
+                    <div class="col-4 col-lg-4 " >
+                        <img id="bukaPintu" src="{{asset('image/photos/buka-pintu.jpg')}}" alt="Gambar 2" class="responsive-image "  loading="lazy">
+                    </div>
+                    <div class="col-4 col-lg-4" >
+                        <img id="bagasi" src="{{asset('image/photos/bagasi.jpg')}}" alt="Gambar 3" class="responsive-image "  loading="lazy">
+                    </div>
+                    <div class="col-4 col-lg-4" >
+                        <img id="mengantar" src="{{asset('image/photos/mengantar.jpg')}}" alt="Gambar 4" class="responsive-image "  loading="lazy">
+                    </div>
+{{--                    <div id="jig1" class="justified-image-grid jig-58d11a5019626c891ccd65d381be89d2 jig-preset-global">--}}
+{{--                        <!-- Trigger the Modal -->--}}
+{{--                        <div class="d-flex justify-content-center pt-3 row">--}}
+                            <img id="exterior" src="{{asset('image/photos/DSC09729EE.jpg')}}" alt="Gambar 1" class="responsive-image px-2 d-none" loading="lazy">
+{{--                        </div>--}}
+
+{{--                    </div>--}}
                 </div>
             </div>
-        </div>
-        <div  class="font-weight-300 py-3 py-md-5">
-            <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small "> Find your best getaway, let’s experience joyful vacation, and having done your business
-                at the same time at our
-                comfortable accommodation.</p>
-            <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small"> BALI ABISHA SANUR HOTEL consist of modern rooms with terrace and pool access.</p>
-            <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small"> It is best choice for anyone, either on business trip or vacation.</p>
-        </div>
-        <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
-             class="imgbg1 rocket-lazyload mx-5"></div>
-
-        <div class="">
-            <div id="jig1" class="justified-image-grid jig-58d11a5019626c891ccd65d381be89d2 jig-preset-global">
-                <!-- Trigger the Modal -->
-                <div class="d-flex justify-content-center pt-3">
-                    <img id="exterior" src="{{asset('image/photos/DSC09729EE.jpg')}}" alt="Gambar 1" class="responsive-image px-2" loading="lazy">
-                    <img id="bukaPintu" src="{{asset('image/photos/buka-pintu.jpg')}}" alt="Gambar 2" class="responsive-image px-2" loading="lazy">
-                    <img id="bagasi" src="{{asset('image/photos/bagasi.jpg')}}" alt="Gambar 3" class="responsive-image px-2" loading="lazy">
-                    <img id="mengantar" src="{{asset('image/photos/mengantar.jpg')}}" alt="Gambar 4" class="responsive-image px-2" loading="lazy">
+            <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center" style="padding-right: 100px !important;">
+                <div  class="font-weight-300 py-3 ">
+                    <p class="mobile-no-px-mx small-text "> Bali Abisha Hotel and Villa.</p>
+                    <p class="mobile-no-px-mx big-text "> <strong>Experience the Joyful Vacation</strong></p>
+                    <p class="mobile-no-px-mx responsive-heading-small "> Find your best getaway, let’s experience joyful
+                        vacation, and having done your business at the same time at our comfortable accommodation. BALI
+                        ABISHA SANUR HOTEL consist of modern rooms with terrace and pool access. It is best choice for
+                        anyone, either on business trip or vacation.</p>
+                    <a type="button" href="https://api.whatsapp.com/send?phone=6281353254589" target="_blank" class="form-control text-center button-hero green">  Book Now</a>
                 </div>
-
             </div>
+
         </div>
+
+
+
 
         {{--Second Section--}}
         <div class="top_banner mt-4">
