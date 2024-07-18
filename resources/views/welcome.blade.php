@@ -125,7 +125,13 @@
                                 <div class="sidebar-content">
                                     <a href="#home" type="button" class="form-control text-center btn white ">Home</a>
                                     <a href="#vacation" type="button" class="form-control text-center btn white ">Vacation</a>
-                                    <a href="#section3" type="button" class="form-control text-center btn white ">Section 3</a>
+                                    <a href="#customer_service" type="button" class="form-control text-center btn white ">Customer Service</a>
+                                    <a href="#rooms" type="button" class="form-control text-center btn white ">Rooms</a>
+                                    <a href="#facility" type="button" class="form-control text-center btn white ">Facility</a>
+                                    <a href="#offer" type="button" class="form-control text-center btn white ">Special Offer</a>
+                                    <a href="#review" type="button" class="form-control text-center btn white ">Review</a>
+                                    <a href="#book_now" type="button" class="form-control text-center btn white ">Book Now</a>
+                                    <a href="#contact" type="button" class="form-control text-center btn white ">Contact us</a>
                                 </div>
                             </div>
 
@@ -261,7 +267,7 @@
 
         </div>
 
-        <div class="row" id="vacation" style="margin-top:50px">
+        <div class="row" id="customer_service" style="margin-top:50px">
             <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center" style="padding-left: 100px !important;">
                 <div  class="font-weight-300 py-3 ">
                     <p class="mobile-no-px-mx small-text "> Bali Abisha Hotel & Villa.</p>
@@ -343,7 +349,7 @@
 {{--            </div>--}}
 {{--        </div>--}}
 
-        <div class="font-weight-300 pt-3 pt-md-5" style="margin-top: 50px">
+        <div class="font-weight-300 pt-3 pt-md-5" style="margin-top: 50px" id="rooms">
             <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center big-text"><strong> Experience the Comfort of Our Rooms</strong></p>
             <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center" style="padding-left: 200px !important; padding-right: 200px !important;">  Experience the
                 ultimate comfort at Bali Abisha Hotel & Villa. Our elegantly designed rooms offer a serene and
@@ -425,7 +431,7 @@
 {{--            </div>--}}
 {{--        </div>--}}
 
-        <div class="font-weight-300 pt-3 pt-md-5">
+        <div class="font-weight-300 pt-3 pt-md-5" id="facility">
             <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center big-text"><strong> Enjoy Our Facility</strong></p>
         </div>
 
@@ -433,7 +439,7 @@
             <div class="container ">
                 <div class="row">
                     <div class="col-md-6">
-                        <article class="blog lifestyle" style="background-color: black !important;">
+                        <article class="blog lifestyle" style="background-color: #272727 !important;">
 
                             <div class="post_info text-center">
                                 <h2>Balcony View</h2>
@@ -457,7 +463,7 @@
                         <!-- /article -->
                     </div>
                     <div class="col-md-6">
-                        <article class="blog lifestyle" style="background-color: black !important;">
+                        <article class="blog lifestyle" style="background-color: #272727 !important;">
                             <div class="post_info text-center">
                                 <h2>Breakfast</h2>
                             </div>
@@ -480,7 +486,7 @@
                     </div>
 
                     <div class="col-md-6">
-                        <article class="blog lifestyle" style="background-color: black !important;">
+                        <article class="blog lifestyle" style="background-color: #272727 !important;">
 
                             <div class="post_info text-center">
                                 <h2>Restaurant</h2>
@@ -505,7 +511,7 @@
                     </div>
 
                     <div class="col-md-6">
-                        <article class="blog lifestyle" style="background-color: black !important;">
+                        <article class="blog lifestyle" style="background-color: #272727 !important;">
 
                             <div class="post_info text-center">
                                 <h2>Swimming Pool</h2>
@@ -530,7 +536,7 @@
                     </div>
 
                     <div class="col-md-6">
-                        <article class="blog lifestyle" style="background-color: black !important;">
+                        <article class="blog lifestyle" style="background-color: #272727 !important;">
 
                             <div class="post_info text-center">
                                 <h2>Beautiful & Romantic Dinner</h2>
@@ -555,7 +561,7 @@
                     </div>
 
                     <div class="col-md-6">
-                        <article class="blog lifestyle" style="background-color: black !important;">
+                        <article class="blog lifestyle" style="background-color: #272727 !important;">
 
                             <div class="post_info text-center">
                                 <h2>Meeting Rooms</h2>
@@ -582,7 +588,7 @@
             </div>
         </div>
 
-        <div class="row" id="vacation">
+        <div class="row" id="offer">
             <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center" style="padding-left: 100px !important;">
                 <div  class="font-weight-300 py-3 ">
                     <p class="mobile-no-px-mx small-text "> Special Offer</p>
@@ -609,7 +615,7 @@
         </div>
 
         {{--Fifth Section--}}
-        <div  class="top_banner mt-4" style="height: 300px !important; margin-top: 100px !important;">
+        <div  class="top_banner mt-4" style="height: 300px !important; margin-top: 100px !important;" id="review">
             <div class="opacity-mask d-flex align-items-center background-image" style="background-color: transparent;
                 background-image: url({{asset('image/photos/background-black.jpg')}});
                 background-size: cover;
@@ -627,7 +633,7 @@
                         </div>
                         <div class="pt-5 mt-4">
                             <p class="mobile-no-px-mx responsive-heading-small  text-white"> <strong>Recomended Place </strong></p>
-                            <p class="mobile-no-px-mx responsive-heading-small small-italic text-white px-10"> "A recommended placte to stay around byPass and sanur.
+                            <p class="mobile-no-px-mx responsive-heading-small small-italic text-white px-10"> "A recommended place to stay around byPass and sanur.
                                 The room has natural light, and samo hanging place foor clothes, bathroom amenities: toothbrush, toothpaste, headcover, and liquid
                                 soap."</p>
                             <p class="mobile-no-px-mx responsive-heading-small small-text-review text-white"> By: _LF</p>
@@ -697,7 +703,7 @@
 {{--                </div>--}}
 {{--            </div>--}}
 {{--        </div>--}}
-        <div class="font-weight-300 pt-3 pt-md-5" style="margin-top: 50px">
+        <div class="font-weight-300 pt-3 pt-md-5" style="margin-top: 50px" id="book_now">
             <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center big-text"><strong> Book Your BizCation Accomodation Now!</strong></p>
         </div>
 
@@ -761,44 +767,129 @@
 
     </main>
 
-    <footer class="revealed text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 col-md-12">
-                    <div id="logo_footer">
-                        <a class="main-logo" href='https://baliabishahotels.com/'>
-                            <img
-                                alt="Bali Abisha Hotel"
-                                data-lazy-src="{{asset('image/abisha_head_banner.png')}}"/>
-                            <noscript><img
-                                    src="{{asset('image/abisha_head_banner.png')}}"
-                                    alt="Bali Abisha Hotel"/></noscript>
+    <div  class="top_banner mt-4" style="height: 400px !important; margin-top: 100px !important;" id="contact">
+        <div class="opacity-mask background-image" style="background-color: #1A2324;
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                ">
+            <div class="container pt-5">
+                <p class=" mobile-no-px-mx responsive-heading-small big-text text-white"><strong> Contact Us</strong></p>
+                <hr>
+                <div class="contact-info">
+                    <div class="section">
+                        <a target="_blank" href="https://maps.app.goo.gl/b16Fmgru8kwHL3Mi7">
+                            <i class="fas fa-map-marker-alt text-white sosmed-icon"></i>
                         </a>
-
-                        <div class="follow_us">
-                            <ul>
-                                <li>
-                                    <a target="_blank" href="https://api.whatsapp.com/send?phone=6281353254589"><img src=""
-                                                                                                                     data-src="{{asset('image/waBrown.png')}}"
-                                                                                                                     class="lazy" ></a>
-                                </li>
-                                <li>
-                                    <a target="_blank" href="http://www.instagram.com/abishahoteljimbaran"><img
-                                            data-src="{{asset('image/instagramBrown.png')}}" alt="" class="lazy"></a>
-                                </li>
-
-                            </ul>
+                        <div class="content">
+                            <h3>Location</h3>
+                            <p>Jl. Bypass Ngurah Rai</p>
+                            <p>No.402, Sanur,</p>
+                            <p>Denpasar Selatan, Kota Denpasar</p>
+                            <p>Bali 80228</p>
+                        </div>
+                    </div>
+                    <div class="section">
+                        <a target="_blank" href="https://api.whatsapp.com/send?phone=6281353254589">
+                            <i class="fas fa-phone text-white sosmed-icon"></i>
+                        </a>
+                        <div class="content">
+                            <h3>Central Reservation</h3>
+                            <p>+62 8135 3254 589</p>
+                        </div>
+                    </div>
+                    <div class="section">
+                        <a target="_blank" href="mailto:hello@baliabishahotel.com">
+                            <i class="fas fa-envelope text-white sosmed-icon"></i>
+                        </a>
+                        <div class="content">
+                            <h3>Email</h3>
+                            <p>hello@baliabishahotel.com</p>
+                        </div>
+                    </div>
+                    <div class="section">
+                        <a target="_blank" href="https://web.facebook.com/profile.php?id=100093320652969">
+                            <i class="fas fa-globe text-white sosmed-icon"></i>
+                        </a>
+                        <div class="content">
+                            <h3>Facebook</h3>
+                            <p>Abisha Business Oportunity</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </footer>
+    </div>
 
-    <div class="copyright" style="background-color: #361601">
+    <div  class="top_banner" style="height: 250px !important;">
+        <div class="opacity-mask background-image" style="background-color: #151515;
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                ">
+            <div class="container pt-5">
+                <div class="row">
+                    <div class="col-6 d-flex justify-content-center align-items-center">
+                        <div data-bg="{{asset('image/abisha_head_banner_full_white.png')}}"
+                             class="imgbg1 rocket-lazyload" style="height: 150px; width: 150px"></div>
+                    </div>
+                    <div class="col-6 text-center">
+                        <p class="mobile-no-px-mx responsive-heading-small text-white mb-1" style="color: #ff9800 !important;"> Follow Us</p>
+                        <p class="mobile-no-px-mx responsive-heading-small small-text-review text-white"> Find Our Update on Social Media</p>
+                        <div class="row pt-3">
+                            <div class="col-4"></div>
+                            <div class="col-2" >
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=6281353254589"><img src="{{asset('image/wa.png')}}" style="width: 50px;" class="sosmed-icon" ></a>
+                            </div>
+                            <div class="col-2">
+                                <a target="_blank" href="http://www.instagram.com/abishahoteljimbaran"><img src="{{asset('image/instagram.png')}}" style="width: 50px" class="sosmed-icon"></a>
+                            </div>
+                            <div class="col-4"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+{{--    <footer class="revealed text-center">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row">--}}
+{{--                <div class="col-lg-12 col-md-12">--}}
+{{--                    <div id="logo_footer">--}}
+{{--                        <a class="main-logo" href='https://baliabishahotels.com/'>--}}
+{{--                            <img--}}
+{{--                                alt="Bali Abisha Hotel"--}}
+{{--                                data-lazy-src="{{asset('image/abisha_head_banner.png')}}"/>--}}
+{{--                            <noscript><img--}}
+{{--                                    src="{{asset('image/abisha_head_banner.png')}}"--}}
+{{--                                    alt="Bali Abisha Hotel"/></noscript>--}}
+{{--                        </a>--}}
+
+{{--                        <div class="follow_us">--}}
+{{--                            <ul>--}}
+{{--                                <li>--}}
+{{--                                    <a target="_blank" href="https://api.whatsapp.com/send?phone=6281353254589"><img src=""--}}
+{{--                                                                                                                     data-src="{{asset('image/waBrown.png')}}"--}}
+{{--                                                                                                                     class="lazy" ></a>--}}
+{{--                                </li>--}}
+{{--                                <li>--}}
+{{--                                    <a target="_blank" href="http://www.instagram.com/abishahoteljimbaran"><img--}}
+{{--                                            data-src="{{asset('image/instagramBrown.png')}}" alt="" class="lazy"></a>--}}
+{{--                                </li>--}}
+
+{{--                            </ul>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </footer>--}}
+
+    <div class="copyright" style="background-color: #272727">
         <div class="col-lg-12">
             <div class="container" >
-                <span>Copyright &copy; 2024 Bali Abisha Hotel</span>
+                <span>Copyright &copy; 2024 <strong>Bali Abisha Hotel</strong>. All Right Reserved</span>
             </div>
         </div>
     </div>
@@ -809,7 +900,7 @@
 <div id="toTop">
     <img src="" data-src="{{asset('image/up.svg')}}" class="lazy" style="width: 45px; height: auto; color: white">
 </div>
-<div id="toTope" type="button" class="btn btn-primary" data-toggle="modal" style="background-color: darkgreen;">
+<div id="toTope" type="button" class="" data-toggle="modal" style="background-color: darkgreen;">
     <a target="_blank" href="https://api.whatsapp.com/send?phone=6281353254589"><img src="" data-src="{{asset('image/wa.png')}}" class="lazy" style="width: 45px; height: auto"></a>
 </div>
 <script type="rocketlazyloadscript"
@@ -1023,7 +1114,7 @@
             lazyLoad: 'ondemand', // ondemand progressive anticipated
             infinite: true,
             autoplay:true,
-            autoplaySpeed:1500,
+            autoplaySpeed:4000,
         });
     });
 </script>
