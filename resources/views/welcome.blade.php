@@ -582,6 +582,32 @@
             </div>
         </div>
 
+        <div class="row" id="vacation">
+            <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center" style="padding-left: 100px !important;">
+                <div  class="font-weight-300 py-3 ">
+                    <p class="mobile-no-px-mx small-text "> Special Offer</p>
+                    <p class="mobile-no-px-mx big-text "> <strong>Bali Abisha's Special Offer Just For You!</strong></p>
+                    <p class="mobile-no-px-mx responsive-heading-small "> Take advantage of Bali Abisha's Special Offer
+                        just for you! Enjoy exclusive discounts and unique perks when you book your stay at Bali Abisha
+                        Hotel & Villa. Don't miss out on this limited-time deal!</p>
+                    <a type="button" href="https://api.whatsapp.com/send?phone=6281353254589" target="_blank" class="form-control text-center button-hero green">  Get The Deal</a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-7">
+                <section class="right slider" style="height: 500px !important;">
+                    <div>
+                        <img src="{{asset('image/photos/offer3.jpg')}}"  class=" width-700" id="kamar3">
+                    </div>
+                    <div>
+                        <img src="{{asset('image/photos/offer.jpg')}}" class=" width-700" id="kamar">
+                    </div>
+                    <div>
+                        <img src="{{asset('image/photos/offer2.jpg')}}"  class=" width-700" id="kamar2">
+                    </div>
+                </section>
+            </div>
+        </div>
+
         {{--Fifth Section--}}
 {{--        <div  class="top_banner mt-4">--}}
 {{--            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">--}}
@@ -950,6 +976,21 @@
             nextArrow:'<button type="button" class="slick-next"></button>',
             centerMode:true,
             slidesToShow:4,
+            slidesToScroll:3
+        });
+        $(".right").slick({
+            // dots: true,
+            // infinite: true,
+            // centerMode: true,
+            // slidesToShow: 5,
+            // slidesToScroll: 3
+            autoplay:true,
+            autoplaySpeed:1500,
+            arrows:true,
+            prevArrow:'<button type="button" class="slick-prev"></button>',
+            nextArrow:'<button type="button" class="slick-next"></button>',
+            centerMode:true,
+            slidesToShow:1,
             slidesToScroll:3
         });
     });

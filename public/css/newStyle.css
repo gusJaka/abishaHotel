@@ -335,6 +335,10 @@ button sidebar
     width: 350px;
     height: 350px;
 }
+.width-700 {
+    width: 700px;
+    height: 500px;
+}
 .bg-black{
     background-color: black !important;
 }
