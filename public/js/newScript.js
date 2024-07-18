@@ -180,35 +180,35 @@ var modalImg21 = document.getElementById("img21");
 
 kamar.onclick = function(){
     kamarModal.style.display = "block";
-    modalImg7.src = this.getAttribute('data-bg');
+    modalImg7.src = this.getAttribute('src');
 }
 kamar2.onclick = function(){
     kamar2Modal.style.display = "block";
-    modalImg8.src = this.getAttribute('data-bg');
+    modalImg8.src = this.getAttribute('src');
 }
 kamar3.onclick = function(){
     kamar3Modal.style.display = "block";
-    modalImg9.src = this.getAttribute('data-bg');
+    modalImg9.src = this.getAttribute('src');
 }
 kamar4.onclick = function(){
     kamar4Modal.style.display = "block";
-    modalImg10.src = this.getAttribute('data-bg');
+    modalImg10.src = this.getAttribute('src');
 }
 activity.onclick = function(){
     activityModal.style.display = "block";
-    modalImg11.src = this.getAttribute('data-bg');
+    modalImg11.src = this.getAttribute('src');
 }
 activity2.onclick = function(){
     activity2Modal.style.display = "block";
-    modalImg12.src = this.getAttribute('data-bg');
+    modalImg12.src = this.getAttribute('src');
 }
 activity3.onclick = function(){
     activity3Modal.style.display = "block";
-    modalImg13.src = this.getAttribute('data-bg');
+    modalImg13.src = this.getAttribute('src');
 }
 activity4.onclick = function(){
     activity4Modal.style.display = "block";
-    modalImg14.src = this.getAttribute('data-bg');
+    modalImg14.src = this.getAttribute('src');
 }
 dinner.onclick = function(){
     dinnerModal.style.display = "block";

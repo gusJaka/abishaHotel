@@ -158,7 +158,7 @@
     font-size: 50px
 }
 .hero-image{
-    height: 800px !important;
+    height: 900px !important;
 }
 
 .button-hero{
@@ -329,6 +329,11 @@ button sidebar
 
 .sidebar-nav a:hover {
     background-color: #007bff; /* Change background color on hover */
+}
+
+.width-350 {
+    width: 350px;
+    height: 350px;
 }
 
 /* 100% Image Width on Smaller Screens */
