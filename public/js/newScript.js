@@ -363,3 +363,22 @@ document.addEventListener('click', (event) => {
         rightSidebar.classList.remove('active');
     }
 });
+
+document.addEventListener("DOMContentLoaded", () => {
+    const boxes = document.querySelectorAll('.box');
+
+    const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('visible');
+                observer.unobserve(entry.target);
+            }
+        });
+    }, {
+        threshold: 0.1 // Adjust this value based on when you want the effect to start
+    });
+
+    boxes.forEach(box => {
+        observer.observe(box);
+    });
+});

@@ -167,7 +167,7 @@
                 <a type="button" href="https://api.whatsapp.com/send?phone=6281353254589" target="_blank" class="form-control text-center button-hero warning mx-3"> <img src="" data-src="{{asset('image/wa.png')}}" class="lazy" style="width: 25px; height: auto;margin-top: 0px"> +6281353254589</a>
             </div>
         </div>
-        <div id="carousel-home" class="row" style="margin-top: 150px">
+        <div id="carousel-home" class="row box hidden" style="margin-top: 150px">
             <div class="col-lg-2 col-sm-12 pb-2 px-0"></div>
             <div class="owl-carousel owl-theme col-lg-4 col-sm-12 pb-2 px-0 ">
 
@@ -229,7 +229,7 @@
 {{--                </div>--}}
 {{--            </div>--}}
 {{--        </div>--}}
-        <div class="row" id="vacation" style="margin-top:250px">
+        <div class="row box hidden" id="vacation" style="margin-top:250px">
             <div class="col-12 col-lg-7">
                 <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
                      class="imgbg1 rocket-lazyload" style="height: 500px"></div>
@@ -267,7 +267,7 @@
 
         </div>
 
-        <div class="row" id="customer_service" style="margin-top:50px">
+        <div class="row box hidden" id="customer_service" style="margin-top:50px">
             <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center" style="padding-left: 100px !important;">
                 <div  class="font-weight-300 py-3 ">
                     <p class="mobile-no-px-mx small-text "> Bali Abisha Hotel & Villa.</p>
@@ -349,7 +349,7 @@
 {{--            </div>--}}
 {{--        </div>--}}
 
-        <div class="font-weight-300 pt-3 pt-md-5" style="margin-top: 50px" id="rooms">
+        <div class="font-weight-300 pt-3 pt-md-5 box hidden" style="margin-top: 50px" id="rooms">
             <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center big-text"><strong> Experience the Comfort of Our Rooms</strong></p>
             <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center" style="padding-left: 200px !important; padding-right: 200px !important;">  Experience the
                 ultimate comfort at Bali Abisha Hotel & Villa. Our elegantly designed rooms offer a serene and
@@ -357,7 +357,7 @@
                 luxury and tranquility at Bali Abisha Hotel & Villa.</p>
         </div>
 
-        <section class="center slider" style="height: 400px !important;">
+        <section class="center slider box hidden" style="height: 400px !important;">
             <div>
                 <img src="{{asset('image/photos/kamar.jpg')}}" class="hoverImage width-350" id="kamar">
             </div>
@@ -431,11 +431,11 @@
 {{--            </div>--}}
 {{--        </div>--}}
 
-        <div class="font-weight-300 pt-3 pt-md-5" id="facility">
+        <div class="font-weight-300 pt-3 pt-md-5 box hidden" id="facility">
             <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center big-text"><strong> Enjoy Our Facility</strong></p>
         </div>
 
-        <div id="archive" class="tectbox margin_60 ">
+        <div id="archive" class="tectbox margin_60 box hidden">
             <div class="container ">
                 <div class="row">
                     <div class="col-md-6">
@@ -588,7 +588,7 @@
             </div>
         </div>
 
-        <div class="row" id="offer">
+        <div class="row box hidden" id="offer">
             <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center" style="padding-left: 100px !important;">
                 <div  class="font-weight-300 py-3 ">
                     <p class="mobile-no-px-mx small-text "> Special Offer</p>
@@ -615,7 +615,7 @@
         </div>
 
         {{--Fifth Section--}}
-        <div  class="top_banner mt-4" style="height: 300px !important; margin-top: 100px !important;" id="review">
+        <div  class="top_banner mt-4 box hidden" style="height: 300px !important; margin-top: 100px !important;" id="review">
             <div class="opacity-mask d-flex align-items-center background-image" style="background-color: transparent;
                 background-image: url({{asset('image/photos/background-black.jpg')}});
                 background-size: cover;
@@ -649,7 +649,7 @@
             </div>
         </div>
 
-        <div class="row mx-5">
+        <div class="row mx-5 box hidden">
             <div class="col-12 col-lg-3 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/dinner.jpg')}}"
                      class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage d-none" id="dinner"></div>
@@ -679,7 +679,7 @@
 {{--            </div>--}}
 {{--        </div>--}}
 
-        <div class="row mx-5">
+        <div class="row mx-5 box hidden">
             <div class="col-12 col-lg-4 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/aula.jpg')}}"
                      class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage d-none" id="aula"></div>
@@ -703,11 +703,11 @@
 {{--                </div>--}}
 {{--            </div>--}}
 {{--        </div>--}}
-        <div class="font-weight-300 pt-3 pt-md-5" style="margin-top: 50px" id="book_now">
+        <div class="font-weight-300 pt-3 pt-md-5 box hidden" style="margin-top: 50px" id="book_now">
             <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center big-text"><strong> Book Your BizCation Accomodation Now!</strong></p>
         </div>
 
-        <div class="container-fluid contact">
+        <div class="container-fluid contact box hidden">
             <div class="row">
                 <div class="col-1 col-lg-3"></div>
                 <div class="col-10 col-lg-6" style=" background:#FFFFFF">
@@ -767,7 +767,7 @@
 
     </main>
 
-    <div  class="top_banner mt-4" style="height: 400px !important; margin-top: 100px !important;" id="contact">
+    <div  class="top_banner mt-4 box hidden" style="height: 400px !important; margin-top: 100px !important;" id="contact">
         <div class="opacity-mask background-image" style="background-color: #1A2324;
                 background-size: cover;
                 background-repeat: no-repeat;
@@ -821,7 +821,7 @@
         </div>
     </div>
 
-    <div  class="top_banner" style="height: 250px !important;">
+    <div  class="top_banner box hidden" style="height: 250px !important;">
         <div class="opacity-mask background-image" style="background-color: #151515;
                 background-size: cover;
                 background-repeat: no-repeat;

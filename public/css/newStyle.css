@@ -401,6 +401,16 @@ html{
     scroll-padding-top: 100px
 }
 
+.box{
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 1s ease-out, transform 1s ease-out;
+}
+.box.visible{
+    opacity: 1;
+    transform: translateY(0);
+}
+
 /* 100% Image Width on Smaller Screens */
 @media only screen and (max-width: 700px){
     .modal-content {
