@@ -345,13 +345,13 @@
 
         <div class="font-weight-300 pt-3 pt-md-5" style="margin-top: 50px">
             <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center big-text"><strong> Experience the Comfort of Our Rooms</strong></p>
-            <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center">  Experience the
+            <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center" style="padding-left: 200px !important; padding-right: 200px !important;">  Experience the
                 ultimate comfort at Bali Abisha Hotel & Villa. Our elegantly designed rooms offer a serene and
                 relaxing atmosphere, perfect for unwinding after a day of exploring Bali. Discover the perfect blend of
                 luxury and tranquility at Bali Abisha Hotel & Villa.</p>
         </div>
 
-        <section class="center slider" style="height: 500px !important;">
+        <section class="center slider" style="height: 400px !important;">
             <div>
                 <img src="{{asset('image/photos/kamar.jpg')}}" class="hoverImage width-350" id="kamar">
             </div>
@@ -417,19 +417,47 @@
 {{--        </div>--}}
 
         {{--Fourth Section--}}
-        <div  class="top_banner mt-4">
-            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
-                <div class="container">
-                    <h1 style="color: #361601"><b>Breakfast - Restaurant - Balcony - Pool</b></h1>
-                </div>
-            </div>
+{{--        <div  class="top_banner mt-4">--}}
+{{--            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">--}}
+{{--                <div class="container">--}}
+{{--                    <h1 style="color: #361601"><b>Breakfast - Restaurant - Balcony - Pool</b></h1>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+
+        <div class="font-weight-300 pt-3 pt-md-5">
+            <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center big-text"><strong> Enjoy Our Facility</strong></p>
         </div>
 
         <div id="archive" class="tectbox margin_60 ">
             <div class="container ">
                 <div class="row">
                     <div class="col-md-6">
-                        <article class="blog lifestyle" style="background-color: #361601 !important;">
+                        <article class="blog lifestyle" style="background-color: black !important;">
+
+                            <div class="post_info text-center">
+                                <h2>Balcony View</h2>
+                            </div>
+
+                            <figure>
+
+                                <img class="fadeover" id="balcony"
+                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
+                                     data-lazy-src="{{asset('image/photos/balcony.jpg')}}"/>
+                                <noscript><img class="fadeover"
+                                               src="{{asset('image/photos/balcony.jpg')}}"/>
+                                </noscript>
+
+
+                                {{--                                <figcaption class="pt-1 pt-lg-3" style="font-size: 18px">Watch beatiful view from the Balcony</figcaption>--}}
+                            </figure>
+
+
+                        </article>
+                        <!-- /article -->
+                    </div>
+                    <div class="col-md-6">
+                        <article class="blog lifestyle" style="background-color: black !important;">
                             <div class="post_info text-center">
                                 <h2>Breakfast</h2>
                             </div>
@@ -452,7 +480,7 @@
                     </div>
 
                     <div class="col-md-6">
-                        <article class="blog lifestyle" style="background-color: #361601 !important;">
+                        <article class="blog lifestyle" style="background-color: black !important;">
 
                             <div class="post_info text-center">
                                 <h2>Restaurant</h2>
@@ -477,35 +505,10 @@
                     </div>
 
                     <div class="col-md-6">
-                        <article class="blog lifestyle" style="background-color: #361601 !important;">
+                        <article class="blog lifestyle" style="background-color: black !important;">
 
                             <div class="post_info text-center">
-                                <h2>Balcony</h2>
-                            </div>
-
-                            <figure>
-
-                                <img class="fadeover" id="balcony"
-                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                     data-lazy-src="{{asset('image/photos/balcony.jpg')}}"/>
-                                <noscript><img class="fadeover"
-                                               src="{{asset('image/photos/balcony.jpg')}}"/>
-                                </noscript>
-
-
-{{--                                <figcaption class="pt-1 pt-lg-3" style="font-size: 18px">Watch beatiful view from the Balcony</figcaption>--}}
-                            </figure>
-
-
-                        </article>
-                        <!-- /article -->
-                    </div>
-
-                    <div class="col-md-6">
-                        <article class="blog lifestyle" style="background-color: #361601 !important;">
-
-                            <div class="post_info text-center">
-                                <h2>Pool</h2>
+                                <h2>Swimming Pool</h2>
                             </div>
 
                             <figure>
@@ -525,59 +528,109 @@
                         </article>
                         <!-- /article -->
                     </div>
+
+                    <div class="col-md-6">
+                        <article class="blog lifestyle" style="background-color: black !important;">
+
+                            <div class="post_info text-center">
+                                <h2>Beautiful & Romantic Dinner</h2>
+                            </div>
+
+                            <figure>
+
+                                <img class="fadeover" id="pool"
+                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
+                                     data-lazy-src="{{asset('image/photos/dinner.jpg')}}"/>
+                                <noscript><img class="fadeover"
+                                               src="{{asset('image/photos/dinner.jpg')}}"/>
+                                </noscript>
+
+
+                                {{--                                <figcaption class="pt-1 pt-lg-3" style="font-size: 18px;">Take some rest in the Pool</figcaption>--}}
+                            </figure>
+
+
+                        </article>
+                        <!-- /article -->
+                    </div>
+
+                    <div class="col-md-6">
+                        <article class="blog lifestyle" style="background-color: black !important;">
+
+                            <div class="post_info text-center">
+                                <h2>Meeting Rooms</h2>
+                            </div>
+
+                            <figure>
+
+                                <img class="fadeover" id="pool"
+                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
+                                     data-lazy-src="{{asset('image/photos/aula3.jpg')}}"/>
+                                <noscript><img class="fadeover"
+                                               src="{{asset('image/photos/aula3.jpg')}}"/>
+                                </noscript>
+
+
+                                {{--                                <figcaption class="pt-1 pt-lg-3" style="font-size: 18px;">Take some rest in the Pool</figcaption>--}}
+                            </figure>
+
+
+                        </article>
+                        <!-- /article -->
+                    </div>
                 </div>
             </div>
         </div>
 
         {{--Fifth Section--}}
-        <div  class="top_banner mt-4">
-            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
-                <div class="container">
-                    <h1 style="color: #361601"><b>Beautiful & Romantic Dinner</b></h1>
-                </div>
-            </div>
-        </div>
+{{--        <div  class="top_banner mt-4">--}}
+{{--            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">--}}
+{{--                <div class="container">--}}
+{{--                    <h1 style="color: #361601"><b>Beautiful & Romantic Dinner</b></h1>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         <div class="row mx-5">
             <div class="col-12 col-lg-3 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/dinner.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="dinner"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage d-none" id="dinner"></div>
             </div>
             <div class="col-12 col-lg-3 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/dinner2.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="dinner2"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage d-none" id="dinner2"></div>
             </div>
             <div class="col-12 col-lg-3 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/dinner3.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="dinner3"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage d-none" id="dinner3"></div>
             </div>
             <div class="col-12 col-lg-3 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/dinner4.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="dinner4"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage d-none" id="dinner4"></div>
             </div>
         </div>
 
         {{--Sixth Section--}}
-        <div  class="top_banner mt-4">
-            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
-                <div class="container">
-                    <h1 style="color: #361601"><b>Our Meeting Rooms</b></h1>
-                </div>
-            </div>
-        </div>
+{{--        <div  class="top_banner mt-4">--}}
+{{--            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">--}}
+{{--                <div class="container">--}}
+{{--                    <h1 style="color: #361601"><b>Our Meeting Rooms</b></h1>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         <div class="row mx-5">
             <div class="col-12 col-lg-4 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/aula.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="aula"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage d-none" id="aula"></div>
             </div>
             <div class="col-12 col-lg-4 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/aula3.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="aula2"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage d-none" id="aula2"></div>
             </div>
             <div class="col-12 col-lg-4 px-0 px-lg-3">
                 <div data-bg="{{asset('image/photos/aula2.jpg')}}"
-                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="aula3"></div>
+                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage d-none" id="aula3"></div>
             </div>
         </div>
 
