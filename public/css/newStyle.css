@@ -215,14 +215,14 @@
 
 /* Orange */
 .green {
-    background: #006351 ;
+    background: #006351 !important;
     color: white ;
 }
 
 .green:hover {
-    border-color: #006351 ;
-    background: #096958 ;
-    color: white;
+    border-color: #006351 !important;
+    background: #096958 !important;
+    color: white !important;
 }
 
 /* White */
@@ -341,6 +341,16 @@ button sidebar
 }
 .bg-black{
     background-color: black !important;
+}
+
+.small-italic{
+    font-size: 16px;
+    padding-right: 100px;
+    padding-left: 100px;
+    font-style: italic;
+}
+.small-text-review{
+    font-size: 16px;
 }
 
 /* 100% Image Width on Smaller Screens */

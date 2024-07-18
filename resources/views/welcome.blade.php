@@ -228,7 +228,7 @@
                 <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
                      class="imgbg1 rocket-lazyload" style="height: 500px"></div>
 
-                <div class="row">
+                <div class="row pt-2">
                     <div class="col-4 col-lg-4 " >
                         <img id="bukaPintu" src="{{asset('image/photos/buka-pintu.jpg')}}" alt="Gambar 2" class="responsive-image "  loading="lazy">
                     </div>
@@ -609,13 +609,39 @@
         </div>
 
         {{--Fifth Section--}}
-{{--        <div  class="top_banner mt-4">--}}
-{{--            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">--}}
-{{--                <div class="container">--}}
-{{--                    <h1 style="color: #361601"><b>Beautiful & Romantic Dinner</b></h1>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
+        <div  class="top_banner mt-4" style="height: 300px !important; margin-top: 100px !important;">
+            <div class="opacity-mask d-flex align-items-center background-image" style="background-color: transparent;
+                background-image: url({{asset('image/photos/background-black.jpg')}});
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                ">
+                <div class="container">
+                    <section class="one-slide slider" data-sizes="50vw">
+                        <div class="pt-5 mt-4">
+                            <p class="mobile-no-px-mx responsive-heading-small  text-white"> <strong>Strategic Location </strong></p>
+                            <p class="mobile-no-px-mx responsive-heading-small small-italic text-white px-10"> "The hotel boasts a strategic
+                                location, being close to both the beach and the city center. The accessibility was convenient,
+                                and I found the services and facilities to be commendable."</p>
+                            <p class="mobile-no-px-mx responsive-heading-small small-text-review text-white"> By: Madelin Dirasvara</p>
+                        </div>
+                        <div class="pt-5 mt-4">
+                            <p class="mobile-no-px-mx responsive-heading-small  text-white"> <strong>Recomended Place </strong></p>
+                            <p class="mobile-no-px-mx responsive-heading-small small-italic text-white px-10"> "A recommended placte to stay around byPass and sanur.
+                                The room has natural light, and samo hanging place foor clothes, bathroom amenities: toothbrush, toothpaste, headcover, and liquid
+                                soap."</p>
+                            <p class="mobile-no-px-mx responsive-heading-small small-text-review text-white"> By: _LF</p>
+                        </div>
+                        <div class="pt-5 mt-4">
+                            <p class="mobile-no-px-mx responsive-heading-small  text-white"> <strong>Helpful Staff </strong></p>
+                            <p class="mobile-no-px-mx responsive-heading-small small-italic text-white px-10"> "The check in process was really quick. Very helpful reception, staff,
+                                even the night guard was also helpful."</p>
+                            <p class="mobile-no-px-mx responsive-heading-small small-text-review text-white"> By: Made Ngurah Bagus</p>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
 
         <div class="row mx-5">
             <div class="col-12 col-lg-3 px-0 px-lg-3">
@@ -635,6 +661,8 @@
                      class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage d-none" id="dinner4"></div>
             </div>
         </div>
+
+
 
         {{--Sixth Section--}}
 {{--        <div  class="top_banner mt-4">--}}
@@ -662,20 +690,18 @@
 
 
         {{--Seventh Section--}}
-        <div  class="top_banner mt-4">
-            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">
-                <div class="container">
-                    <h1 style="color: #361601"><b>Contact Us</b></h1>
-                </div>
-            </div>
+{{--        <div  class="top_banner mt-4">--}}
+{{--            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">--}}
+{{--                <div class="container">--}}
+{{--                    <h1 style="color: #361601"><b>Contact Us</b></h1>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+        <div class="font-weight-300 pt-3 pt-md-5" style="margin-top: 50px">
+            <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center big-text"><strong> Book Your BizCation Accomodation Now!</strong></p>
         </div>
 
         <div class="container-fluid contact">
-            <div class="container">
-                <div class="main_title">
-                    <p class="responsive-heading-small"><b>Book Your BizCation Accomodation Now!</b></p>
-                </div>
-            </div>
             <div class="row">
                 <div class="col-1 col-lg-3"></div>
                 <div class="col-10 col-lg-6" style=" background:#FFFFFF">
@@ -723,7 +749,7 @@
                                 </div>
                             </div>
                             <div class="d-flex justify-content-center ">
-                                <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit w-100 mx-2" style="background-color: #361601"/>
+                                <input type="submit" value="Submit" class="form-control text-center button-hero green w-100 mx-2"/>
                             </div>
                         </form>
                     </div>
@@ -992,6 +1018,12 @@
             centerMode:true,
             slidesToShow:1,
             slidesToScroll:3
+        });
+        $(".one-slide").slick({
+            lazyLoad: 'ondemand', // ondemand progressive anticipated
+            infinite: true,
+            autoplay:true,
+            autoplaySpeed:1500,
         });
     });
 </script>
