@@ -536,7 +536,7 @@
 
                             <figure>
 
-                                <img class="fadeover" id="pool"
+                                <img class="fadeover" id="dinners"
                                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                      data-lazy-src="{{asset('image/photos/dinner.jpg')}}"/>
                                 <noscript><img class="fadeover"
@@ -560,8 +560,7 @@
                             </div>
 
                             <figure>
-
-                                <img class="fadeover" id="pool"
+                                <img class="fadeover" id="meeting"
                                      src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                      data-lazy-src="{{asset('image/photos/aula3.jpg')}}"/>
                                 <noscript><img class="fadeover"
@@ -581,7 +580,7 @@
         </div>
 
         <div class="row box hidden" id="offer">
-            <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center" style="padding-left: 100px !important;">
+            <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center px-sm-100">
                 <div  class="font-weight-300 py-3 ">
                     <p class="mobile-no-px-mx small-text "> Special Offer</p>
                     <p class="mobile-no-px-mx big-text "> <strong>Bali Abisha's Special Offer Just For You!</strong></p>
@@ -592,7 +591,7 @@
                 </div>
             </div>
             <div class="col-12 col-lg-7">
-                <section class="right slider" style="height: 500px !important;">
+                <section class="right slider special-offer-height">
                     <div>
                         <img src="{{asset('image/photos/offer3.jpg')}}"  class=" width-700" id="kamar3">
                     </div>
