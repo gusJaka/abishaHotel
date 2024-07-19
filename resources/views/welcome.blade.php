@@ -758,7 +758,7 @@
 
     </main>
 
-    <div  class="top_banner mt-4 box hidden" style="height: 400px !important; margin-top: 100px !important;" id="contact">
+    <div  class="top_banner mt-4 box hidden contact-us" id="contact">
         <div class="opacity-mask background-image" style="background-color: #1A2324;
                 background-size: cover;
                 background-repeat: no-repeat;
@@ -770,41 +770,41 @@
                 <div class="contact-info">
                     <div class="section">
                         <a target="_blank" href="https://maps.app.goo.gl/b16Fmgru8kwHL3Mi7">
-                            <i class="fas fa-map-marker-alt text-white sosmed-icon"></i>
+                            <i class="fas fa-map-marker-alt text-white sosmed-icon contact-icons-size"></i>
                         </a>
                         <div class="content">
-                            <h3>Location</h3>
-                            <p>Jl. Bypass Ngurah Rai</p>
-                            <p>No.402, Sanur,</p>
-                            <p>Denpasar Selatan, Kota Denpasar</p>
-                            <p>Bali 80228</p>
+                            <h3 class="contact-icon-size">Location</h3>
+                            <p class="contact-paragraph">Jl. Bypass Ngurah Rai</p>
+                            <p class="contact-paragraph">No.402, Sanur,</p>
+                            <p class="contact-paragraph">Denpasar Selatan, Kota Denpasar</p>
+                            <p class="contact-paragraph">Bali 80228</p>
                         </div>
                     </div>
                     <div class="section">
                         <a target="_blank" href="https://api.whatsapp.com/send?phone=6281353254589">
-                            <i class="fas fa-phone text-white sosmed-icon"></i>
+                            <i class="fas fa-phone text-white sosmed-icon contact-icons-size"></i>
                         </a>
                         <div class="content">
-                            <h3>Central Reservation</h3>
-                            <p>+62 8135 3254 589</p>
+                            <h3 class="contact-icon-size">Reservation</h3>
+                            <p class="contact-paragraph">+62 8135 3254 589</p>
                         </div>
                     </div>
                     <div class="section">
                         <a target="_blank" href="mailto:hello@baliabishahotel.com">
-                            <i class="fas fa-envelope text-white sosmed-icon"></i>
+                            <i class="fas fa-envelope text-white sosmed-icon contact-icons-size"></i>
                         </a>
                         <div class="content">
-                            <h3>Email</h3>
-                            <p>hello@baliabishahotel.com</p>
+                            <h3 class="contact-icon-size">Email</h3>
+                            <p class="contact-paragraph">hello@baliabishahotel.com</p>
                         </div>
                     </div>
                     <div class="section">
                         <a target="_blank" href="https://web.facebook.com/profile.php?id=100093320652969">
-                            <i class="fas fa-globe text-white sosmed-icon"></i>
+                            <i class="fas fa-globe text-white sosmed-icon contact-icons-size"></i>
                         </a>
                         <div class="content">
-                            <h3>Facebook</h3>
-                            <p>Abisha Business Oportunity</p>
+                            <h3 class="contact-icon-size">Facebook</h3>
+                            <p class="contact-paragraph">Abisha Business Oportunity</p>
                         </div>
                     </div>
                 </div>
@@ -830,10 +830,10 @@
                         <div class="row pt-3">
                             <div class="col-4"></div>
                             <div class="col-2" >
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=6281353254589"><img src="{{asset('image/wa.png')}}" style="width: 50px;" class="sosmed-icon" ></a>
+                                <a target="_blank" href="https://api.whatsapp.com/send?phone=6281353254589"><img src="{{asset('image/wa.png')}}" class="sosmed-icon follow-us-icon-size" id="wa" ></a>
                             </div>
                             <div class="col-2">
-                                <a target="_blank" href="http://www.instagram.com/abishahoteljimbaran"><img src="{{asset('image/instagram.png')}}" style="width: 50px" class="sosmed-icon"></a>
+                                <a target="_blank" href="http://www.instagram.com/abishahoteljimbaran"><img src="{{asset('image/instagram.png')}}"  class="sosmed-icon follow-us-icon-size" id="ig"></a>
                             </div>
                             <div class="col-4"></div>
                         </div>

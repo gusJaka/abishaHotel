@@ -433,6 +433,13 @@ html{
 .special-offer-height{
     height: 500px !important;
 }
+.contact-us{
+    height: 400px !important;
+    margin-top: 100px !important;
+}
+.follow-us-icon-size{
+    width: 50px !important;
+}
 
 /* 100% Image Width on Smaller Screens */
 @media only screen and (max-width: 700px){
@@ -563,6 +570,30 @@ html{
     .width-700 {
         width: 250px;
         height: 250px;
+    }
+    .contact-icons-size{
+        font-size: 15px !important;
+    }
+    .contact-icon-size{
+        font-size: 10px !important;
+    }
+    .contact-paragraph{
+        font-size: 7px !important;
+    }
+    .contact-us{
+        height: 320px !important;
+        margin-top: 100px !important;
+    }
+    .follow-us-icon-size{
+        width: 5px !important;
+    }
+    #ig{
+        width: 30px !important;
+        height: auto !important;
+    }
+    #wa{
+        width: 30px !important;
+        height: auto !important;
     }
 }
 
