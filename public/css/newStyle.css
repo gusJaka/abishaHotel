@@ -572,7 +572,7 @@ html{
     }
     .width-350 {
         width: 125px;
-        height: 125px;
+        height: 100px;
     }
     #dinners{
         height: 200px !important;

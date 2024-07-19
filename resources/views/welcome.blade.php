@@ -981,7 +981,16 @@
                     breakpoint: 1024,
                     settings: {
                         slidesToShow: 2,
-                        slidesToScroll: 1
+                        slidesToScroll: 1,
+                    }
+                },
+                {
+                    breakpoint: 720,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        centerMode: true,
+                        centerPadding: '115px'
                     }
                 }
             ]
