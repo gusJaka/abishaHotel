@@ -4,7 +4,7 @@
     <script src="{{ asset('js/javascript.js') }}" type="text/javascript"></script>
     <script src="{{ asset('js/javascript2.js') }}" type="text/javascript"></script>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bali Abisha Hotel</title>
     <link rel="shortcut icon" href="{{asset('image/abisha_logo.png')}}"/>
 
@@ -86,7 +86,7 @@
 <div id="page">
     <header class="version_2" style="position: absolute; width: 100%" id="home">
         <div class="layer"></div><!-- Mobile menu overlay mask -->
-        <div class="main_header Sticky" style="background-color: transparent">
+        <div class="main_header Sticky none-when-mobile" style="background-color: transparent">
 
             <div class="">
                 <div class="row small-gutters">
@@ -163,16 +163,16 @@
             <br>
             <br>
             <div class="d-flex justify-content-center">
-                <a type="button" href="https://www.instagram.com/abishahoteljimbaran/" target="_blank" class="form-control text-center button-hero warning mx-3"><img src="" data-src="{{asset('image/instagram.png')}}" class="lazy" style="width: 25px; height: auto;margin-top: 0px"> abishahoteljimbaran</a>
-                <a type="button" href="https://api.whatsapp.com/send?phone=6281353254589" target="_blank" class="form-control text-center button-hero warning mx-3"> <img src="" data-src="{{asset('image/wa.png')}}" class="lazy" style="width: 25px; height: auto;margin-top: 0px"> +6281353254589</a>
+                <a type="button" href="https://www.instagram.com/abishahoteljimbaran/" target="_blank" class="form-control text-center button-hero warning mx-3 px-sm-0 hero-text-size"><img src="" data-src="{{asset('image/instagram.png')}}" class="lazy button-image"> abishahoteljimbaran</a>
+                <a type="button" href="https://api.whatsapp.com/send?phone=6281353254589" target="_blank" class="form-control text-center button-hero warning mx-3 px-sm-0 hero-text-size"> <img src="" data-src="{{asset('image/wa.png')}}" class="lazy button-image"> +6281353254589</a>
             </div>
         </div>
-        <div id="carousel-home" class="row box hidden" style="margin-top: 150px">
-            <div class="col-lg-2 col-sm-12 pb-2 px-0"></div>
-            <div class="owl-carousel owl-theme col-lg-4 col-sm-12 pb-2 px-0 ">
+        <div id="carousel-home" class="row box hidden margin-top-sm-20" style="margin-top: 150px">
+            <div class="col-lg-2 col-1 pb-2 px-0"></div>
+            <div class="owl-carousel owl-theme col-lg-4 col-5 pb-2 px-0 ">
 
                 <div data-bg="{{asset('image/photos/DSC09769.jpg')}}"
-                     class="owl-slide cover rocket-lazyload" style="height: 350px !important;">
+                     class="owl-slide cover rocket-lazyload height-sm-100" >
 
                     <div class="row d-flex justify-content-center text-center pt-2 ">
                         <div>
@@ -182,7 +182,7 @@
                     </div>
                 </div>
                 <div data-bg="{{asset('image/photos/kamar.jpg')}}"
-                     class="owl-slide cover rocket-lazyload" style="height: 350px !important;">
+                     class="owl-slide cover rocket-lazyload height-sm-100" >
 
                     <div class="row d-flex justify-content-center text-center pt-2">
                         <div>
@@ -192,9 +192,9 @@
                     </div>
                 </div>
             </div>
-            <div class="owl-carousel owl-theme col-lg-4 col-sm-12 px-0" >
+            <div class="owl-carousel owl-theme col-lg-4 col-5 px-0" >
                 <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
-                     class="owl-slide cover rocket-lazyload" style="height: 350px !important;">
+                     class="owl-slide cover rocket-lazyload height-sm-100">
 
                     <div class="row d-flex justify-content-center text-center pt-2">
                         <div>
@@ -204,7 +204,7 @@
                     </div>
                 </div>
                 <div data-bg="{{asset('image/photos/aula.jpg')}}"
-                     class="owl-slide cover rocket-lazyload" style="height: 350px !important;">
+                     class="owl-slide cover rocket-lazyload height-sm-100">
 
                     <div class="row d-flex justify-content-center text-center pt-2">
                         <div>
@@ -214,28 +214,20 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-2 col-sm-12 pb-2 px-0"></div>
+            <div class="col-lg-2 col-0 pb-2 px-0"></div>
         </div>
     </div>
 
     <main >
 
         <div id="icon_drag_mobile"></div>
-
-{{--        <div class="top_banner mt-4">--}}
-{{--            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">--}}
-{{--                <div class="container">--}}
-{{--                    <h1 style="color: #361601; "><b>Experience the Joyful Vacation</b></h1>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-        <div class="row box hidden" id="vacation" style="margin-top:250px">
+        <div class="row box hidden mt-sm-150" id="vacation" style="margin-top:250px">
             <div class="col-12 col-lg-7">
                 <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
-                     class="imgbg1 rocket-lazyload" style="height: 500px"></div>
+                     class="imgbg1 rocket-lazyload height-sm-300" style="height: 500px"></div>
 
                 <div class="row pt-2">
-                    <div class="col-4 col-lg-4 " >
+                    <div class="col-4 col-lg-4" >
                         <img id="bukaPintu" src="{{asset('image/photos/buka-pintu.jpg')}}" alt="Gambar 2" class="responsive-image "  loading="lazy">
                     </div>
                     <div class="col-4 col-lg-4" >
@@ -253,7 +245,7 @@
 {{--                    </div>--}}
                 </div>
             </div>
-            <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center" style="padding-right: 100px !important;">
+            <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center px-sm-100">
                 <div  class="font-weight-300 py-3 ">
                     <p class="mobile-no-px-mx small-text "> Bali Abisha Hotel & Villa.</p>
                     <p class="mobile-no-px-mx big-text "> <strong>Experience the Joyful Vacation</strong></p>
@@ -268,7 +260,7 @@
         </div>
 
         <div class="row box hidden" id="customer_service" style="margin-top:50px">
-            <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center" style="padding-left: 100px !important;">
+            <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center px-sm-100">
                 <div  class="font-weight-300 py-3 ">
                     <p class="mobile-no-px-mx small-text "> Bali Abisha Hotel & Villa.</p>
                     <p class="mobile-no-px-mx big-text "> <strong>Bali Abisha's Excelent Customer Service</strong></p>
@@ -942,10 +934,10 @@
     </div>
 </div>
 
-<div id="sf-mob-navbar" style="background-color: #e1dbc1" class="w-100">
+<div id="sf-mob-navbar" style="background-color: black !important; opacity: 50%;">
     <a href="/"><img
             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-            alt="" data-lazy-src="{{asset('image/abisha_head_banner.png')}}">
+            alt="" data-lazy-src="{{asset('image/abisha_head_banner_full_white.png')}}">
         <noscript><img src="{{asset('image/abisha_head_banner.png')}}" alt="">
         </noscript>
     </a></div>

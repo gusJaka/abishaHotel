@@ -411,13 +411,30 @@ html{
     transform: translateY(0);
 }
 
+.button-image{
+    width: 25px;
+    height: auto;
+    margin-top: 0px;
+}
+.height-sm-100{
+    height: 350px !important;
+}
+.px-sm-100{
+    padding-left : 50px !important;
+    padding-right : 100px !important;
+}
+
 /* 100% Image Width on Smaller Screens */
 @media only screen and (max-width: 700px){
     .modal-content {
         width: 100%;
     }
     .responsive-image {
-        max-width: 20%; /* Images take up full width on mobile */
+        width: 100%;
+        height: 75px;
+        object-fit: cover;
+        /*width: 100%; !* Image takes up full width by default *!*/
+        /*max-width: 300px; !* Limit width to 300px on larger screens *!*/
     }
     .responsive-heading {
         font-size: 30px; /* Adjust font size for h3 on mobile */
@@ -456,7 +473,7 @@ html{
         width: auto !important;
     }
     .sliderFontSize30{
-        font-size: 30px
+        font-size: 16px
     }
     .sliderFontSize50{
         font-size: 30px
@@ -466,9 +483,48 @@ html{
     }
 
     .button-hero{
-        background-color: #e1dbc1;
-        width: 100px;
+        background-color: transparent;
+        width: 150px;
         font-size: 14px;
+    }
+    .none-when-mobile{
+        display: none;
+    }
+
+    /* Orange */
+    .warning {
+        border-color: #ff9800;
+        color: white;
+    }
+
+    .warning:hover {
+        background: #ff9800;
+        color: white;
+    }
+
+    .button-image{
+        width: 20px;
+        height: auto;
+        margin-top: 0px;
+    }
+    .hero-text-size {
+        font-size: 10px !important;
+    }
+    .margin-top-sm-20{
+        margin-top: 20px !important;
+    }
+    .height-sm-100{
+        height: 130px !important;
+    }
+    .height-sm-300{
+        height: 300px !important;
+    }
+    .mt-sm-150{
+        margin-top: 150px !important;
+    }
+    .px-sm-100{
+        padding-left : 50px !important;
+        padding-right : 50px !important;
     }
 }
 
