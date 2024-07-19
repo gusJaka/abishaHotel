@@ -606,14 +606,14 @@
         </div>
 
         {{--Fifth Section--}}
-        <div  class="top_banner mt-4 box hidden" style="height: 300px !important; margin-top: 100px !important;" id="review">
+        <div  class="top_banner mt-4 " style="height: 300px !important; margin-top: 100px !important;" id="review">
             <div class="opacity-mask d-flex align-items-center background-image" style="background-color: transparent;
                 background-image: url({{asset('image/photos/background-black.jpg')}});
                 background-size: cover;
                 background-repeat: no-repeat;
                 background-attachment: fixed;
                 ">
-                <div class="container">
+                <div class="container box hidden">
                     <section class="one-slide slider" data-sizes="50vw">
                         <div class="pt-5 mt-4">
                             <p class="mobile-no-px-mx responsive-heading-small  text-white"> <strong>Strategic Location </strong></p>
