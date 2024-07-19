@@ -343,13 +343,13 @@
 
         <div class="font-weight-300 pt-3 pt-md-5 box hidden" style="margin-top: 50px" id="rooms">
             <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center big-text"><strong> Experience the Comfort of Our Rooms</strong></p>
-            <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center" style="padding-left: 200px !important; padding-right: 200px !important;">  Experience the
+            <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center plr-comfort" style="">  Experience the
                 ultimate comfort at Bali Abisha Hotel & Villa. Our elegantly designed rooms offer a serene and
                 relaxing atmosphere, perfect for unwinding after a day of exploring Bali. Discover the perfect blend of
                 luxury and tranquility at Bali Abisha Hotel & Villa.</p>
         </div>
 
-        <section class="center slider box hidden" style="height: 400px !important;">
+        <section class="center slider box hidden rooms-height">
             <div>
                 <img src="{{asset('image/photos/kamar.jpg')}}" class="hoverImage width-350" id="kamar">
             </div>
@@ -1085,7 +1085,16 @@
             nextArrow:'<button type="button" class="slick-next"></button>',
             centerMode:true,
             slidesToShow:4,
-            slidesToScroll:3
+            slidesToScroll:3,
+            responsive: [
+                {
+                    breakpoint: 768, // or any other screen width you prefer
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 1
+                    }
+                }
+            ]
         });
         $(".right").slick({
             // dots: true,
