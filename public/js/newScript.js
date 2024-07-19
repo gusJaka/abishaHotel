@@ -352,14 +352,22 @@ window.addEventListener('scroll', function() {
 //sidebar
 const hamburgerIcon = document.getElementById('hamburger-icon');
 const rightSidebar = document.getElementById('right-sidebar');
+const closeSidebarButton = document.querySelector('.close-sidebar');
 
 hamburgerIcon.addEventListener('click', () => {
+    event.stopPropagation();
     rightSidebar.classList.toggle('active'); // Toggle the "active" class
+});
+
+// Close sidebar when clicking the "X" button
+closeSidebarButton.addEventListener('click', (event) => {
+    event.stopPropagation(); // Prevent the click event from propagating to the document
+    rightSidebar.classList.remove('active');
 });
 
 // Optional: Close sidebar when clicking outside (if desired)
 document.addEventListener('click', (event) => {
-    if (event.target !== hamburgerIcon && event.target !== rightSidebar) {
+    if (!rightSidebar.contains(event.target) && event.target !== hamburgerIcon) {
         rightSidebar.classList.remove('active');
     }
 });

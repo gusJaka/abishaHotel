@@ -1,4 +1,4 @@
-<html dir="ltr" lang="id">
+<html dir="ltr" lang="id" id="html">
 <head>
     <meta charset="UTF-8">
     <script src="{{ asset('js/javascript.js') }}" type="text/javascript"></script>
@@ -136,11 +136,6 @@
                             </div>
 
                         </div>
-{{--                        <div class="phone_header">--}}
-{{--                            <span class="layanan"> </span> <span class="icons">  <div class="follow_us">--}}
-{{--                            </div>--}}
-{{--                        </span>--}}
-{{--                        </div>--}}
                     </div>
                 </div>
             </div>
@@ -167,15 +162,15 @@
                 <a type="button" href="https://api.whatsapp.com/send?phone=6281353254589" target="_blank" class="form-control text-center button-hero warning mx-3 px-sm-0 hero-text-size"> <img src="" data-src="{{asset('image/wa.png')}}" class="lazy button-image"> +6281353254589</a>
             </div>
         </div>
-        <div id="carousel-home" class="row box hidden margin-top-sm-20" style="margin-top: 150px">
+        <div id="carousel-home" class="row no-gutters box hidden margin-top-sm-20" style="margin-top: 150px">
             <div class="col-lg-2 col-1 pb-2 px-0"></div>
             <div class="owl-carousel owl-theme col-lg-4 col-5 pb-2 px-0 ">
 
                 <div data-bg="{{asset('image/photos/DSC09769.jpg')}}"
                      class="owl-slide cover rocket-lazyload height-sm-100" >
 
-                    <div class="row d-flex justify-content-center text-center pt-2 ">
-                        <div>
+                    <div class="row d-flex justify-content-center text-center pt-2 pt-250">
+                        <div  class="w-100 pb-5 bg-black-transparent">
                             <div class="col-lg-12 text-white sliderFontSize30" ><b>Bali Abisha Hotel</b></div>
                             <div class="col-lg-12 text-white sliderFontSize30" ><b>SANUR</b></div>
                         </div>
@@ -184,8 +179,8 @@
                 <div data-bg="{{asset('image/photos/kamar.jpg')}}"
                      class="owl-slide cover rocket-lazyload height-sm-100" >
 
-                    <div class="row d-flex justify-content-center text-center pt-2">
-                        <div>
+                    <div class="row d-flex justify-content-center text-center pt-2 pt-250">
+                        <div  class="w-100 pb-5 bg-black-transparent">
                             <div class="col-lg-12 text-white sliderFontSize30" ><b>Bali Abisha Hotel</b></div>
                             <div class="col-lg-12 text-white sliderFontSize30" ><b>SANUR</b></div>
                         </div>
@@ -196,8 +191,8 @@
                 <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
                      class="owl-slide cover rocket-lazyload height-sm-100">
 
-                    <div class="row d-flex justify-content-center text-center pt-2">
-                        <div>
+                    <div class="row d-flex justify-content-center text-center pt-2 pt-250">
+                        <div  class="w-100 pb-5 bg-black-transparent" >
                             <div class="col-lg-12 text-white sliderFontSize30" ><b>Bali Abisha Hotel</b></div>
                             <div class="col-lg-12 text-white sliderFontSize30" ><b>JIMBARAN</b></div>
                         </div>
@@ -206,9 +201,9 @@
                 <div data-bg="{{asset('image/photos/aula.jpg')}}"
                      class="owl-slide cover rocket-lazyload height-sm-100">
 
-                    <div class="row d-flex justify-content-center text-center pt-2">
-                        <div>
-                            <div class="col-lg-12 text-white sliderFontSize30" ><b>Bali Abisha Hotel</b></div>
+                    <div class="row d-flex justify-content-center text-center pt-2 pt-250">
+                        <div class="w-100 pb-5 bg-black-transparent" >
+                            <div class="col-lg-12 text-white sliderFontSize30" style=""><b>Bali Abisha Hotel</b></div>
                             <div class="col-lg-12 text-white sliderFontSize30" ><b >JIMBARAN</b></div>
                         </div>
                     </div>
@@ -221,16 +216,16 @@
     <main >
 
         <div id="icon_drag_mobile"></div>
-        <div class="row box hidden mt-sm-150" id="vacation" style="margin-top:250px">
+        <div class="row no-gutters box hidden mt-sm-150" id="vacation" style="margin-top:250px">
             <div class="col-12 col-lg-7">
                 <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
                      class="imgbg1 rocket-lazyload height-sm-300" style="height: 500px"></div>
 
-                <div class="row pt-2">
-                    <div class="col-4 col-lg-4" >
+                <div class="row no-gutters pt-2">
+                    <div class="col-4 col-lg-4 pr-2" >
                         <img id="bukaPintu" src="{{asset('image/photos/buka-pintu.jpg')}}" alt="Gambar 2" class="responsive-image "  loading="lazy">
                     </div>
-                    <div class="col-4 col-lg-4" >
+                    <div class="col-4 col-lg-4 pr-2" >
                         <img id="bagasi" src="{{asset('image/photos/bagasi.jpg')}}" alt="Gambar 3" class="responsive-image "  loading="lazy">
                     </div>
                     <div class="col-4 col-lg-4" >
@@ -245,7 +240,7 @@
 {{--                    </div>--}}
                 </div>
             </div>
-            <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center px-sm-100">
+            <div class="col-12 col-lg-5 pr-5 pt-md-5 pt-5 d-flex flex-column justify-content-center align-items-center px-sm-100">
                 <div  class="font-weight-300 py-3 ">
                     <p class="mobile-no-px-mx small-text "> Bali Abisha Hotel & Villa.</p>
                     <p class="mobile-no-px-mx big-text "> <strong>Experience the Joyful Vacation</strong></p>
@@ -259,8 +254,8 @@
 
         </div>
 
-        <div class="row box hidden" id="customer_service" style="margin-top:50px">
-            <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center px-sm-100">
+        <div class="row no-gutters box hidden" id="customer_service" style="margin-top:50px">
+            <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center px-sm-100-2">
                 <div  class="font-weight-300 py-3 ">
                     <p class="mobile-no-px-mx small-text "> Bali Abisha Hotel & Villa.</p>
                     <p class="mobile-no-px-mx big-text "> <strong>Bali Abisha's Excelent Customer Service</strong></p>
@@ -282,64 +277,9 @@
                              class="imgbg1 rocket-lazyload mt-5 mobile-image-size hoverImage" id="checkin2" style="height: 500px;width: auto"></div>
                     </div>
                 </div>
-{{--                <div data-bg="{{asset('image/photos/checkin.jpg')}}"--}}
-{{--                     class="imgbg1 rocket-lazyload" style="height: 500px"></div>--}}
-
-{{--                <div class="row">--}}
-{{--                    <div class="col-4 col-lg-4 " >--}}
-{{--                        <img id="bukaPintu" src="{{asset('image/photos/checkinZoom.jpg')}}" alt="Gambar 2" class="responsive-image "  loading="lazy">--}}
-{{--                    </div>--}}
-{{--                    <div class="col-4 col-lg-4" >--}}
-{{--                        <img id="bagasi" src="{{asset('image/photos/bagasi.jpg')}}" alt="Gambar 3" class="responsive-image "  loading="lazy">--}}
-{{--                    </div>--}}
-{{--                    <div class="col-4 col-lg-4" >--}}
-{{--                        <img id="mengantar" src="{{asset('image/photos/mengantar.jpg')}}" alt="Gambar 4" class="responsive-image "  loading="lazy">--}}
-{{--                    </div>--}}
-{{--                    --}}{{--                    <div id="jig1" class="justified-image-grid jig-58d11a5019626c891ccd65d381be89d2 jig-preset-global">--}}
-{{--                    --}}{{--                        <!-- Trigger the Modal -->--}}
-{{--                    --}}{{--                        <div class="d-flex justify-content-center pt-3 row">--}}
-{{--                    <img id="exterior" src="{{asset('image/photos/DSC09729EE.jpg')}}" alt="Gambar 1" class="responsive-image px-2 d-none" loading="lazy">--}}
-{{--                    --}}{{--                        </div>--}}
-
-{{--                    --}}{{--                    </div>--}}
-{{--                </div>--}}
             </div>
         </div>
 
-{{--        Second Section--}}
-{{--        <div class="top_banner mt-4">--}}
-{{--            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">--}}
-{{--                <div class="container">--}}
-{{--                    <h1 style="color: #361601"><b>Bali Abisha's Excelent Customer Service</b></h1>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-
-{{--        <div class="row mx-3">--}}
-{{--            <div class="col-6 ">--}}
-{{--                <div data-bg="{{asset('image/photos/checkin.jpg')}}"--}}
-{{--                     class="imgbg1 rocket-lazyload mt-5 mobile-image-size hoverImage" id="checkin1" style="height: 500px;width: auto"></div>--}}
-{{--            </div>--}}
-{{--            <div class="col-6 ">--}}
-{{--                <div data-bg="{{asset('image/photos/checkinZoom.jpg')}}"--}}
-{{--                     class="imgbg1 rocket-lazyload mt-5 mobile-image-size hoverImage" id="checkin2" style="height: 500px;width: auto"></div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-
-{{--        <div class="font-weight-300  pt-3 pt-md-5">--}}
-{{--            <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small">  Esteemed guests are welcome to relax and unwind in a quiet feels-like-home and family friendly setting in the most--}}
-{{--             p popular area for the best sunrise spots in Bali.</p>--}}
-{{--            <p class="mx-5 px-5 mb-0 mobile-no-px-mx responsive-heading-small"> Our guests will be assisted by friendly and helpful staff from check in process, during in house until check out time.</p><br>--}}
-{{--        </div>--}}
-
-        {{--Third Section--}}
-{{--        <div class="top_banner mt-4">--}}
-{{--            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">--}}
-{{--                <div class="container">--}}
-{{--                    <h1 style="color: #361601"><b>Experience the Comfort of Our Rooms</b></h1>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
 
         <div class="font-weight-300 pt-3 pt-md-5 box hidden" style="margin-top: 50px" id="rooms">
             <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center big-text"><strong> Experience the Comfort of Our Rooms</strong></p>
@@ -350,7 +290,7 @@
         </div>
 
         <section class="center slider box hidden rooms-height">
-            <div>
+            <div >
                 <img src="{{asset('image/photos/kamar.jpg')}}" class="hoverImage width-350" id="kamar">
             </div>
             <div>
@@ -375,53 +315,6 @@
                 <img src="{{asset('image/photos/activity4.jpg')}}"  class="hoverImage width-350" id="activity4">
             </div>
         </section>
-
-{{--        <div class="row mx-3">--}}
-{{--            <div class="col-12 col-lg-3">--}}
-{{--                <div data-bg="{{asset('image/photos/kamar.jpg')}}"--}}
-{{--                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="kamar"></div>--}}
-{{--            </div>--}}
-{{--            <div class="col-12 col-lg-3">--}}
-{{--                <div data-bg="{{asset('image/photos/kamar2.jpg')}}"--}}
-{{--                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="kamar2"></div>--}}
-{{--            </div>--}}
-{{--            <div class="col-12 col-lg-3">--}}
-{{--                <div data-bg="{{asset('image/photos/kamar3.jpg')}}"--}}
-{{--                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="kamar3"></div>--}}
-{{--            </div>--}}
-{{--            <div class="col-12 col-lg-3">--}}
-{{--                <div data-bg="{{asset('image/photos/kamar4.jpg')}}"--}}
-{{--                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="kamar4"></div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-
-{{--        <div class="row mx-3">--}}
-{{--            <div class="col-12 col-lg-3">--}}
-{{--                <div data-bg="{{asset('image/photos/activity.jpg')}}"--}}
-{{--                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="activity"></div>--}}
-{{--            </div>--}}
-{{--            <div class="col-12 col-lg-3">--}}
-{{--                <div data-bg="{{asset('image/photos/activity2.jpg')}}"--}}
-{{--                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="activity2"></div>--}}
-{{--            </div>--}}
-{{--            <div class="col-12 col-lg-3">--}}
-{{--                <div data-bg="{{asset('image/photos/activity3.jpg')}}"--}}
-{{--                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="activity3"></div>--}}
-{{--            </div>--}}
-{{--            <div class="col-12 col-lg-3">--}}
-{{--                <div data-bg="{{asset('image/photos/activity4.jpg')}}"--}}
-{{--                     class="imgbg1 rocket-lazyload mt-5 image-size-responsive hoverImage" id="activity4"></div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-
-        {{--Fourth Section--}}
-{{--        <div  class="top_banner mt-4">--}}
-{{--            <div class="opacity-mask d-flex align-items-center" style="background-color: #e1dbc1">--}}
-{{--                <div class="container">--}}
-{{--                    <h1 style="color: #361601"><b>Breakfast - Restaurant - Balcony - Pool</b></h1>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
 
         <div class="font-weight-300 pt-3 pt-md-5 box hidden" id="facility">
             <p class="mx-5 px-5 mobile-no-px-mx responsive-heading-small text-center big-text"><strong> Enjoy Our Facility</strong></p>
@@ -579,8 +472,8 @@
             </div>
         </div>
 
-        <div class="row box hidden" id="offer">
-            <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center px-sm-100">
+        <div class="row no-gutters box hidden" id="offer">
+            <div class="col-12 col-lg-5 pr-5 d-flex flex-column justify-content-center align-items-center px-sm-100-2">
                 <div  class="font-weight-300 py-3 ">
                     <p class="mobile-no-px-mx small-text "> Special Offer</p>
                     <p class="mobile-no-px-mx big-text "> <strong>Bali Abisha's Special Offer Just For You!</strong></p>
@@ -1065,7 +958,7 @@
     <img class="modal-content" id="img21">
 </div>
 
-<script src="{{ asset('js/newScript.js').date('H:i:s Y:m:d') }}" type="text/javascript"></script>
+<script src="{{ asset('js/newScript.js?').date('H:i:s Y:m:d') }}" type="text/javascript"></script>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" type="text/javascript"></script>
 <script src="https://code.jquery.com/jquery-migrate-3.4.0.min.js"></script>
 <script src="{{asset('js/slick.js')}}" type="text/javascript" charset="utf-8"></script>
@@ -1079,15 +972,13 @@
             // slidesToScroll: 3
             autoplay:true,
             autoplaySpeed:1500,
-            arrows:true,
-            prevArrow:'<button type="button" class="slick-prev"></button>',
-            nextArrow:'<button type="button" class="slick-next"></button>',
+            arrows:false,
             centerMode:true,
             slidesToShow:4,
             slidesToScroll:3,
             responsive: [
                 {
-                    breakpoint: 768, // or any other screen width you prefer
+                    breakpoint: 1024,
                     settings: {
                         slidesToShow: 2,
                         slidesToScroll: 1
@@ -1103,9 +994,7 @@
             // slidesToScroll: 3
             autoplay:true,
             autoplaySpeed:1500,
-            arrows:true,
-            prevArrow:'<button type="button" class="slick-prev"></button>',
-            nextArrow:'<button type="button" class="slick-next"></button>',
+            arrows:false,
             centerMode:true,
             slidesToShow:1,
             slidesToScroll:3

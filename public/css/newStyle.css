@@ -333,7 +333,7 @@ button sidebar
 
 .width-350 {
     width: 350px;
-    height: 350px;
+    height: 250px;
 }
 .width-700 {
     width: 700px;
@@ -423,12 +423,16 @@ html{
     padding-left : 50px !important;
     padding-right : 100px !important;
 }
+.px-sm-100-2{
+    padding-left : 100px !important;
+    padding-right : 50px !important;
+}
 .plr-comfort{
     padding-left: 200px !important;
     padding-right: 200px !important;
 }
 .rooms-height{
-    height: 400px !important;
+    height: 300px !important;
 }
 .special-offer-height{
     height: 500px !important;
@@ -439,6 +443,14 @@ html{
 }
 .follow-us-icon-size{
     width: 50px !important;
+}
+.bg-black-transparent{
+    background-color: rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    border-radius: 5px;
+}
+.pt-250{
+    padding-top: 250px !important;
 }
 
 /* 100% Image Width on Smaller Screens */
@@ -490,7 +502,7 @@ html{
         width: auto !important;
     }
     .sliderFontSize30{
-        font-size: 16px
+        font-size: 14px
     }
     .sliderFontSize50{
         font-size: 30px
@@ -540,6 +552,10 @@ html{
         margin-top: 150px !important;
     }
     .px-sm-100{
+        padding-left : 50px !important;
+        padding-right : 50px !important;
+    }
+    .px-sm-100-2{
         padding-left : 50px !important;
         padding-right : 50px !important;
     }
@@ -595,6 +611,17 @@ html{
         width: 30px !important;
         height: auto !important;
     }
+    .pt-250{
+        padding-top: 80px !important;
+    }
+    .row.no-gutters {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .row.no-gutters > [class*='col-'] {
+        padding-right: 0;
+        padding-left: 0;
+    }
 }
 
 /* 100% Image Width on mid Screens */
@@ -603,7 +630,11 @@ html{
         width: 100%;
     }
     .responsive-image {
-        max-width: 10%; /* Images take up full width on mobile */
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        /*width: 100%; !* Image takes up full width by default *!*/
+        /*max-width: 300px; !* Limit width to 300px on larger screens *!*/
     }
     .responsive-heading {
         font-size: 24px; /* Adjust font size for h3 on mobile */
@@ -612,5 +643,27 @@ html{
     .responsive-heading-small {
         font-size: 18px; /* Adjust font size for h3 on mobile */
         line-height: 1.5; /* Optional: Adjust line-height for h3 on mobile */
+    }
+    .px-sm-100{
+        padding-left : 50px !important;
+        padding-right : 50px !important;
+    }
+    .px-sm-100-2{
+        padding-left : 50px !important;
+        padding-right : 50px !important;
+    }
+    .plr-comfort{
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    .big-text {
+        font-size: 30px !important;
+        line-height: 1;
+    }
+    #sf-mob-navbar{
+        display: none !important;
+    }
+    #html{
+        margin-top: 0px !important;
     }
 }
