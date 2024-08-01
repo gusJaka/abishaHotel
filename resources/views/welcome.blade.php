@@ -80,6 +80,16 @@
                 display: none !important;
             }</style>
     </noscript>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y2PS57LJ1P"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-Y2PS57LJ1P');
+    </script>
 </head>
 
 <body data-rsssl=1 class="home blog class-name">
@@ -166,6 +176,16 @@
             <div class="col-lg-2 col-1 pb-2 px-0"></div>
             <div class="owl-carousel owl-theme col-lg-4 col-5 pb-2 px-0 ">
 
+                <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
+                     class="owl-slide cover rocket-lazyload height-sm-100" >
+
+                    <div class="row d-flex justify-content-center text-center pt-2 pt-250">
+                        <div  class="w-100 pb-5 bg-black-transparent">
+                            <div class="col-lg-12 text-white sliderFontSize30" ><b>Bali Abisha Hotel</b></div>
+                            <div class="col-lg-12 text-white sliderFontSize30" ><b>SANUR</b></div>
+                        </div>
+                    </div>
+                </div>
                 <div data-bg="{{asset('image/photos/DSC09769.jpg')}}"
                      class="owl-slide cover rocket-lazyload height-sm-100" >
 
@@ -177,18 +197,28 @@
                     </div>
                 </div>
                 <div data-bg="{{asset('image/photos/kamar.jpg')}}"
-                     class="owl-slide cover rocket-lazyload height-sm-100" >
+                     class="owl-slide cover rocket-lazyload height-sm-100">
 
                     <div class="row d-flex justify-content-center text-center pt-2 pt-250">
-                        <div  class="w-100 pb-5 bg-black-transparent">
+                        <div  class="w-100 pb-5 bg-black-transparent" >
                             <div class="col-lg-12 text-white sliderFontSize30" ><b>Bali Abisha Hotel</b></div>
                             <div class="col-lg-12 text-white sliderFontSize30" ><b>SANUR</b></div>
                         </div>
                     </div>
                 </div>
+                <div data-bg="{{asset('image/photos/aula.jpg')}}"
+                     class="owl-slide cover rocket-lazyload height-sm-100">
+
+                    <div class="row d-flex justify-content-center text-center pt-2 pt-250">
+                        <div class="w-100 pb-5 bg-black-transparent" >
+                            <div class="col-lg-12 text-white sliderFontSize30" style=""><b>Bali Abisha Hotel</b></div>
+                            <div class="col-lg-12 text-white sliderFontSize30" ><b >SANUR</b></div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="owl-carousel owl-theme col-lg-4 col-5 px-0" >
-                <div data-bg="{{asset('image/photos/DSC09729EE.jpg')}}"
+                <div data-bg="{{asset('image/photos/jimbaran-front.jpg')}}"
                      class="owl-slide cover rocket-lazyload height-sm-100">
 
                     <div class="row d-flex justify-content-center text-center pt-2 pt-250">
@@ -198,7 +228,27 @@
                         </div>
                     </div>
                 </div>
-                <div data-bg="{{asset('image/photos/aula.jpg')}}"
+                <div data-bg="{{asset('image/photos/jimbaran-balcony.jpg')}}"
+                     class="owl-slide cover rocket-lazyload height-sm-100">
+
+                    <div class="row d-flex justify-content-center text-center pt-2 pt-250">
+                        <div class="w-100 pb-5 bg-black-transparent" >
+                            <div class="col-lg-12 text-white sliderFontSize30" style=""><b>Bali Abisha Hotel</b></div>
+                            <div class="col-lg-12 text-white sliderFontSize30" ><b >JIMBARAN</b></div>
+                        </div>
+                    </div>
+                </div>
+                <div data-bg="{{asset('image/photos/jimbaran-room.jpg')}}"
+                     class="owl-slide cover rocket-lazyload height-sm-100">
+
+                    <div class="row d-flex justify-content-center text-center pt-2 pt-250">
+                        <div class="w-100 pb-5 bg-black-transparent" >
+                            <div class="col-lg-12 text-white sliderFontSize30" style=""><b>Bali Abisha Hotel</b></div>
+                            <div class="col-lg-12 text-white sliderFontSize30" ><b >JIMBARAN</b></div>
+                        </div>
+                    </div>
+                </div>
+                <div data-bg="{{asset('image/photos/jimbaran-pool.jpg')}}"
                      class="owl-slide cover rocket-lazyload height-sm-100">
 
                     <div class="row d-flex justify-content-center text-center pt-2 pt-250">
